@@ -1,1 +1,25 @@
 // custom SCSS (or CSS) goes here
+
+:root {
+  --bg: #f7f7f8;
+  --fg: #1e1e1e;
+  --accent: #10a37f;
+  --radius: 0.75rem;
+}
+
+[data-theme="dark"] {
+  --bg: #1e1e1e;
+  --fg: #f7f7f8;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--fg);
+  font-family: 'Inter', sans-serif;
+}
+
+.navbar, .sidebar {
+  background-color: var(--bg);
+  border-radius: var(--radius);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
