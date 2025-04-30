@@ -1,6 +1,6 @@
 title: AI Assistant - Fluidra Deutschland
 description: Interner AI Assistant der Fluidra Deutschland GmbH
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/fluidra-support" # the subpath of your site, e.g. /blog
 url: "https://bilgery-solutions.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: bilgery-solutions/fluidra-support # for github-metadata
 
