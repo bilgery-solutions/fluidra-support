@@ -1,4 +1,4 @@
 ---
-title: Halogen rotguss Scheinwerfer
+title: Halogen Rotguss Scheinwerfer
 parent: Halogen Scheinwerfer
 ---
