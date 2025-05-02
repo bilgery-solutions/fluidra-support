@@ -1,4 +1,4 @@
 ---
-title: Halogen Scheinwerfer Edelstahl
+title: Halogen Edelstahl Scheinwerfer
 parent: Halogen Scheinwerfer
 ---
