@@ -1,5 +1,7 @@
 # LED Scheinwerfer 20 W, weiss, polyester, Blende VA (PDT00002)
+
 ## Stückliste
+
 |Art.‐Nr.|Artikel‐ Bezeichnung|Modell|Teil Nr.|Menge|Hinweis|
 |---|---|---|---|---|---|
 |D199157461|Lampengehäuse aussen kpl.|UWS LED weiß|4‐8|1|*solange Vorratreicht|
