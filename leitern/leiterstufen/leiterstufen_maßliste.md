@@ -1,5 +1,7 @@
 # Leiterstufen
+
 ## Maßliste
+
 |Art.‐Nr.|Artikel‐ Bezeichnung|Bild|L|B|H|Bemerkung|
 |---|---|---|---|---|---|---|
 |D199151199|Leiterstufe d=40 mm, 24° schräg|X|486 mm|83 mm|46 mm| |
