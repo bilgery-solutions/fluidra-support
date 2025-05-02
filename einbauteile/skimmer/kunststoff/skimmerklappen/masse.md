@@ -3,9 +3,7 @@ title: Skimmerklappen Maße Kunststoff Skimmer
 parent: Kunststoff Skimmer
 ---
 
-# Skimmerklappen Kunststoff Skimmer
-
-## Maße
+# Maße Skimmerklappen für Kunststoff Skimmer
 
 |Art.‐Nr.|Artikel ‐ Bezeichnung|Bild|Breite|Höhe|Bemerkung|
 |---|---|---|---|---|---|
