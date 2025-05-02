@@ -1,5 +1,7 @@
 # Bodenablauf Nr. 3253, Kunststoff (D156100182)
+
 ## Stückliste
+
 |Art.‐Nr.|Artikel‐Bezeichnung|Modell|Teile‐Nr.|Bemerkung|
 |---|---|---|---|---|
 |D199156522|Deckel|3253|1| | |
