@@ -1,5 +1,12 @@
+---
+title: WK 350 / 360
+parent: Einhängeskimmer
+---
+
 # WK 350 / 360
+
 ## Stückliste
+
 |Art.‐Nr.|Artikel‐Bezeichnung|Modell|Teile‐Nr.|Menge|Bemerkung|
 |---|---|---|---|---|---|
 |D299155033|Klemmhalter|WK 360|1|1| |
