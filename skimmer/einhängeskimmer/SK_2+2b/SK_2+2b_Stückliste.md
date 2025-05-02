@@ -1,5 +1,5 @@
 # SK 2 / SK 2 B
-## Ersatzteilliste
+## Stückliste
 |Art.‐Nr.|Artikel‐Bezeichnung|Modell|Teile‐Nr.|Bemerkung|
 |---|---|---|---|---|
 |D199155751|Skim‐Vac|SK 2/ SK 2 B|1| |
