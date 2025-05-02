@@ -1,0 +1,4 @@
+---
+title: Skimmer
+parent: Einbaueile
+---
