@@ -1,4 +1,4 @@
 ---
-title: Halogen Scheinwerfer Kunststoff
+title: Halogen Kunststoff Scheinwerfer
 parent: Halogen Scheinwerfer
 ---
