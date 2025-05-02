@@ -1,5 +1,5 @@
 ---
-title: Skimmerklappen Maße Rotguss Skimmer
+title: Maße Skimmerklappen für Rotguss Skimmer
 parent: Rotguss Skimmer
 ---
 
