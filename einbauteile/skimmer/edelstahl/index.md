@@ -1,4 +1,4 @@
 ---
-title: Skimmer aus Edelstahl
+title: Edelstahl Skimmer
 parent: Skimmer
 ---
