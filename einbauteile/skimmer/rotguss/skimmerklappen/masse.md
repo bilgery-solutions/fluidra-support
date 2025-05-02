@@ -3,9 +3,7 @@ title: Skimmerklappen Maße Rotguss Skimmer
 parent: Rotguss Skimmer
 ---
 
-# Skimmerklappen Rotguss Skimmer
-
-## Maße
+# Maße Skimmerklappen für Rotguss Skimmer
 
 |Art.‐Nr.|Artikel ‐ Bezeichnung|Bild|Breite|Höhe|Bemerkung|
 |---|---|---|---|---|---|
