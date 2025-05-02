@@ -1,5 +1,5 @@
 ---
-title: Skimmerklappen Maße Edelstahl Skimmer
+title: Maße Skimmerklappen für Edelstahl Skimmer
 parent: Edelstahl Skimmer
 ---
 
