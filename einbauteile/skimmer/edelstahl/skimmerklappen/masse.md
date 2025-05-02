@@ -3,9 +3,7 @@ title: Skimmerklappen Maße Edelstahl Skimmer
 parent: Edelstahl Skimmer
 ---
 
-# Skimmerklappen Edelstahl Skimmer
-
-## Maße
+# Maße Skimmerklappen für Edelstahl Skimmer
 
 |Art.‐Nr.|Artikel ‐ Bezeichnung|Bild|Breite|Höhe|Bemerkung|
 |---|---|---|---|---|---|
