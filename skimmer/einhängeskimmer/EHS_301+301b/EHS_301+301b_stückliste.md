@@ -1,5 +1,7 @@
 # EHS 301 / EHS 301 B
+
 ## Stückliste
+
 |Art.‐Nr.|Artikel‐Bezeichnung|Modell|Bemerkung|
 |---|---|---|---|
 |D199155001|Grundplatte mit Anbauteilen|EHS 301|nicht mehr lieferbar|
