@@ -1,5 +1,12 @@
+---
+title: Test
+parent: EHS 301 / EHS 301B
+---
+
 # SK 2 / SK 2 B
+
 ## Stückliste
+
 |Art.‐Nr.|Artikel‐Bezeichnung|Modell|Teile‐Nr.|Bemerkung|
 |---|---|---|---|---|
 |D199155751|Skim‐Vac|SK 2/ SK 2 B|1| |
