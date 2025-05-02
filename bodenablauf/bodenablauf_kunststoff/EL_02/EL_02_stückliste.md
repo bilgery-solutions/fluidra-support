@@ -1,5 +1,7 @@
 # Bodenablauf EL 02 (D156100010)
+
 ## Stückliste
+
 |Art.‐Nr.|Artikel‐Bezeichnung|Modell|Bemerkung|
 |---|---|---|---|
 |D199156011|Antiwirbeldeckel|EL 02|Nicht mehr lieferbar|
