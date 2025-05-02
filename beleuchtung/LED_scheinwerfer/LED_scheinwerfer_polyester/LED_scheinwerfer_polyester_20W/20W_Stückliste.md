@@ -2,9 +2,9 @@
 
 ## Stückliste
 
-|Art.‐Nr.|Artikel‐ Bezeichnung|Modell|Teil Nr.|Menge|Hinweis|
+|Art.‐Nr.|Artikel‐ Bezeichnung|Modell|Teil Nr.|Menge|Bemerkung|
 |---|---|---|---|---|---|
-|D199157461|Lampengehäuse aussen kpl.|UWS LED weiß|4‐8|1|*solange Vorratreicht|
+|D199157461|Lampengehäuse aussen kpl.|UWS LED weiß|4‐8|1|*solange Vorrat reicht|
 |D199157436|Lampengehäuse aussen|UWS LED weiß|6|1|*solange Vorrat reicht|
 |D199157435|Dichtungs‐Ring glatt PY 16|UWS LED weiß|5|1| |
 |D199157433|Kabelverschraubung|UWS LED weiß|8|1| |
