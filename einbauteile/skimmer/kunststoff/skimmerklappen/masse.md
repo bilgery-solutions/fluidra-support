@@ -1,5 +1,5 @@
 ---
-title: Skimmerklappen Maße Kunststoff Skimmer
+title: Maße Skimmerklappen für Kunststoff Skimmer
 parent: Kunststoff Skimmer
 ---
 
