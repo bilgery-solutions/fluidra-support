@@ -1,5 +1,7 @@
 # D&W Scheinwerfer 300W / 12 V aus Kunststoff, Modell 2001
+
 ## stückliste
+
 |Art.‐Nr.|Artikel‐Bezeichnung|Teile‐Nr.|Bemerkung|
 |---|---|---|---|
 |D199157721|Einbautopf|1| |
