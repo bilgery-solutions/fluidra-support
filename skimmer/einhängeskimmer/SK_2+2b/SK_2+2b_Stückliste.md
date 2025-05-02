@@ -1,6 +1,6 @@
 ---
-title: Test
-parent: EHS 301 / EHS 301B
+title: SK 2 / SK 2 B
+parent: Einhängeskimmer
 ---
 
 # SK 2 / SK 2 B
