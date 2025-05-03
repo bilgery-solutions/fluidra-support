@@ -5,6 +5,12 @@ parent: Kunststoff Skimmer
 
 # Stückliste Skimmer AS 50
 
+## Abbildungen
+
+![Abbildung Skimmer AS 50](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/kunststoff/as-50/as-50_mass-zeichnung.png)
+
+## Stückliste
+
 |Art.‐Nr.|Artikel‐Bezeichnung|Modell|Bemerkung|
 |---|---|---|---|
 |D199155801|Gehäuse|AS 50|nicht mehr lieferbar|
