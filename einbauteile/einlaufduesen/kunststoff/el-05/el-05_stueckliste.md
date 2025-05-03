@@ -3,7 +3,13 @@ title: Stückliste Kunststoff Einlaufdüse EL 05
 parent: Kunststoff Einlaufdüse
 ---
 
-# Stückliste Kunststoff Einlaufdüse EL 05 (D156100625)
+# Kunststoff Einlaufdüse EL 05 (D156100625)
+
+## Abbildung
+
+![Abbildung Einlaufdüse EL 05 (D156100625)](https://bilgery-solutions.github.io/fluidra-support/einbauteile/einlaufduesen/kunststoff/el-05/el-05_explosionszeichnung.png)
+
+## Stückliste
 
 |Art.‐Nr.|Artikel ‐ Bezeichnung|Modell|Teile‐Nr.|Menge|Bemerkung|
 |---|---|---|---|---|---|
