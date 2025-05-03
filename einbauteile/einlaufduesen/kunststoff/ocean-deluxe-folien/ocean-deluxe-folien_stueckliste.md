@@ -1,12 +1,18 @@
 ---
-title: Stückliste Kunststoff Einlaufdüse Ocean Deluxe M5 für Folienbecken
+title: Einlaufdüse Ocean Deluxe M5 für Folienbecken
 parent: Kunststoff Einlaufdüsen
 ---
 
-# Stückliste Kunststoff Einlaufdüse Ocean Deluxe M5 für Folienbecken
-  Einlaufdüse weiß für Folienbecken (D156100626)
-  Einlaufdüse grau für Folienbecken (PDV00017)
-  Einlaufdüse für Folienbecken mit VA Blende (PDV00019)
+# Kunststoff Einlaufdüse Ocean Deluxe M5 für Folienbecken
+- Einlaufdüse weiß für Folienbecken (D156100626)
+- Einlaufdüse grau für Folienbecken (PDV00017)
+- Einlaufdüse für Folienbecken mit VA Blende (PDV00019)
+
+## Abildung
+
+![Abbildung Ocean Deluxe M5 für Folienbecken](https://bilgery-solutions.github.io/fluidra-support/einbauteile/einlaufduesen/kunststoff/ocean-deluxe-folien/ocean-deluxe-folien_explosionszeichnung-und-masse.png)
+
+## Stückliste
 
 | Art.-Nr. | Artikel - Bezeichnung   | Modell              | Teile-Nr. | Menge |
 | -------- | ----------------------- | ------------------- | --------- | ----- |
