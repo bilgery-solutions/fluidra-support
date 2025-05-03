@@ -7,7 +7,7 @@ parent: Kunststoff Skimmer
 
 ## Abbildungen
 
-![Abbildung V4A Typ B 300](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/kunststoff/v4a-b-300/v4a-b-300_abbildung.png)
+![Abbildung V4A Typ B 300](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/edelstahl/v4a-b-300/v4a-b-300_abbildung.png)
 
 ## Stückliste
 
