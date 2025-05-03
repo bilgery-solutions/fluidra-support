@@ -1,6 +1,9 @@
-# Einlaufdüse BK 15 (D156100620)
+---
+title: Stückliste Kunststoff Einlaufdüse BK 15
+parent: Kunststoff Einlaufdüse
+---
 
-## Stückliste
+# Stückliste Kunststoff Einlaufdüse BK 15 (D156100620)
 
 |Art.‐Nr.|Artikel ‐ Bezeichnung|Modell|Teile‐Nr.|Menge|Bemerkung|
 |---|---|---|---|---|---|
