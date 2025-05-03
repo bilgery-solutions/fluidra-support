@@ -1,6 +1,6 @@
 ---
 title: Stückliste Bodenablauf aus V4A
-parent: Bodenablauf Kunststoff
+parent: Edelstahl Bodenablauf
 ---
 
 # Stückliste Bodenablauf 2", V4A (D156100065)
