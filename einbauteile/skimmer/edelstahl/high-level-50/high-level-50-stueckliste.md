@@ -1,7 +1,7 @@
 # High Level 50 V4A (PDY00060) Lahme
 
 ## Abbildung
-![Abbildung High Level 50 V4A (PDY00060) Lahme](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/edelstahl/high-level-50/abbildung.png)
+![Abbildung High Level 50 V4A (PDY00060) Lahme](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/edelstahl/high-level-50/high-level-50-abbildung.png)
 
 ## Stückliste
 
