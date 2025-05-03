@@ -1,6 +1,6 @@
 ---
 title: Stückliste Bodenablauf Ocean de Luxe M5
-parent: Bodenablauf Kunststoff
+parent: Kunststoff Bodenablauf
 ---
 
 # Stückliste Bodenablauf Ocean de Luxe M5
