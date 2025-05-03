@@ -1,6 +1,9 @@
-# Einlaufdüse EL 05 (D156100625)
+---
+title: Stückliste Kunststoff Einlaufdüse EL 05
+parent: Kunststoff Einlaufdüse
+---
 
-## Stückliste
+# Stückliste Kunststoff Einlaufdüse EL 05 (D156100625)
 
 |Art.‐Nr.|Artikel ‐ Bezeichnung|Modell|Teile‐Nr.|Menge|Bemerkung|
 |---|---|---|---|---|---|
