@@ -1,9 +1,9 @@
 ---
-title: Z650iQ
+title: ZS500
 parent: Wärmepumpen
 ---
 
-Service Anleitung Z650iQ TD
+Service Anleitung ZS500
 ===========================
 
 # Fehlercodes
