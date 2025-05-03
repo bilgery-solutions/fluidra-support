@@ -3,7 +3,13 @@ title: Stückliste Kunststoff Einlaufdüse EL 02
 parent: Kunststoff Einlaufdüse
 ---
 
-# Stückliste Kunststoff Einlaufdüse EL 02 mit Kombination aus Pressflansch und Kontermutter, 2" AG (D156100067)
+# Kunststoff Einlaufdüse EL 02 mit Kombination aus Pressflansch und Kontermutter, 2" AG (D156100067)
+
+## Abbildung
+
+![Abbildung Einlaufdüse EL 02](https://bilgery-solutions.github.io/fluidra-support/einbauteile/einlaufduesen/kunststoff/el-02/el-02_explosionszeichung.png)
+
+## Stückliste
 
 | Art.-Nr.   | Artikel - Bezeichnung                         | Modell | Teile-Nr. |
 | ---------- | --------------------------------------------- | ------ | --------- |
