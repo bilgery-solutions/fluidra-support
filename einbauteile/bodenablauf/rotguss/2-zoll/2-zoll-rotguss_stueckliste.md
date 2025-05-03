@@ -1,6 +1,6 @@
 ---
 title: Stückliste Bodenablauf aus Rotguss mit V4A-Blende
-parent: Bodenablauf Kunststoff
+parent: Rotguss Bodenablauf
 ---
 
 # Stückliste Bodenablauf 2", Rotguss (Lahme)
