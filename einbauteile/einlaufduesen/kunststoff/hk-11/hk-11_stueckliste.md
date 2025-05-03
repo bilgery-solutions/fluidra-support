@@ -1,9 +1,15 @@
 ---
-title: Stückliste Kunststoff Einlaufdüse HK 11
+title: Einlaufdüse HK 11
 parent: Kunststoff Einlaufdüse
 ---
 
-# Stückliste Kunststoff Einlaufdüse HK 11 mit Pressflansch, 2" AG (D156100001)
+# Kunststoff Einlaufdüse HK 11 mit Pressflansch, 2" AG (D156100001)
+
+## Abbildung
+
+![Abbildung Einlaufdüse HK 11](https://bilgery-solutions.github.io/fluidra-support/einbauteile/einlaufduesen/kunststoff/hk-11/hk-11_explosionszeichnung-mit-massen.png)
+
+## Stückliste
 
 | Art.-Nr.   | Artikel - Bezeichnung               | Modell | Bemerkung               |
 | ---------- | ----------------------------------- | ------ | ----------------------- |
