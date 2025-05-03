@@ -9,7 +9,7 @@ parent: Skimmer
 
 ![Abbildung Flansche und Blendrahmen (Bilder und Maße)](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/flansche-und-blendrahmen/flansche-und-blendrahmen_abbildung.png)
 
-## Stückliste
+# Maßliste
 
 | Art.-Nr. | Artikel-Bezeichnung | L | B | H | |
 | ---------- | ------------------------------------------------- | ------ | ------ | ----- | ----------------------- |
