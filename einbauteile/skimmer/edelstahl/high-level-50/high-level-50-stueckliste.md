@@ -1,3 +1,8 @@
+---
+title: Stückliste Skimmer High Level 50
+parent: Edelstahl Skimmer
+---
+
 # High Level 50 V4A (PDY00060) Lahme
 
 ## Abbildung
