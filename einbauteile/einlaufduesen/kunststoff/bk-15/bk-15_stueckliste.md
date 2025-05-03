@@ -3,7 +3,13 @@ title: Stückliste Kunststoff Einlaufdüse BK 15
 parent: Kunststoff Einlaufdüse
 ---
 
-# Stückliste Kunststoff Einlaufdüse BK 15 (D156100620)
+# Kunststoff Einlaufdüse BK 15 (D156100620)
+
+## Abbildungen
+
+![Abbildung Einlaufdüse BK 15 (D156100620)](https://bilgery-solutions.github.io/fluidra-support/einbauteile/einlaufduesen/kunststoff/bk-15/bk-15_explosionszeichnung.png)
+
+## Stückliste
 
 |Art.‐Nr.|Artikel ‐ Bezeichnung|Modell|Teile‐Nr.|Menge|Bemerkung|
 |---|---|---|---|---|---|
