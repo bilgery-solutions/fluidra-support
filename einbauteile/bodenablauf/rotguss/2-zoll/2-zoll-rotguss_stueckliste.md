@@ -4,6 +4,9 @@ parent: Bodenablauf Kunststoff
 ---
 
 # Stückliste Bodenablauf 2", Rotguss (Lahme)
+- Abgang rechtwinklig (D156100025/2015020)
+- Flanschringsatz (D156100035/2030050)
+- Abgang senkrecht (D156100040/200502)
 
 ## Abbildung
 
