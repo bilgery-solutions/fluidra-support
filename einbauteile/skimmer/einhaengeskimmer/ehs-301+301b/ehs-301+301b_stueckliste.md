@@ -3,7 +3,7 @@ title: EHS 301 / EHS 301B
 parent: Einhängeskimmer
 ---
 
-# EHS 301 / EHS 301 B
+# Einhängeskimmer EHS 301 / EHS 301 B
 
 ## Stückliste
 
