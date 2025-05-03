@@ -5,6 +5,16 @@ parent: Kunststoff Skimmer
 
 # Stückliste Skimmer Neptun (D155100150)
 
+## Abbildungen
+
+![Abbildung Skimmer Neptun (D155100150)](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/kunststoff/neptun/neptun_abbildung.png)
+
+![Abbildung Skimmer Neptun (D155100150)](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/kunststoff/neptun/neptun_explosionszeichnung.png)
+
+![Abbildung Skimmer Neptun (D155100150)](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/kunststoff/neptun/neptun_mass-zeichnung.png)
+
+## Stückliste
+
 |Art.‐Nr.|Artikel‐ Bezeichnung|Modell|Teile‐Nr.|Menge|
 |---|---|---|---|---|
 |D199155254|Skimmerklappe Neptun|Skimmer Neptun|3|1|
