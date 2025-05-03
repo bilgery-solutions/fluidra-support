@@ -5,6 +5,10 @@ parent: Einhängeskimmer
 
 # Einhängeskimmer EHS 301 / EHS 301 B
 
+## Abbildungen
+
+![Abbildung Einhängeskimmer EHS 301 / EHS 301 B](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/einhaengeskimmer/ehs-301+ehs301b/ehs-301+301b_explosionszeichnung.png)
+
 ## Stückliste
 
 |Art.‐Nr.|Artikel‐Bezeichnung|Modell|Bemerkung|
