@@ -4,9 +4,15 @@ parent: Kunststoff Einlaufdüsen
 ---
 
 # Stückliste Kunststoff Einlaufdüse Ocean Deluxe M5 für Fliesen- und Polyesterbecken
-Einlaufdüse weiß für Fliesen- und Polyesterbecken (D156100628)
-Einlaufdüse grau für Fliesenbecken (PDV00016)
-Einlaufdüse für Fliesen- u. Polyesterbecken m. VA Blende (PDV00018)
+- Einlaufdüse weiß für Fliesen- und Polyesterbecken (D156100628)
+- Einlaufdüse grau für Fliesenbecken (PDV00016)
+- Einlaufdüse für Fliesen- u. Polyesterbecken m. VA Blende (PDV00018)
+
+## Abbildung
+
+![Abbildung Ocean Deluxe M5 für Fliesen- und Polyesterbecken](https://bilgery-solutions.github.io/fluidra-support/einbauteile/einlaufduesen/kunststoff/ocean-deluxe-fuer-fliesen-und-polyesterbecken/ocean-deluxe-fuer-fliesen-und-polyesterbecken_explosionszeichnung-und-masse.png)
+
+## Stückliste
 
 | Art.-Nr. | Artikel - Bezeichnung   | Modell              | Teile-Nr. | Menge                   |
 | -------- | ----------------------- | ------------------- | --------- | ----------------------- |
