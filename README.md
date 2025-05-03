@@ -23,3 +23,8 @@
 |   |   |-- Leiter 1
 
 ```
+
+## Bilder / Abbildungen einfügen
+```
+![Beschreibung](https://bilgery-solutions.github.io/fluidra-support/.../Z550iQ-anschluesse.png)
+```
