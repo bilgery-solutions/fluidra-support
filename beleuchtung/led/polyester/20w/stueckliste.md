@@ -1,6 +1,9 @@
-# LED Scheinwerfer 20 W, weiss, polyester, Blende VA (PDT00002)
+---
+title: Stückliste LED Scheinwerfer 20 W, weiss, polyester, Blende VA
+parent: LED Polyester Scheinwerfer
+---
 
-## Stückliste
+# Stückliste LED Scheinwerfer 20 W, weiss, polyester, Blende VA (PDT00002)
 
 |Art.‐Nr.|Artikel‐ Bezeichnung|Modell|Teil Nr.|Menge|Bemerkung|
 |---|---|---|---|---|---|
