@@ -34,4 +34,4 @@ parent: Halogen Polyester Scheinwerfer
 | D199157438 | Befestigungsring KU            | UWS 300/97 weiß | 11            | 1     |           |
 | D199157437 | Dichtung Ø 250 X 210 X 5 mm    | UWS 300/97 weiß | 9             | 2     |           |
 
-*solange Vorrat reicht
+*solange der Vorrat reicht
