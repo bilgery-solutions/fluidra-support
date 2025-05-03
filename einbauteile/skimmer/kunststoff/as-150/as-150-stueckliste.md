@@ -3,7 +3,12 @@ title: Stückliste Skimmer AS 150
 parent: Kunststoff Skimmer
 ---
 
-## Skimmer AS 150 (mit rundem Deckel)
+# Skimmer AS 150 (mit rundem Deckel)
+
+## Abbildung
+![Abbildung AS 150 (mit rundem Deckel)](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/kunststoff/as-150/as-150-abbildung.png)
+
+## Stückliste
 
 | Art.-Nr. | Artikel-Bezeichnung | Modell | |
 | ---------- | ------------------- | ------ | ----------------------- |
