@@ -1,6 +1,6 @@
 ---
 title: Stückliste Bodenablauf BK 10
-parent: Bodenablauf Kunststoff
+parent: Kunststoff Bodenablauf
 ---
 
 # Stückliste Bodenablauf BK 10 (D156100601)
