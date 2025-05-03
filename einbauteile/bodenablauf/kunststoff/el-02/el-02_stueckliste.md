@@ -7,7 +7,7 @@ parent: Kunststoff Bodenablauf
 
 ## Abbildung
 
-![Abbildung EL 02 (D156100010)](https://bilgery-solutions.github.io/fluidra-support/einbauteile/einlaufduesen/kunststoff/el-02/el-02_explosionszeichnung.png)
+![Abbildung EL 02 (D156100010)](https://bilgery-solutions.github.io/fluidra-support/einbauteile/bodenablauf/kunststoff/el-02/el-02_explosionszeichnung.png)
 
 ## Stückliste
 
