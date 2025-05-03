@@ -3,7 +3,13 @@ title: Stückliste Edelstahl Bodenablauf Lahme V4A
 parent: Bodenablauf Edelstahl
 ---
 
-# Stückliste Edelstahl Bodenablauf Lahme V4A (PDY00058)
+# Edelstahl Bodenablauf Lahme V4A (PDY00058)
+
+## Abbildung
+
+![Abbildung Lahme V4A (PDY00058)](https://bilgery-solutions.github.io/fluidra-support/einbauteile/einlaufduesen/kunststoff/lahme-v4a/lahme-v4a_abbildung.png)
+
+## Stückliste
 
 | Art.-Nr.   | Artikel-Bezeichnung                | Modell          |
 | ---------- | ---------------------------------- | --------------- |
