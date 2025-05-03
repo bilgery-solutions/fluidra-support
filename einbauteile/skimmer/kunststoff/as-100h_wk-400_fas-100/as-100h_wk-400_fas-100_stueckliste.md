@@ -5,6 +5,10 @@ parent: Kunststoff Skimmer
 
 # Stückliste Skimmer AS 100 H / WK 400 / FAS 100
 
+## Abbildungen
+
+![Abbildung Skimmer AS 100 H / WK 400 / FAS 100](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/kunststoff/as-100h_wk-400_fas-100/as-100h_wk-400_fas-100_mass-zeichnung.png)
+
 |Art.‐Nr.|Artikel‐Bezeichnung|Modell|Bemerkung|
 |---|---|---|---|
 |D199155099|Abdeckblende|AS 100 H / WK 400| |
