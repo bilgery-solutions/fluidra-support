@@ -3,7 +3,13 @@ title: Stückliste Kunststoff Bodenablauf Nr. 3253
 parent: Kunststoff Bodenablauf
 ---
 
-# Stückliste Kunststoff Bodenablauf Nr. 3253 (D156100182)
+# Kunststoff Bodenablauf Nr. 3253 (D156100182)
+
+## Abbildung
+
+![Abbildung Bodenablauf Nr. 3253 (D156100182)](https://bilgery-solutions.github.io/fluidra-support/einbauteile/bodenablauf/kunststoff/nr-3253/nr-3253_explosionszeichnung.png)
+
+## Stückliste
 
 |Art.‐Nr.|Artikel‐Bezeichnung|Modell|Teile‐Nr.|Bemerkung|
 |---|---|---|---|---|
