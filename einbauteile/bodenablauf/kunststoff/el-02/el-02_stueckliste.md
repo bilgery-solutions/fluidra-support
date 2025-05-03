@@ -3,7 +3,13 @@ title: Stückliste Bodenablauf EL 02
 parent: Kunststoff Bodenablauf
 ---
 
-# Stückliste Bodenablauf EL 02 (D156100010)
+# Bodenablauf EL 02 (D156100010)
+
+## Abbildung
+
+![Abbildung EL 02 (D156100010)](https://bilgery-solutions.github.io/fluidra-support/einbauteile/einlaufduesen/kunststoff/el-02/el-02_explosionszeichnung.png)
+
+## Stückliste
 
 |Art.‐Nr.|Artikel‐Bezeichnung|Modell|Bemerkung|
 |---|---|---|---|
