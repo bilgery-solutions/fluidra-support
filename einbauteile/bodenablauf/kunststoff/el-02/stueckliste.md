@@ -1,6 +1,9 @@
-# Bodenablauf EL 02 (D156100010)
+---
+title: Stückliste Bodenablauf EL 02
+parent: Bodenablauf Kunststoff
+---
 
-## Stückliste
+# Stückliste Bodenablauf EL 02 (D156100010)
 
 |Art.‐Nr.|Artikel‐Bezeichnung|Modell|Bemerkung|
 |---|---|---|---|
@@ -8,5 +11,5 @@
 |D199156012|PVC ‐ Dichtung|EL 02| |
 |D199156013|Flanschring|EL 02|*solange Vorrat reicht|
 |D199156014|Schraubensatz, kpl.|EL 02|Nicht mehr lieferbar|
-|D199156015|Gehäusekörper|EL 02| |*solange Vorrat reicht|
+|D199156015|Gehäusekörper|EL 02|*solange Vorrat reicht|
 |D199156710|PVC‐Dichtung, selbstklebend|EL 02|Nicht mehr lieferbar|
