@@ -1,6 +1,6 @@
 ---
 title: Stückliste Bodenablauf EL 02
-parent: Bodenablauf Kunststoff
+parent: Kunststoff Bodenablauf
 ---
 
 # Stückliste Bodenablauf EL 02 (D156100010)
