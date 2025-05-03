@@ -3,7 +3,11 @@ title: SK 2 / SK 2 B
 parent: Einhängeskimmer
 ---
 
-# SK 2 / SK 2 B
+# Einhängeskimmer SK 2 / SK 2 B
+
+## Abbildung
+
+![Abbildung Einhängeskimmer SK 2 / SK 2 B](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/einhaengeskimmer/sk-2+2b/sk-2+2b_explosionszeichnung.png)
 
 ## Stückliste
 
