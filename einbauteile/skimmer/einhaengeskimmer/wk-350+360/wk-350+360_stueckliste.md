@@ -3,7 +3,11 @@ title: WK 350 / 360
 parent: Einhängeskimmer
 ---
 
-# WK 350 / 360
+# Einhängeskimmer WK 350 / 360
+
+## Abbildung
+
+![Abbildung Einhängeskimmer WK 350 / 360](https://bilgery-solutions.github.io/fluidra-support/einbauteile/skimmer/einhaengeskimmer/wk-350+360/wk-350+360_explosionszeichnung.png)
 
 ## Stückliste
 
