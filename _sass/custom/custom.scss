@@ -33,3 +33,10 @@ a, .main-content .anchor-heading svg, .search-result-doc .search-result-icon, .s
 .site-logo {
   background-size: cover;
 }
+
+// Search
+@media (min-width: 50rem) {
+  .search-results, .search-active .search-input-wrap, .search-input {
+    width: 100%;
+  }
+}
