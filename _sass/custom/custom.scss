@@ -36,7 +36,8 @@ a, .main-content .anchor-heading svg, .search-result-doc .search-result-icon, .s
 
 // Search
 @media (min-width: 50rem) {
-  .search-results, .search-active .search-input-wrap, .search-input {
+  .search-results, .search-active .search-input-wrap, .search-input, .search-input-wrap {
     width: 100%;
+    max-width: 100%;
   }
 }
