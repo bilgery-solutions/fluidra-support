@@ -14,7 +14,7 @@ Willkommen beim digitalen Assistenten für Produktinformationen.
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 ">
-  <h2>Produktspezifische Antworten per KI</h2>
+  <h2 style="margin-top: 0;">Produktspezifische Antworten per KI</h2>
   <p style="margin-bottom: 1.5rem">
     Nutze unseren intelligenten Assistenten, um präzise Informationen zu unseren Produkten zu erhalten – auf Basis unseres aktuellen Produktwissens.
   </p>
