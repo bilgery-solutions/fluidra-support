@@ -19,7 +19,7 @@ jobs:
         # run: pip install -r scripts/requirements.txt
 
       - name: Extract Markdown files
-        run: python lib/tasks/extract_markdown.py
+        run: python lib/extract_markdown.py
 
       - name: Upload Markdown output as artifact
         uses: actions/upload-artifact@v4
