@@ -2,25 +2,42 @@ import os
 from pathlib import Path
 import shutil
 
-# Verzeichnisse definieren
-REPO_ROOT = Path(__file__).resolve().parent.parent
-OUTPUT_DIR = REPO_ROOT / "_data"
+# Basisverzeichnisse definieren
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPO_ROOT = SCRIPT_DIR.parent
+OUTPUT_DIR = REPO_ROOT / "output"
 
-# Vorherige Ausgabe löschen
+# Ordner neu anlegen
 if OUTPUT_DIR.exists():
     shutil.rmtree(OUTPUT_DIR)
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Alle Markdown-Dateien im Repo durchgehen
+EXCLUDED_NAMES = {"readme.md", "index.md"}
+exported_files = []
+
 for md_file in REPO_ROOT.rglob("*.md"):
-    # Nur Dateien innerhalb des Repos (nicht in .git, .github, output etc.)
-    if any(part in md_file.parts for part in [".git", ".github", "_data"]):
+    # Ordner ausschließen
+    if any(part in md_file.parts for part in [".git", ".github", "output"]):
         continue
 
-    # Zieldatei speichern
-    rel_path = md_file.relative_to(REPO_ROOT)
-    dest_file = OUTPUT_DIR / rel_path
-    dest_file.parent.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(md_file, dest_file)
+    # Exkludiere bestimmte Dateinamen (case-insensitive)
+    if md_file.name.lower() in EXCLUDED_NAMES:
+        continue
 
-print(f"✅ Exportiert: {len(list(OUTPUT_DIR.rglob('*.md')))} Markdown-Dateien.")
+    base_name = md_file.name
+
+    # Prüfen, ob es zu Namenskonflikten kommen kann
+    dest_file = OUTPUT_DIR / base_name
+    if dest_file.exists():
+        # Übergeordneten Ordnernamen holen und mit Unterstrich prefixen
+        parent_name = md_file.parent.name
+        new_name = f"{parent_name}_{base_name}"
+        dest_file = OUTPUT_DIR / new_name
+
+    shutil.copy2(md_file, dest_file)
+    exported_files.append(dest_file.name)
+
+# Ausgabe
+print(f"✅ {len(exported_files)} Markdown-Dateien exportiert:")
+for f in sorted(exported_files):
+    print(" -", f)
