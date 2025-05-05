@@ -14,7 +14,7 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 # Alle Markdown-Dateien im Repo durchgehen
 for md_file in REPO_ROOT.rglob("*.md"):
     # Nur Dateien innerhalb des Repos (nicht in .git, .github, output etc.)
-    if any(part in md_file.parts for part in [".git", ".github", "output"]):
+    if any(part in md_file.parts for part in [".git", ".github", "_data"]):
         continue
 
     # Zieldatei speichern
