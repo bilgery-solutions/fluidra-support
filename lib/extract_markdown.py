@@ -3,9 +3,8 @@ from pathlib import Path
 import shutil
 
 # Basisverzeichnisse definieren
-SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent
-OUTPUT_DIR = REPO_ROOT / "output"
+REPO_ROOT = Path(__file__).resolve().parent.parent
+OUTPUT_DIR = REPO_ROOT / "_data"
 
 # Ordner neu anlegen
 if OUTPUT_DIR.exists():
@@ -17,7 +16,7 @@ exported_files = []
 
 for md_file in REPO_ROOT.rglob("*.md"):
     # Ordner ausschließen
-    if any(part in md_file.parts for part in [".git", ".github", "output"]):
+    if any(part in md_file.parts for part in [".git", ".github", "_data", "_includes", "_layouts", "_saas", "assets"]):
         continue
 
     # Exkludiere bestimmte Dateinamen (case-insensitive)
