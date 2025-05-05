@@ -1,42 +1,52 @@
-import os
 from pathlib import Path
-import shutil
 
-# Basisverzeichnisse definieren
+# Projektstruktur definieren
 REPO_ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = REPO_ROOT / "_data"
+COMBINED_FILE = OUTPUT_DIR / "combined.md"
 
-# Ordner neu anlegen
-if OUTPUT_DIR.exists():
-    shutil.rmtree(OUTPUT_DIR)
+# Ausschlüsse definieren
+EXCLUDED_DIRS = {".git", ".github", "_data", "_includes", "_layouts", "_saas", "assets"}
+EXCLUDED_NAMES = {"readme.md", "index.md"}
+
+# Zielordner erstellen, wenn nötig
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-EXCLUDED_NAMES = {"readme.md", "index.md"}
-exported_files = []
+# Alte Datei löschen, falls vorhanden
+if COMBINED_FILE.exists():
+    COMBINED_FILE.unlink()
 
-for md_file in REPO_ROOT.rglob("*.md"):
-    # Ordner ausschließen
-    if any(part in md_file.parts for part in [".git", ".github", "_data", "_includes", "_layouts", "_saas", "assets"]):
-        continue
+# Markdown-Dateien sammeln und kombinieren
+added_files = []
+written_names = set()
 
-    # Exkludiere bestimmte Dateinamen (case-insensitive)
-    if md_file.name.lower() in EXCLUDED_NAMES:
-        continue
+with open(COMBINED_FILE, "w", encoding="utf-8") as outfile:
+    for md_file in REPO_ROOT.rglob("*.md"):
+        # Verzeichnisse ausschließen
+        if any(part in EXCLUDED_DIRS for part in md_file.parts):
+            continue
 
-    base_name = md_file.name
+        # Bestimmte Dateinamen ignorieren
+        if md_file.name.lower() in EXCLUDED_NAMES:
+            continue
 
-    # Prüfen, ob es zu Namenskonflikten kommen kann
-    dest_file = OUTPUT_DIR / base_name
-    if dest_file.exists():
-        # Übergeordneten Ordnernamen holen und mit Unterstrich prefixen
-        parent_name = md_file.parent.name
-        new_name = f"{parent_name}_{base_name}"
-        dest_file = OUTPUT_DIR / new_name
+        base_name = md_file.name
+        dest_name = base_name
 
-    shutil.copy2(md_file, dest_file)
-    exported_files.append(dest_file.name)
+        # Namenskonflikt: Ordnername voranstellen
+        if dest_name in written_names:
+            parent_name = md_file.parent.name
+            dest_name = f"{parent_name}_{base_name}"
 
-# Ausgabe
-print(f"✅ {len(exported_files)} Markdown-Dateien exportiert:")
-for f in sorted(exported_files):
-    print(" -", f)
+        # Abschnitt schreiben
+        outfile.write(f"# File: {dest_name}\n\n")
+        content = md_file.read_text(encoding="utf-8")
+        outfile.write(content.strip() + "\n\n---\n\n")
+
+        added_files.append(dest_name)
+        written_names.add(dest_name)
+
+# Zusammenfassung ausgeben
+print(f"✅ Kombinierte Datei erstellt mit {len(added_files)} Markdown-Dateien:")
+for name in added_files:
+    print(" -", name)
