@@ -1,6 +1,6 @@
 ---
 title: Einlaufdüse HK 11
-parent: Kunststoff Einlaufdüse
+parent: Kunststoff Einlaufdüsen
 ---
 
 # Kunststoff Einlaufdüse HK 11 mit Pressflansch, 2" AG (D156100001)
