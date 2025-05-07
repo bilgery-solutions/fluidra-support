@@ -1,4 +1,4 @@
 ---
 title: Dosieranlagen (flüssig Chlor)
-parent: Automatische Wasseraufbereitung
+parent: Automatische Wasseraufbereitung & Poolsteuerungen
 ---
