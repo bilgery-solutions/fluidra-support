@@ -1,6 +1,6 @@
 ---
 title: eXO-iQ FAQ
-parent: Salzwasser Elektrolyse Geräte
+parent: Zodiac Salzwasser Elektrolyse Geräte
 ---
 
 # eXO-iQ FAQ
