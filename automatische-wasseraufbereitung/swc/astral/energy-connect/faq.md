@@ -1,6 +1,6 @@
 ---
 title: Energy Connect FAQ
-parent: Salzwasser Elektrolyse Geräte
+parent: Astral Salzwasser Elektrolyse Geräte
 ---
 
 # Energy Connect FAQ
