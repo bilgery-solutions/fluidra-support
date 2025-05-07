@@ -14,11 +14,11 @@ Willkommen beim digitalen Assistenten für Produktinformationen.
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 ">
-  <h2 style="margin-top: 0;">Produktspezifische Antworten per KI</h2>
+  <h2 style="margin-top: 0;">Produktspezifische Antworten per KI (coming soon)</h2>
   <p style="margin-bottom: 1.5rem">
     Nutze unseren intelligenten Assistenten, um präzise Informationen zu unseren Produkten zu erhalten – auf Basis unseres aktuellen Produktwissens.
   </p>
-  <a href="https://chatgpt.com/g/g-67fe8b444cb48191b868d5a3cf61c380-ai-assistant" style="
+  <!--<a href="https://chatgpt.com/g/g-67fe8b444cb48191b868d5a3cf61c380-ai-assistant" style="
     display: inline-block;
     padding: 0.75rem 1.25rem;
     background-color: #001971;
@@ -26,9 +26,9 @@ Willkommen beim digitalen Assistenten für Produktinformationen.
     text-decoration: none;
     border-radius: 8px;
     font-weight: 600;
-  ">
+  "">
     AI Assistant starten
-  </a>
+  </a>-->
 </div>
 
 ### Nutzungsbedingungen
