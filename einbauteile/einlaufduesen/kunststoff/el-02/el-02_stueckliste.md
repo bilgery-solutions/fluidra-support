@@ -1,6 +1,6 @@
 ---
 title: Stückliste Kunststoff Einlaufdüse EL 02
-parent: Kunststoff Einlaufdüse
+parent: Kunststoff Einlaufdüsen
 ---
 
 # Kunststoff Einlaufdüse EL 02 mit Kombination aus Pressflansch und Kontermutter, 2" AG (D156100067)
