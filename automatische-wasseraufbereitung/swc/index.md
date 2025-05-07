@@ -1,4 +1,4 @@
 ---
 title: Salzwasser Elektrolyse Geräte
-parent: Automatische Wasseraufbereitung
+parent: Automatische Wasseraufbereitung & Poolsteuerungen
 ---
