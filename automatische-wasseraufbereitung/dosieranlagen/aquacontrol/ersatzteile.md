@@ -10,7 +10,7 @@ parent: Dosieranlagen (flüssig Chlor)
 | SKU | Bezeichnung | Bemerkung
 | --- | --- | --- |
 | AC20101 | pH Sensor (auch Elektrode oder Sonde genannt) | Für **alle** Aquacontrol Dosieranlagen geeignet |
-| AC20301 | Redox Sensor (auch Elektrode oder Sonde genannt) | Für **alle* Aquacontrol Dosieranlagen für flüssig Chlor geeignet |
+| AC20301 | Redox Sensor (auch Elektrode oder Sonde genannt) | Für **alle** Aquacontrol Dosieranlagen für flüssig Chlor geeignet |
 | AC20562 | Pufferlösung pH 7 | Zum kalibrieren der pH Sensoren |
 | AC20561 | Pufferlösung pH 4 | Zum kalibrieren der pH Sensoren |
 | AC20560 | Pufferlösung 475mV | Zum Überprüfen der Funktion des Redox Sensors |
