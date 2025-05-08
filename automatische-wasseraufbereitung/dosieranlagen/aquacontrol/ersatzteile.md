@@ -40,7 +40,7 @@ parent: Dosieranlagen (flüssig Chlor)
 
 | SKU | Bezeichnung | Bemerkung |
 | --- | --- | --- |
-| D199166742 | Impfventil Viton | Für **alle** Aquacontrol Dosieranlagen |
+| D199166742 | Impfventil 3/8" Außengewinde für 6/4 Schlauch | Für **alle** Aquacontrol Dosieranlagen |
 
 ## Wasserfühler
 
