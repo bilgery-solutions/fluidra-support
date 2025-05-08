@@ -1,9 +1,9 @@
 ---
-title: Gängige Ersatzteile für Aquacontrol Dosieranlagen
+title: Wichtige Ersatzteile für Aquacontrol Dosieranlagen
 parent: Dosieranlagen (flüssig Chlor)
 ---
 
-# Gängige Ersatzteile für Aquacontrol Dosieranlagen
+# Wichtige Ersatzteile für Aquacontrol Dosieranlagen
 
 ## pH und Redox Sensoren + Zubehör
 
@@ -36,3 +36,14 @@ parent: Dosieranlagen (flüssig Chlor)
 | 47191071 | Sauglanzen Paar | Für **alle** Aquacontrol Dosieranlagen |
 | 20442 | Doppelstecker für Sauglanzen | Zum Verbinden von zwei Sauglanzen zu einem Paar |
 
+## Impfventile
+
+| SKU | Bezeichnung | Bemerkung |
+| --- | --- | --- |
+| D199166742 | Impfventil Viton | Für **alle** Aquacontrol Dosieranlagen |
+
+## Wasserfühler
+
+| SKU | Bezeichnung | Bemerkung |
+| --- | --- | --- |
+| D145300104 | Wasserfühler mit 5m Kabel | Für **alle** Aquacontrol Dosieranlagen |
