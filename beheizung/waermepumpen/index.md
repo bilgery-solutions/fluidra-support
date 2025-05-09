@@ -1,6 +1,7 @@
 ---
 title: Wärmepumpen
-nav_order: 2
+parent: Beheizung
+nav_order: 1
 ---
 
 # Wärmepumpen
