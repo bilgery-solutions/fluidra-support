@@ -1,6 +1,6 @@
 ---
 title: Stückliste Zodiac Z550 iQ Wärmepumpe
-parent: Z500 iQ
+parent: Z550 iQ
 ---
 
 # Stückliste Zodiac Z550 iQ Wärmepumpe
