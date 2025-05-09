@@ -1,5 +1,6 @@
 ---
 title: Allgemeine Problemlösungen Wärmepumpen
+parent: Wärmepumpen
 ---
 
 # Allgemeine Problemlösungen Wärmepumpen
