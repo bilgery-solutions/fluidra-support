@@ -1,9 +1,9 @@
 ---
-title: Stückliste Z350 iQ
-parent: Z350 iQ
+title: Stückliste Z350iQ
+parent: Z350iQ
 ---
 
-# Stückliste Z350 iQ
+# Stückliste Z350iQ
 
 | Artikelnummer   | Bezeichnung                    | Variante                                                                              |
 |:----------------|:-------------------------------|:--------------------------------------------------------------------------------------|
