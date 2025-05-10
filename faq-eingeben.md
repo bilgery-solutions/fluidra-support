@@ -4,8 +4,7 @@ nav_exclude: true
 
 # FAQ eingeben
 
-<form method="POST" action="https://fluidra-data-ingest.azurewebsites.net/api/feedback"
-    style="max-width: 100%;padding: 1.5rem;border-radius: 10px;box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<form method="POST" action="https://fluidra-data-ingest.azurewebsites.net/api/feedback" style="max-width: 100%;padding: 1.5rem;border-radius: 10px;box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     <input type="text" name="full_name" style="display:none" tabindex="-1" autocomplete="off" />
     <h2 style="margin-top: 0;">Titel<h2>
     <input type="text" name="title" required style="width:100%;border: 1px solid #ccc;border-radius:10px;"/>
