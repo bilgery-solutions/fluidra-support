@@ -1,9 +1,11 @@
 ---
-title: Technische Spezifikationen Z250 iQ
+title: Technische Spezifikationen Z250 + Z250 iQ
 parent: Z250 + Z250 iQ
 ---
 
-# Technische Spezifikationen Z250 iQ
+# Technische Spezifikationen Z250 + Z250 iQ
+
+## Leistungsangaben
 
 ### Leistungen: Luft bei 26 °C / Wasser bei 26 °C / Luftfeuchtigkeit 80 %
 
@@ -32,6 +34,7 @@ parent: Z250 + Z250 iQ
 | Abgegebene Leistung<br/>(max. - min. Geschwindigkeit)   | kW | 18,0 - 4,9 | 24,0 - 6,3 | 15,0 - 5,4 | 18,0 - 4,9 | 24,0 - 6,3 |
 | Aufgenommene Leistung<br/>(max. - min. Geschwindigkeit) | kW | 3,9 - 0,6  | 5,3 - 0,8  | 3,2 - 0,7  | 3,9 - 0,6  | 5,3 - 0,8  |
 | Mittlerer COP<br/>(max. - min. Geschwindigkeit)         |    | 4,5 - 7,8  | 4,5 - 7,5  | 4,6 - 7,4  | 4,5 - 7,8  | 4,5 - 7,5  |
+
 
 |                               |             |                                                                                                 |
 | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------- |
@@ -74,4 +77,19 @@ parent: Z250 + Z250 iQ
 | Empfohlener Wasserdurchsatz                            | m³/h             | 8       | 11      | 7       | 8       | 11      |
 | Füllmenge vom Kältemittel                              | kg               | 1,25    | 1,55    | 1,0     | 1,25    | 1,55    |
 |                                                        | Äquiv. Tonne CO2 | 0,84    | 1,05    | 0,68    | 0,84    | 1,05    |
-| Ungefähres Gewicht                                     | kg               | 88,5    | 107     | 73,5    | 92      | 103     ||
+| Ungefähres Gewicht                                     | kg               | 88,5    | 107     | 73,5    | 92      | 103     |
+
+## Abmessungen
+
+|      | A   | B    | C     | D   | E   | F   | G   |
+| ---- | --- | ---- | ----- | --- | --- | --- | --- |
+| MD3  | 646 | 823  | 339,5 | 590 | 375 | 300 | 93  |
+| MD4  |     | 823  |       | 590 |     | 260 | 103 |
+| MD5  |     | 823  |       | 590 |     | 260 | 103 |
+| MD6  | 746 | 906  | 359   | 593 | 395 | 330 | 93  |
+| MD8  |     | 1103 |       | 790 |     | 350 |     |
+| MD9  |     | 1103 |       | 790 |     | 350 |     |
+| MD12 | 846 | 1133 | 509,5 | 743 | 545 | 367 |     |
+| TD8  |     |      |       |     |     | 430 |     |
+| TD9  |     |      |       |     |     |     |     |
+| TD12 | 846 | 1133 | 509,5 | 743 | 545 | 430 |     |
