@@ -1,9 +1,9 @@
 ---
-title: Fehlercodes Z250 iQ
+title: Fehlercodes Z250 + Z250iQ
 parent: Z250 + Z250 iQ
 ---
 
-# Fehlerbehebung Z250 iQ
+# Fehlerbehebung Z250 + Z250 iQ
 
 ## Geräteverhalten
 
