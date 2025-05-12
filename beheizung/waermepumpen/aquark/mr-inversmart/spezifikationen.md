@@ -5,6 +5,8 @@ parent: Mr. Inversmart
 
 # Technische Spezifikationen Mr. Inversmart
 
+## Technische Daten
+
 |Modell|SC974|SC975|SC976|SC977|SC978|SC979|
 |---|---|---|---|---|---|---|
 |Empfohlenes Poolvolumen (m³) *|15~30|20~50|30~60|40~75|50~90|60~110|
