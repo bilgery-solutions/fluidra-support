@@ -1,7 +1,4 @@
----
-title: Fehlerbehebung ZS500
-parent: ZS500
----
+
 
 Service Anleitung ZS500
 ===========================
