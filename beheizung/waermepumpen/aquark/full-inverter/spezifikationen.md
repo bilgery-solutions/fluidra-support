@@ -5,6 +5,8 @@ parent: Full Inverter
 
 # Technische Spezifikationen Full Inverter
 
+## Technische Daten
+
 |Modell|SC980|SC981|SC982|SC983|SC984|SC985|
 |---|---|---|---|---|---|---|
 |Stromversorgung|220–240V / 50Hz|220–240V / 50Hz|220–240V / 50Hz|220–240V / 50Hz|220–240V / 50Hz|220–240V / 50Hz|
