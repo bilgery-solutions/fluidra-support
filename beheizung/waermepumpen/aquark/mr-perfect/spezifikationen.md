@@ -5,6 +5,8 @@ parent: Mr. Perfect
 
 # Technische Spezifikationen Mr. Perfect
 
+## Technische Daten
+
 |Modell|SC964|SC965|SC966|SC967|SC968|SC969|
 |---|---|---|---|---|---|---|
 |Betriebstemperaturbereich Luft (°C)|-15~43|-15~43|-15~43|-15~43|-15~43|-15~43|
