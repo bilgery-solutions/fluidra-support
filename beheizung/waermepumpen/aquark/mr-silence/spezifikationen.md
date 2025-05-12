@@ -5,6 +5,8 @@ parent: Mr. Silence
 
 # Technische Spezifikationen Mr. Silence
 
+## Technische Daten
+
 |Modell|SC947|SC948|SC949|SC950|SC951|SC952|
 |---|---|---|---|---|---|---|
 |Empfohlenes Poolvolumen (m³) *|20~45|30~55|35~65|40~80|50~95|60~120|
