@@ -1,4 +1,4 @@
 ---
-title: Aquark Wärmepumpen (Meranus & Aquaforte)
+title: Aquark Wärmepumpen
 parent: Wärmepumpen
 ---
