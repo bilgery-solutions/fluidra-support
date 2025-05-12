@@ -1,6 +1,6 @@
 ---
 title: Stückliste Z350iQ
-parent: Z350iQ
+parent: Z350 iQ
 ---
 
 # Stückliste Z350iQ
