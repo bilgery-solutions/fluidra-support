@@ -48,3 +48,22 @@ parent: ZS500
 | **Fehler 12**<br/>Sensorfehler ST5 (Sensor am Verdichteraustritt) | Sensor defekt oder getrennt (J13-Stecker) | Sensor wieder anschließen oder austauschen | ⏻ drücken |
 | **Fehler 13**<br/>Sensorfehler ST4 (Sensor an der Kältemittelleitung) | Sensor defekt oder getrennt (J16-Stecker) | Sensor wieder anschließen oder austauschen | ⏻ drücken |
 | **Fehler 14**<br/>Sensorfehler ST1 (Wasserzulaufsensor) | Sensor defekt oder getrennt (J46-Stecker) | Sensor wieder anschließen oder austauschen | ⏻ drücken |
+
+## Technische Spezifikationen
+
+| **ZS500** | Einheit | MD4 | MD5 | TD5 | MD8 | TD8 |
+| --------- | ------- | ---- | ---- | ---- | ---- | ---- |
+| Betriebstemperaturbereich | Luft | -12 bis 40 °C | -12 bis 40 °C | -12 bis 40 °C | -12 bis 40 °C | -12 bis 40 °C |
+| Betriebstemperaturbereich | Wasser | 12 bis 32 °C | 12 bis 32 °C | 12 bis 32 °C | 12 bis 32 °C | 12 bis 32 °C |
+| Stromversorgung |  | 220–240 V / 50 Hz | 220–240 V / 50 Hz | 380–415 V / 50 Hz | 220–240 V / 50 Hz | 380–415 V / 50 Hz |
+| Zulässige Netzspannungsschwankung |  | ±6 % (im Betrieb) | ±6 % (im Betrieb) | ±6 % (im Betrieb) | ±6 % (im Betrieb) | ±6 % (im Betrieb) |
+| Verschmutzungsklasse |  | I | I | I | I | I |
+| Verschmutzungsgrad |  | 2 | 2 | 2 | 2 | 2 |
+| Überspannungskategorie |  | III | III | III | III | III |
+| Nennstromaufnahme | A | 7,5 | 10 | 4,4 | 15 | 6 |
+| Max. Stromaufnahme | A | 10 | 13,9 | 6 | 22 | 8 |
+| Mindestleiterquerschnitt | mm² | 3 x 2,5 | 3 x 2,5 | 5 x 2,5 | 3 x 6 | 5 x 2,5 |
+| Prüfdruck | Pa | 300.000 | 300.000 | 300.000 | 300.000 | 300.000 |
+| Betriebsdruck | Pa | 150.000 | 150.000 | 150.000 | 150.000 | 150.000 |
+| Druckverlust | mWS (Meter Wassersäule) | 1,5 | 1,5 | 1,5 | 1,5 | 1,5 |
+| Empfohlener Wasserdurchfluss | m³/h | 4 | 5 | 5 | 6 | 6 |
