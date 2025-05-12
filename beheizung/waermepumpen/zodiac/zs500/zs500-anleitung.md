@@ -1,6 +1,6 @@
 ---
-title: ZS500
-parent: Zodiac Wärmepumpen
+title: Fehlerbehebung ZS500
+parent: ZS500
 ---
 
 Service Anleitung ZS500
