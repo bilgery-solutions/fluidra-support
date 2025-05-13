@@ -1,0 +1,643 @@
+---
+nav_exclude: true
+---
+
+# Anleitung Zodiac Z550iQ Wärmepumpe
+
+# 1 Installation
+
+## 1.1 Auswahl des Installationsortes
+
+> ⚠️ **WARNUNG**
+> * Wenn das Gerät durch eine Fehlerstromschutzeinrichtung mit einer maximalen Stromstärke von 30 mA geschützt ist, muss es in einem Abstand von mindestens 2 Metern vom Beckenrand installiert werden.
+> * Das Gerät nicht am Gehäuse, sondern am Boden anheben.
+
+* Bei einer Installation im Freien einen Freiraum rund um das Gerät vorsehen (siehe § „1.2 I Hydraulische Anschlüsse").
+* Bei einer Inneninstallation muss das Gerät unbedingt mit dem Bausatz für den Technikraum ausgestattet sein.
+* Das Gerät auf seine Antivibrationsfüße (unten im Boden eingebaut, höhenverstellbar) auf eine stabile, solide und ebene Fläche stellen.
+* Diese Fläche muss das Gewicht des Gerätes tragen können (insbesondere bei einer Installation auf einem Dach, einem Balkon oder einer ähnlichen Fläche).
+
+Das Gerät darf nicht wie folgt installiert werden:
+* mit dem Gebläse in Richtung eines in einem Abstand von weniger als 5 m befindlichen dauerhaften oder temporären Hindernisses (Schutzdach, Geäste ...),
+* auf Montagekonsolen,
+* in Reichweite von Bewässerungsanlagen, Spritzern oder Wasser- oder Schlammabflüssen (Windeinwirkung berücksichtigen),
+* in der Nähe einer Wärmequelle oder eines entzündbaren Gases,
+* in der Nähe von Hochfrequenzgeräten,
+* an einem Ort, wo es Schneeverwehungen ausgesetzt wäre,
+* an einem Ort, wo es durch die vom Gerät im Betrieb erzeugten Kondensate überschwemmt werden könnte.
+
+> **Empfehlung: eventuelle Lärmbelastungen durch die Wärmepumpe mindern**
+> * Nicht unter einem Fenster oder in Richtung eines Fensters installieren.
+> * Nicht zu den Nachbarn hin richten.
+> * Das Gerät in einem hohlen Raum installieren (die Schallwellen werden an den Flächen reflektiert).
+> * Eine Schallwand um die Wärmepumpe herum installieren, wobei die Abstände zu beachten sind.
+> * Einen 50 cm langen PVC-Schlauch am Wasserein- und -auslass der Wärmepumpe anbringen (um die Übertragung der Schwingungen zu hemmen).
+> * Mit der Betriebsart „ECOSILENCE" kann der Schallpegel des Gerätes verringert und der COP verbessert werden. Es wird jedoch empfohlen, diese Betriebsart vorzugsweise für die einfache „Aufrechterhaltung der Temperatur" zu verwenden und die Filterdauer um ca. 50 % zu erhöhen.
+
+
+## 1.2 Hydraulische Anschlüsse
+
+* Der Anschluss erfolgt mit einem PVC-Schlauch Ø50, mit den mitgelieferten Verschraubungen (siehe § „5.1 I Beschreibung"), am Filterkreislauf des Schwimmbeckens, nach dem Filter und vor dem Wasserpflegesystem.
+* Die Richtung der hydraulischen Anschlüsse ist einzuhalten.
+* Es muss unbedingt ein Bypass installiert werden, um Eingriffe am Gerät zu erleichtern.
+
+!(Abbildung)
+
+**Anschluss an einem Standard-Filterkreislauf**
+
+**A**: Wasserzulaufventil
+
+**B**: Bypassventil
+
+**C**: Wasserrücklaufventil
+
+**D**: Wasserzulaufregelventil (optional)
+
+**E**: Wasserrücklaufregelventil (optional)
+
+**F**: Wasserpflegesystem
+
+\* Mindestabstand
+
+Für den Kondensatablauf ein Rohr mit Innen-Ø18 am geriffelten Winkelrohr anschließen, das unter dem Boden des Gerätes zu montieren ist.
+
+!(Abbildung)
+
+**Ausrichtung der Kondensatableitung (Untenansicht des Gerätes)**
+
+> **Hinweis: Kondensatableitung**
+> * Achtung, Ihr Gerät kann mehrere Liter Wasser pro Tag ableiten. Es wird dringend empfohlen, den Kondensatablauf an eine geeignete Wasserabflussleitung anzuschließen.
+> * Es wird empfohlen, das Gerät (mit den einstellbaren Füßen) leicht nach hinten zu neigen, um die Kondensate besser abzuleiten.
+
+
+### 1.3 Anschlüsse der Stromversorgung
+
+> ⚠️ **WARNUNG**
+>
+> * Vor jedem Eingriff im Inneren des Gerätes muss die Stromversorgung unbedingt unterbrochen werden, da sonst die Gefahr eines Elektroschocks besteht, der zu Sachschäden und schweren oder sogar tödlichen Verletzungen führen kann.
+> * Nur ein qualifizierter und erfahrener Techniker ist befugt, eine Verkabelung im Gerät durchzuführen oder das Stromkabel auszutauschen.
+> * Die Stromversorgung nicht unterbrechen, während das Gerät in Betrieb ist. Im Fall einer Unterbrechung der Stromversorgung warten Sie eine Minute, bevor Sie die Stromversorgung wieder herstellen.
+> * Ein Mittel zur allpoligen Trennung vom Stromnetz, das eine vollständige Unterbrechung in der Überspannungskategorie III sicherstellt, muss ordnungsgemäß in die Verdrahtung integriert werden.
+
+Für den Zugang zu den Klemmleisten:
+
+!(Abbildung)
+
+* Die Stromversorgung der Wärmepumpe muss von einer Schutz- und Trennvorrichtung (nicht im Lieferumfang enthalten) gemäß den im Installationsland geltenden Normen und Vorschriften angeschlossen werden.
+* Das Gerät ist für den Anschluss in ein Hauptstromversorgungssystem mit Neutralleiter im TT- und TN-S-System vorgesehen.
+* Elektrischer Schutz: durch Schutzschalter (C- oder D-Kurve) (die Größe ist § „5.2 I Technische Daten" zu entnehmen), mit einem Fehlerstromschutzschalter von 30 mA (Schutzschalter oder Stromunterbrecher).
+* Ein zusätzlicher Schutz kann bei der Installation erforderlich sein, um die Überspannungskategorie II zu gewährleisten.
+* Die Stromversorgung muss mit der auf dem Typenschild des Gerätes angegebenen Spannung übereinstimmen.
+* Das Stromkabel darf nicht mit einem scharfen oder heißen Gegenstand in Berührung kommen, der es beschädigen oder quetschen könnte.
+* Das Gerät muss ordnungsgemäß an einen geeigneten Erdungskreis angeschlossen sein.
+* Die Leitungen für den elektrischen Anschluss müssen befestigt werden.
+* Eine Kabelverschraubung für die Durchführung der Stromkabel im Gerät verwenden.
+* Ein Stromkabel (vom Typ H07RN-F) für Außen- oder unterirdische Verlegung (oder das Kabel in einem Schutzrohr verlegen) mit einem Außendurchmesser zwischen 13 und 18mm verwenden.
+* Es wird empfohlen, das Kabel in 50 cm Tiefe (85 cm unter einer Straße oder einem Weg) in einem Kabelschutzrohr (mit roten Ringen) zu verlegen.
+* Wenn dieses unterirdisch verlegte Kabel ein anderes Kabel oder eine andere Leitung (Gas, Wasser ...) kreuzt, muss der Abstand zwischen ihnen mehr als 20 cm betragen.
+* Das Stromkabel an der Federanschlussklemmleiste im Inneren des Gerätes anschließen (siehe § „1.3.1 I Verkabelung an einer Federanschlussklemmleiste").
+
+> **Information: Klemmleiste Drehstrommodelle**
+> * Für die Drehstrommodelle muss keine Phasenreihenfolge eingehalten werden.
+
+!(Abbildung)
+
+### 1.3.1 Verkabelung an einer Federanschlussklemmleiste
+
+* Den Hebel bis zum Anschlag anheben, dann das Kabel einstecken (siehe Abbildung ①).
+* Den Hebel wieder in die ursprüngliche Position bringen (siehe Abbildung ②).
+
+!(Abbildung)
+
+### 1.4 Anschlüsse der Optionen
+
+> **Anschluss der Optionen „Heizungspriorität" und „Fernschaltung ein/aus":**
+> * Vor jedem Eingriff im Inneren des Gerätes muss die Stromversorgung des Gerätes unbedingt unterbrochen werden, da sonst die Gefahr eines Elektroschocks besteht, der zu Sachschäden und schweren oder sogar tödlichen Verletzungen führen kann.
+> * Durch fehlerhaftes Anziehen der Anschlussklemmen kann es zu einer Überhitzung der Kabel an den Klemmen und damit zu Brandgefahr kommen. Es ist darauf zu achten, dass die Klemmschrauben fest angezogen sind. Falls die Klemmschrauben nicht ordnungsgemäß angezogen werden, erlöschen die Garantieansprüche.
+> * Jeder fehlerhafte Anschluss an den Klemmen kann das Gerät beschädigen und zieht das Erlöschen der Garantieansprüche nach sich.
+> * Der Motor der Filterpumpe darf auf keinen Fall direkt über die Klemmen 1 - 2 versorgt werden.
+> * Im Fall eines Eingriffs an den Klemmen besteht die Gefahr eines Rückstroms, von Verletzungen, Beschädigungen oder Tod.
+> * Kabel mit Mindestquerschnitt 2 x 0,75mm² vom Typ H07RN-F mit einem Durchmesser zwischen 8 und 13 mm verwenden.
+> * Eine Stopfbuchse für die Durchführung der Kabel im Gerät verwenden. Die Kabel, die für die Optionen verwendet werden, und das Stromkabel müssen mit einer Schelle im Inneren des Gerätes unmittelbar nach den Kabelverschraubungen getrennt gehalten werden (Gefahr von Interferenzen).
+
+### 1.4.1 Option „Heizungspriorität"
+
+* Diese Funktion ermöglicht es dem Gerät, die Filterung zu starten (Zyklus von 5 Minuten alle 120 Minuten), um die Wassertemperatur zu erfassen und somit das Filter-/Heizgerät einzuschalten, um diese Temperatur auf einem konstanten Wert zu halten. In diesem Fall wird die Filterpumpe vom Heizsystem gesteuert.
+* Die Filterung bleibt in Betrieb oder wird eingeschaltet, wenn die Beckenwassertemperatur unter der Solltemperatur liegt.
+* Für den Anschluss muss die Filtersteuerung an die Klemmen 1 - 2 angeschlossen werden (potentialfreier Kontakt ohne Polarität, maximale Stromstärke 8 A).
+* Die Funktion „Heizungspriorität" ist standardmäßig deaktivieren. Um sie zu aktiviert, den Parameter P50 auf „OFF" setzen.
+
+!(Abbildung)
+
+## 1.4.2 Option „Fernschaltung ein/aus"
+
+* Mit dieser Option kann die „Fernschaltung ein/aus" dank eines Fernschalters freigegeben werden.
+* Für den Anschluss muss der Fernschalter „Ein/Aus" (nicht im Lieferumfang enthalten) an die Klemmen 3 - 4 (potentialfreier Kontakt) angeschlossen werden.
+
+!(Abbildung)
+
+* Wenn der Kontakt 3 - 4 offen ist:
+- Das Gerät kann unter keinen Umständen starten.
+- Die Meldung „OFF" (siehe Abbildung ①) und die aktuelle Anzeige werden abwechselnd angezeigt. Bei der aktuellen Anzeige handelt es sich um die gemessene Wassertemperatur (siehe Abbildung ②), wenn das Gerät eingeschaltet ist, oder „---" (siehe Abbildung ③), wenn das Gerät ausgeschaltet ist.
+
+<!Abbildung)>
+
+## 2 Bedienung
+
+### 2.1 Funktionsweise
+
+Die Wärmepumpe verwendet die Wärme (Kalorien) aus der Außenluft, um das Beckenwasser zu erwärmen. Es kann mehrere Tage dauern, bis das Schwimmbecken die gewünschte Temperatur erreicht, je nach Klimabedingungen, Leistung der Wärmepumpe und Differenz zwischen der Wassertemperatur und der gewünschten Temperatur.
+
+Die Wärmepumpe ist ideal für die Aufrechterhaltung der Temperatur.
+
+Je wärmer und feuchter die Luft ist, desto leistungsstärker ist die Wärmepumpe.
+
+> **Hinweis: Anstieg und Aufrechterhaltung der Beckenwassertemperatur**
+> * Die Inbetriebnahme des Schwimmbeckens sollte ausreichend langfristig geplant werden.
+> * Für den Temperaturanstieg muss die Wasserzirkulation auf kontinuierlich (rund um die Uhr) in der Betriebsart „BOOST" gesetzt werden.
+> * Um die Temperatur während der gesamten Badesaison aufrechtzuerhalten, stellen Sie täglich mindestens auf eine Filterlaufzeit ein, die der Hälfte der Wassertemperatur entspricht (je länger diese Zeit ist, desto besser reicht der Betriebsbereich der Wärmepumpe zum Heizen), in der Betriebsart „SMART" oder „ECOSILENCE".
+> * Decken Sie das Becken mit einer Abdeckung ab (Bläschenfolie, Rollabdeckung usw.), um Wärmeverluste zu vermeiden.
+> * Nutzen Sie eine Periode mit milden Außentemperaturen aus (im Durchschnitt > 10 °C nachts). Sie ist noch wirksamer, wenn sie während der wärmsten Stunden des Tages funktioniert.
+> * Halten Sie den Verdampfer sauber.
+> * Stellen Sie die gewünschte Temperatur ein und lassen Sie die Wärmepumpe laufen.
+> * Schließen Sie die „Heizungspriorität" an. Die Betriebsdauer der Filterpumpe und der Wärmepumpe wird in Abhängigkeit vom Bedarf geregelt.
+
+#### 2.1.1 Vorsichtsmaßnahmen
+
+Auch wenn das Gerät das ganze Jahr über verwendet werden kann, müssen einige Vorsichtsmaßnahmen getroffen werden, damit der Kondensator nicht beschädigt wird (zu den speziellen Vorsichtsmaßnahmen für die Einwinterung siehe § 3.1).
+
+> ⚠️ Wenn die Wärmepumpe längerfristig negativen Außentemperaturen ausgesetzt ist (außerhalb der Einwinterung), müssen folgende Maßnahmen getroffen werden:
+> - Die Option „Heizungspriorität" aktivieren: Die Filterpumpe läuft, bis die Temperatur des Schwimmbeckenwassers den Sollwert der Wärmepumpe erreicht hat. Wenn der Sollwert erreicht ist, läuft die Pumpe alle 2 Stunden 5 Minuten lang.
+> - Sicherstellen, dass die Filterpumpe des Schwimmbeckens mindestens alle 4 Stunden eingeschaltet wird, wenn die Option „Heizungspriorität" an der Wärmepumpe nicht aktiviert ist.
+
+## 2.2 Präsentation der Benutzeroberfläche
+
+### 2.2.1 Anzeigebildschirm und Tastatur
+
+! (Abbildung)
+
+Gemessene Wassertemperatur*
+
+*Zeigt die beim letzten Betrieb der Wärmepumpe gemessene Temperatur an.
+
+#### Kontrollleuchten
+
+| Symbol | Bezeichnung | Leuchtet dauerhaft | Blinkt | Aus |
+| ----- | ---------------------------------------------------- | ------------------------------------ | --------------------------------------------- | --------------------------------- |
+| 🔒 | Sperrung | Tastatur gesperrt | / | Tastatur entsperrt |
+| ≈ | Wasserdurchsatz | Wasserdurchsatz korrekt | Wasserdurchsatz zu niedrig oder null | / |
+| ▶ | Betriebsart | Zeigt die ausgewählte Betriebsart an | / | / |
+| 🌡️ | Lufttemperatur | / | Lufttemperatur außerhalb des Betriebsbereichs | Lufttemperatur im Betriebsbereich |
+| °C °F | Temperatureinheit | Gewählte Temperatureinheit | / | / |
+| 📶 | WLAN | Mit WLAN verbunden | WLAN-Synchronisation läuft | Nicht mit WLAN verbunden |
+
+#### Funktion
+
+| Symbol | Funktion |
+| ---------------- | ----- |
+| ⏻ | „Ein/Aus" (3 Sekunden drücken) oder Zurück/Schließen |
+| ◯ | Auswahl und Zugang zum Menü |
+| △ ▽ | Navigation und Einstellung der Werte |
+
+## 2.2.2 LED-Band
+
+Das LED-Band auf der Gerätefrontseite gibt einen schnellen Überblick über den Betriebszustand der Wärmepumpe. In der folgenden Tabelle ist die Bedeutung der verschiedenen Bandbeleuchtungen aufgeführt.
+
+Standardmäßig ist das LED-Band auf der Gerätefrontseite eingeschaltet. Zum Deaktivieren, siehe § „2.4.5 Beleuchtung des LED-Bands aktivieren/deaktivieren".
+
+| Farbe | Betriebsart | Leuchtende LED(s) | Bedeutung |
+| ----- | ----------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Grün | Heizung | 1 bis 5\* | Die Wärmepumpe erwärmt das Wasser. |
+| | | Alle (5) | Solltemperatur erreicht. |
+| Blau | Kühlung | Alle (5) | Die Wärmepumpe kühlt das Wasser. |
+| Rot | Fehler | 3 | Fehler vorhanden => siehe Fehlermeldung am Bildschirm (siehe § 4.2 I „Anzeige eines Fehlercodes"). |
+| Aus | Standby | / | Die Wärmepumpe befindet sich aus einem der folgenden Gründe im Standby (inbegriffen der Gerätesteuerung im Normalbetrieb): |
+| Aus | Standby | / | Verzögerung Kompressorstart (Anti-Kurzzyklus). |
+| Aus | Standby | / | Wenn ≈ blinkt = Wasserdurchsatz zu niedrig oder null. |
+| Aus | Standby | / | Wenn die Meldung „OFF" kurzzeitig angezeigt wird = Betrieb durch den Fernschalter „Ein/Aus" nicht freigegeben (siehe § „1.4.2 Option „Fernschaltung ein/aus"). |
+| Aus | / | / | Gerät ausgeschaltet oder nicht an der Spannungsquelle angeschlossen. |
+
+*Die Anzahl der leuchtenden LEDs kann je nach Geschwindigkeit des Kompressors variieren (siehe § „2.4.4 Verwendung und Auswahl der verschiedenen aktiven Betriebsarten").
+
+## 2.3 Inbetriebnahme
+
+* Prüfen Sie, dass keine Werkzeuge oder andere Fremdkörper mehr in der Maschine vorhanden sind.
+* Die Blende für den Zugang zum technischen Teil muss eingesetzt sein.
+* Die Ventile wie folgt positionieren: Ventil B vollständig geöffnet, Ventile A, C, D und E geschlossen.
+
+!(Abbildung)
+
+**A**: Wasserzulaufventil
+
+**B**: Bypassventil
+
+**C**: Wasserrücklaufventil
+
+**D**: Wasserzulaufregelventil (optional)
+
+**E**: Wasserrücklaufregelventil (optional)
+
+> ⚠️ **Eine falsche Einstellung des Bypasses kann eine Betriebsstörung der Wärmepumpe verursachen.**
+
+* Prüfen Sie, dass die hydraulischen Anschlüsse festgezogen sind und dass es keine Leckagen gibt.
+* Prüfen Sie, dass das Gerät stabil steht.
+* Starten Sie die Wasserzirkulation.
+* Ventil B allmählich schließen.
+* Öffnen Sie die Ventile A, C und D vollständig, dann das Ventil E halb (die im Kondensator der Wärmepumpe und im Filterkreislauf eingeschlossene Luft entweicht). Wenn die Ventile D und E nicht vorhanden sind, öffnen Sie das Ventil A vollständig und schließen Sie das Ventil C halb.
+* Schließen Sie die Wärmepumpe am Stromnetz an.
+* Wenn sich die Pumpe in Standby befindet, drücken Sie 3 Sekunden lang die Taste [Power-Symbol], der Startbildschirm erscheint 4 Sekunden lang, dann wird der Empfangsbildschirm angezeigt und eine Startverzögerung von 2 Minuten wird aktiviert.
+* Stellen Sie die gewünschte Temperatur ein („Solltemperatur", siehe § 2.4.2 „Einstellung der Solltemperatur").
+
+Nach den Schritten für die Inbetriebnahme der Wärmepumpe:
+* Stellen Sie die Wasserzirkulation vorübergehend ab (durch Ausschalten der Filterpumpe oder durch Schließen des Ventils A oder C), um zu prüfen, dass sich das Gerät nach einigen Sekunden ausschaltet (durch Auslösen des Paddelschalters).
+* Senken Sie die Solltemperatur, damit sie niedriger ist als die Wassertemperatur, um zu prüfen, dass die Wärmepumpe gestoppt wird.
+* Schalten Sie die Wärmepumpe aus, indem Sie die Taste [Power-Symbol] 3 Sekunden lang drücken, und prüfen Sie, dass sie gestoppt wird.
+
+## 2.4 Benutzerfunktionen
+
+### 2.4.1 Funktion „automatische Sperrung" der Tastatur
+
+Mit der Funktion „automatische Sperrung" können Sie die Tastatur bei einer Inaktivität von mindestens 30 Sekunden (Standardwert) sperren, um einen Missbrauch zu vermeiden.
+
+Verriegeln/Entriegeln der Tastatur:
+* 3 Sekunden lang gleichzeitig auf [UP] und [DOWN] drücken.
+Die Kontrollleuchte [LOCK] erscheint (= gesperrt) oder verschwindet (= entsperrt), je nach Zustand der Tastatur.
+
+Aktivierung / Deaktivierung der Funktion „automatische Sperrung" der Tastatur:
+* Auf dem Hauptbildschirm (gemessene Wassertemperatur wird angezeigt) die Taste [SET] länger drücken.
+Es erscheint die Anzeige „COOL".
+
+* Mit den Tasten [UP] oder [DOWN] zum Parameter „P19" gehen, dann zum Bestätigen auf [SET] drücken.
+
+* Mit den Tasten [UP] oder [DOWN] 0 oder 1 auswählen:
+
+    - 0 = Funktion „automatische Sperrung" deaktiviert.
+
+    - 1 = Funktion „automatische Sperrung" aktiviert.
+
+* Zur Bestätigung die Taste [SET] drücken.
+
+* Die Taste [POWER] drücken, um zum vorhergehenden Bildschirm zurückzukehren.
+Die Taste [POWER] mehrmals drücken, um zum Hauptbildschirm zurückzukehren (gemessene Wassertemperatur wird angezeigt).
+
+### 2.4.2 Einstellung der Solltemperatur:
+
+* Auf dem Hauptbildschirm (gemessene Wassertemperatur wird angezeigt) die Taste [UP] oder [DOWN] drücken.
+Der Sollwert erscheint am Bildschirm und blinkt.
+
+* Die Taste [UP] drücken, um die Temperatur um 0,5 °C zu erhöhen.
+
+* Die Taste [DOWN] drücken, um die Temperatur um 0,5 °C zu senken.
+
+* Die Taste [SET] drücken, um die Solltemperatur zu bestätigen.
+Wenn jedoch die Solltemperatur geändert wurde und die Tastatur länger als 3 Sekunden nicht betätigt wird, erfolgt die Bestätigung automatisch, auch wenn die Taste [SET] nicht gedrückt wurde.
+Sobald die Solltemperatur bestätigt wird, kehrt die Anzeige automatisch zum Hauptbildschirm zurück (gemessene Wassertemperatur wird angezeigt).
+
+> Wenn die Solltemperatur erreicht ist (+ 0,5°C darüber), schaltet die Wärmepumpe die Wasserbeheizung ab. Alle LEDs erlöschen.
+
+> Ab Software-Version 9.4, wenn die funktion „Kühlung" nicht aktiviert ist, blinken die LEDs rot, wenn eine Solltemperatur eingestellt wird, die niedriger als die gemessene Wassertemperatur ist.
+
+### 2.4.3 Aktivierung / Deaktivierung der Funktion „Kühlung"
+
+> **Information: Funktion „Kühlung"**
+> * Die Aktivierung der Funktion „Kühlung" ermöglicht die automatische Zyklusumkehrung im Kältekreislauf des Gerätes zum Kühlen des Beckenwassers.
+> * Bei aktivierter Funktion „Kühlung" löst die Wärmepumpe, sobald die Wassertemperatur die Solltemperatur um mehr als 2 °C überschreitet (siehe Diagramm unten), automatisch die Funktion „Kühlung" aus, bis die Solltemperatur (+ 0,5 °C darüber) wieder erreicht ist.
+> * Wenn die Funktion „Kühlung" ausgelöst wird (+2 °C über der Solltemperatur), schaltet die Wärmepumpe automatisch in die Betriebsart „Kühlung" (LED 1, 3, 5 leuchten blau, siehe § „2.2.2 LED-Band"), bis die Solltemperatur wieder erreicht ist (+0,5 °C darüber).
+
+!(Abbildung)
+
+* Auf dem Hauptbildschirm (gemessene Wassertemperatur wird angezeigt) die Taste [Kreisförmige Taste mit Menüsymbol] länger drücken. Es erscheint die Anzeige „COOL".
+
+* Die Taste [**MODE**] kurz drücken. Je nach Zustand der Funktion „Kühlung" (aktiviert oder deaktiviert) zeigt der Bildschirm „On" (= aktiviert) oder „Off" (= deaktiviert) an.
+
+Bei Bedarf nochmals kurz die Taste [Kreisförmige Taste mit Aufwärtspfeil] oder [Kreisförmige Taste mit Abwärtspfeil] drücken, um in den gewünschten Zustand („On" oder „Off") zu wechseln.
+
+> Wenn die Funktion „Kühlung" aktiviert wird, blinkt das LED-Band 3-mal blau.
+
+* Bei aktivierter oder deaktivierter Funktion „Kühlung" die Taste [Kreisförmige Taste mit Zurück-Symbol] mehrmals drücken, um zum Hauptbildschirm zurückzukehren (gemessene Wassertemperatur wird angezeigt).
+
+## 2.4.4 Verwendung und Auswahl der verschiedenen aktiven Betriebsarten
+
+Im Modus „Heizung" verfügt die Wärmepumpe über 3 aktive Betriebsarten, die es ihr ermöglichen, ihre Betriebsgeschwindigkeit je nach Leistungsbedarf und dem gewählten Modus anzupassen.
+
+Abhängig von der gewählten Betriebsart („BOOST", „SMART" oder „ECOSILENCE") variiert die von der Wärmepumpe gelieferte Leistung (abhängig von der Drehzahl ihres Kompressors und Ventilators) innerhalb eines vordefinierten Bereichs.
+
+Die Anzahl der auf dem Band leuchtenden LEDs spiegelt die tatsächliche Betriebsgeschwindigkeit des Kompressors wider. Diese Funktion ist besonders nützlich in der Betriebsart „SMART" und „ECOSILENCE", um zu visualisieren, ob die Maschine mit dem Maximum des voreingestellten Leistungsbereichs oder mit einer reduzierten Leistungsstufe arbeitet.
+
+!(Abbildung)
+
+* Die Geschwindigkeit des Kompressors wirkt sich unmittelbar auf die vom Gerät abgegebene Leistung aus.
+
+So wählen Sie die aktive Betriebsart:
+
+* Auf dem Hauptbildschirm (gemessene Wassertemperatur wird angezeigt) die Taste [**MODE**] drücken.
+Die Kontrollleuchte ▶ befindet sich vor einer der 3 Betriebsarten („BOOST", „SMART" oder „ECOSILENCE").
+
+* Die Taste [**MODE**] drücken, bis die gewünschte Betriebsart eingestellt ist.
+Die Bestätigung erfolgt automatisch, sobald sich die Kontrollleuchte ▶ vor der gewünschten Betriebsart befindet.
+
+## 2.4.5 Beleuchtung des LED-Bands aktivieren/deaktivieren
+
+Standardmäßig ist das LED-Band auf der Gerätefrontseite eingeschaltet. Zum Deaktivieren:
+
+Auf dem Hauptbildschirm (gemessene Wassertemperatur wird angezeigt) die Taste [**MODE**] länger drücken.
+Es erscheint die Anzeige „COOL".
+
+* Drücken Sie kurz die Taste [▼]. Es erscheint die Anzeige „LED".
+
+* Drücken Sie kurz die Taste [**MODE**]. Es erscheint die Anzeige „ON".
+
+* Drücken Sie kurz die Taste [▼]. „ON" blinkt.
+
+* Drücken Sie kurz die Taste [▼]. „OFF" blinkt.
+
+* Drücken Sie kurz die Taste [**MODE**]. Das LED-Band ist deaktiviert, die LEDs sind immer aus.
+
+## 2.5 Verbindung mit der App Fluidra Pool
+
+!(Abbildung)
+
+Die Wärmepumpe Z550iQ kann von einem Smartphone oder Tablet aus über die App Fluidra Pool für iOS- und Android-Systeme ferngesteuert werden.
+
+> ⚠️ **Vor der Herstellung der Verbindung mit der App Fluidra Pool sind folgende Maßnahmen zu ergreifen:**
+> * Verwenden Sie ein Smartphone oder Tablet, das mit WLAN ausgestattet ist.
+> * Verwenden Sie ein WLAN-Netzwerk mit einem Signal, das stark genug ist, um eine Verbindung mit der Wärmepumpe herzustellen. Das WLAN-Signal muss an dem Ort empfangbar sein, an dem das Gerät eingesetzt wird. Andernfalls verwenden Sie eine technische Lösung, um das vorhandene Signal zu verstärken.
+> * Halten Sie sich in der Nähe des Gerätes auf und halten Sie das Passwort für Ihr privates WLAN-Netzwerk bereit.
+
+**❶**. Die im App Store (iOS) oder Google Play Store (Android) verfügbare App Fluidra Pool herunterladen, dann ein Fluidra Pool-Konto erstellen (wenn die App bereits installiert ist, zum nächsten Schritt übergehen).
+
+**❷**. Die App öffnen und die in der App beschriebenen Schritte befolgen, um die Wärmepumpe hinzuzufügen.
+
+# 3 Wartung
+
+## 3.1 Einwinterung
+
+> ⚠️
+> * Das Einwintern ist unerlässlich, um Frostschäden am Kondensator zu vermeiden. In diesem Fall entfällt die Garantie.
+> * Um zu verhindern, dass das Gerät durch die Kondensate beschädigt wird, darf es nicht luftdicht abgedeckt werden. Eine Hülle für die Einwinterung ist mitgeliefert.
+
+* Die Steuerung durch 3 Sekunden langes Drücken der Taste [Power-Symbol] in Standby setzen und die Stromversorgung abstellen.
+* Das Ventil B öffnen.
+* Die Ventile A und C schließen und die Ventile D und E öffnen (falls vorhanden).
+* Sicherstellen, dass kein Wasser in der Wärmepumpe zirkuliert.
+* Den Wasserkondensator vollständig entleeren (Frostgefahr), indem die zwei Wasserzu- und -rücklaufanschlüsse des Schwimmbeckens auf der Rückseite der Wärmepumpe gelöst werden.
+* Im Fall einer vollständigen Einwinterung des Schwimmbeckens (vollständige Ausschaltung des Filtersystems, Entleerung des Filterkreislaufs, evtl. Entleerung des Schwimmbeckens): die beiden Anschlüsse um eine Drehung wieder anziehen, um zu verhindern, dass Fremdkörper in den Kondensator eindringen.
+* Im Fall einer Einwinterung nur der Wärmepumpe (nur die Heizung wird ausgeschaltet, die Filterung funktioniert weiterhin): die Anschlüsse nicht wieder anschließen, sondern 2 (mitgelieferte) Stopfen an den Wasserzu- und -rücklauf des Kondensators anbringen.
+* Es wird empfohlen, die (mitgelieferte) mikrobelüftete Schutzhülle für die Einwinterung über die Wärmepumpe zu legen.
+
+## 3.2 Instandhaltung
+
+> ⚠️
+> * Vor jedem Wartungseingriff am Gerät muss die Stromversorgung unbedingt unterbrochen werden, da sonst die Gefahr eines Elektroschocks besteht, der zu Sachschäden und schweren oder sogar tödlichen Verletzungen führen kann.
+> * Vor der Durchführung von Wartungsarbeiten, Fehlerbehebungen oder Reparaturen wird empfohlen, die WLAN-Verbindung der Internetbox zu deaktivieren, um jegliches Risiko einer Fernsteuerung des Geräts zu vermeiden.
+> * Die Stromversorgung nicht unterbrechen, während das Gerät in Betrieb ist.
+> * Im Fall einer Unterbrechung der Stromversorgung warten Sie eine Minute, bevor Sie die Stromversorgung des Gerätes wieder herstellen.
+> * Eine allgemeine Instandhaltung/Wartung des Geräts ist mindestens einmal pro Jahr empfehlenswert, um sicherzustellen, dass das Gerät einwandfrei funktioniert und seine Leistungen beibehält und um eventuellen Störungen vorzubeugen. Diese Maßnahmen obliegen dem Benutzer und sie müssen von einem zugelassenen Techniker ausgeführt werden.
+
+### 3.2.1 Sicherheitshinweise in Zusammenhang mit Geräten, die Kältemittel R32 enthalten
+
+#### Überprüfung des Bereichs
+* Vor Beginn der Arbeiten an Anlagen, die brennbare Kältemittel enthalten, sind Sicherheitsüberprüfungen erforderlich, um sicherzustellen, dass die Gefahr von Funkenbildung gering ist.
+
+#### Arbeitsverfahren
+* Die Arbeiten müssen nach einem kontrollierten Verfahren durchgeführt werden, um die Gefahr der Freisetzung von brennbaren Gasen oder Dämpfen während der Arbeiten zu verringern.
+
+#### Allgemeiner Arbeitsbereich
+* Das gesamte Wartungspersonal und andere in der unmittelbaren Umgebung tätige Personen müssen über die durchgeführten Arbeiten auf dem Laufenden gehalten werden. Arbeiten in engen Räumen müssen vermieden werden.
+
+#### Überprüfung des Vorhandenseins von Kältemittel
+* Der Bereich muss vor und während der Arbeiten mit einem geeigneten Kältemitteldetektor überprüft werden, damit der Techniker auf das Vorhandensein einer potenziell toxischen oder brennbaren Atmosphäre aufmerksam gemacht wird. Sicherstellen, dass der verwendete Leckdetektor für den Einsatz bei allen betroffenen Kältemitteln geeignet ist, d.h. es kann keine Funken verursachen, ist ordnungsgemäß isoliert oder vollkommen sicher.
+
+#### Vorhandensein eines Feuerlöschers
+* Sollen Arbeiten an der Kälteanlage oder den zugehörigen Teilen bei einer bestimmten Temperatur durchgeführt werden, müssen geeignete Feuerlöscher leicht erreichbar sein. Einen Pulver- oder CO2-Löscher in der Nähe des Arbeitsbereichs anbringen.
+
+#### Keine Zündquelle
+* Niemand, der an einer Kälteanlage arbeitet und die Rohrleitungen freilegen muss, darf eine Funkenquelle verwenden, von der eine Brand- oder Explosionsgefahr ausgehen könnte. Alle möglichen Funkenquellen, insbesondere Zigaretten, müssen ausreichend von der Installations-, Reparatur-, Demontage- oder Entsorgungsstelle ferngehalten werden, wenn Kältemittel möglicherweise in die Umgebung freigesetzt werden kann. Vor Beginn der Arbeiten ist der Bereich um das Gerät herum auf Brand- und Funkengefahr zu untersuchen. Es müssen Schilder mit „Rauchverbot" angebracht werden.
+
+#### Belüftung des Bereichs
+* Bevor das Gerät in irgendeiner Weise für Wartungsarbeiten benutzt wird, ist sicherzustellen, dass der Bereich offen und gut belüftet ist. Eine angemessene Belüftung, die eine sichere Dispersion des möglicherweise in die Atmosphäre freigesetzten Kältemittels ermöglicht, muss während der Wartung des Gerätes gewährleistet sein.
+
+#### Überprüfung der Kälteanlage
+* Die Pflege- und Wartungsempfehlungen des Herstellers sind immer zu beachten. Beim Austausch elektrischer Komponenten ist darauf zu achten, dass nur Komponenten desselben Typs und derselben Kategorie verwendet werden, die vom Hersteller empfohlen/genehmigt sind. Wenden Sie sich im Zweifelsfall an den technischen Kundendienst des Herstellers.
+* Die folgenden Prüfungen sind auf Anlagen anzuwenden, die brennbare Kältemittel verwenden:
+- wird ein indirekter Kältemittelkreislauf verwendet, muss eine Kältemittelsuche am Sekundärkreis durchgeführt werden;
+- Markierungen auf dem Gerät müssen sichtbar und lesbar bleiben, unlesbare Markierungen oder Signale müssen korrigiert werden;
+- Kältemittelleitungen oder -komponenten werden an einer Position verlegt, an der es unwahrscheinlich ist, dass sie einer Substanz ausgesetzt sind, die kältemittelhaltige Komponenten angreifen könnte, es sei denn, die Komponenten bestehen aus normalerweise korrosionsbeständigen Materialien oder sind ordnungsgemäß gegen diese Korrosion geschützt.
+
+#### Überprüfung der elektrischen Komponenten
+* Die Reparatur und Wartung von elektrischen Komponenten muss erste Sicherheitsüberprüfungen und Komponenteninspektionsverfahren beinhalten. Wenn ein Fehler auftritt, der die Sicherheit beeinträchtigen könnte, darf keine Stromversorgung an den Stromkreis angeschlossen werden, bis der Fehler vollständig behoben ist. Muss die Arbeit fortgesetzt werden, obwohl der Fehler nicht sofort behoben werden kann, muss eine geeignete Übergangslösung gefunden werden. Dies ist dem Eigentümer des Geräts mitzuteilen, damit alle Beteiligten informiert werden.
+* Die Reparatur und Wartung von elektrischen Komponenten muss die folgenden ersten Sicherheitsüberprüfungen beinhalten:
+- die Kondensatoren sind entladen: Dies muss unter sicheren Bedingungen geschehen, um Funkenbildung zu vermeiden;
+- während des Ladevorgangs, der Überholung oder Spülung des Systems liegen keine elektrischen Komponenten oder Stromversorgungen frei;
+- die Erdungsverbindung muss ständig vorhanden sein.
+
+#### Reparatur an isolierten Komponenten
+* Bei Reparaturen an isolierten Komponenten müssen alle Stromversorgungen vom Gerät, an dem die Arbeiten durchgeführt werden, getrennt werden, bevor die Isolierabdeckung entfernt wird usw. Wenn das Gerät während der Wartung unbedingt mit Strom versorgt werden muss, muss ein Leckdetektor im Dauerbetrieb an der kritischsten Stelle angebracht werden, um jede potenziell gefährliche Situation zu melden.
+* Um sicherzustellen, dass bei Arbeiten an elektrischen Komponenten das Gehäuse nicht so verändert wird, dass das Schutzniveau beeinträchtigt wird, sind die folgenden Punkte besonders zu beachten. Dazu gehören beschädigte Kabel, übermäßige Anzahl von Anschlüssen, Klemmen, die nicht den ursprünglichen Eigenschaften entsprechen, beschädigte Dichtungen, unsachgemäße Installation von Kabelverschraubungen usw.
+* Sicherstellen, dass das Gerät richtig befestigt ist.
+* Sicherstellen, dass die Dichtungen oder Isoliermaterialien nicht so weit beschädigt sind, dass sie nicht mehr verhindern, dass eine brennbare Atmosphäre in den Kreislauf gelangt. Die Ersatzteile müssen den Spezifikationen des Herstellers entsprechen.
+
+#### Reparatur von eigensicheren Komponenten
+* Keine dauerhafte Induktions- oder elektrische Kapazitätsbelastung an den Stromkreis anwenden, ohne sicherzustellen, dass sie die für das verwendete Gerät zulässige Spannung und den zulässigen Strom nicht überschreitet.
+* Eigensichere Komponenten sind die einzigen Typen, bei denen es möglich ist, unter Spannung in Gegenwart einer brennbaren Atmosphäre zu arbeiten. Das Testgerät muss zur entsprechenden Klasse gehören.
+* Die Komponenten dürfen nur durch vom Hersteller angegebene Teile ersetzt werden. Andere Teile könnten das Kältemittel in der Atmosphäre aufgrund einer Leckage entzünden.
+
+#### Verkabelung
+* Sicherstellen, dass die Verkabelung frei von Verschleiß, Korrosion, Überdruck, Vibrationen, scharfen Kanten oder anderen schädlichen Umgebungseinflüssen ist. Bei der Steuerung müssen auch die Auswirkungen der Alterung oder der ständigen Vibrationen durch Quellen wie Kompressoren oder Ventilatoren berücksichtigt werden.
+
+#### Erkennung von brennbaren Kältemitteln
+* Unter keinen Umständen dürfen potenzielle Funkenquellen zur Suche nach Kältemittelleckagen oder zur Erkennung von Kältemittelleckagen verwendet werden. Eine Halogenlampe (oder ein anderer Detektor mit offener Flamme) darf nicht verwendet werden.
+* Die folgenden Lecksuchmethoden gelten für alle Kälteanlagen als zulässig.
+* Elektronische Leckdetektoren können zur Erkennung von Kältemittelleckagen verwendet werden, aber im Falle von brennbarem Kältemittel ist die Empfindlichkeit möglicherweise nicht ausreichend oder muss neu kalibriert werden. (Die Leckdetektoren müssen an einem Ort kalibriert werden, an dem kein Kältemittel vorhanden ist.) Sicherstellen, dass der Detektor keine potenzielle Zündquelle ist und für das verwendete Kältemittel geeignet ist. Die Leckdetektoren müssen auf einen Prozentsatz des LFL des Kältemittels eingestellt und in Abhängigkeit vom verwendeten Kältemittel kalibriert sein. Der geeignete Gasanteil (maximal 25 %) muss bestätigt werden.
+* Lecksuchflüssigkeiten eignen sich auch für die meisten Kältemittel, aber die Verwendung von chlorhaltigen Reinigungsmitteln sollte vermieden werden, da sie mit dem Kältemittel reagieren und die Kupferleitungen angreifen können.
+* Bei Verdacht auf eine Leckage müssen alle offenen Flammen entfernt/gelöscht werden.
+* Wenn ein Kältemittelleck erkannt wird, das einen Löteingriff erfordert, muss das gesamte Kältemittel aus dem System entfernt oder (durch Absperrventile) in einem vom Leck entfernten Teil des Systems isoliert werden.
+
+#### Entnahme und Evakuierung
+* Beim Zugang zum Kältekreislauf für Reparaturen oder aus anderen Gründen müssen herkömmliche Verfahren angewendet werden. Bei brennbaren Kältemitteln ist es jedoch unerlässlich, die Empfehlungen zu befolgen, da die Entflammbarkeit berücksichtigt werden muss. Die folgende Vorgehensweise ist einzuhalten:
+- kältemittel entfernen;
+- den Kreislauf mit einem Inertgas spülen (optional für A2L);
+- evakuieren (optional für A2L);
+- mit einem Inertgas spülen (optional für A2L);
+- den Kreislauf durch Schneiden oder Löten öffnen.
+* Die Kältemittelfüllung muss in den entsprechenden Rückgewinnungsflaschen rückgewonnen werden. Bei Geräten, die andere brennbare Kältemittel als A2L enthalten, muss das System mit sauerstofffreiem Stickstoff gespült werden, damit das Gerät für die Aufnahme von brennbarem Kältemittel geeignet ist. Es kann notwendig sein, diesen Vorgang mehrmals zu wiederholen. Druckluft oder Sauerstoff darf nicht zum Spülen von Kälteanlagen verwendet werden.
+
+#### Ladeverfahren
+* Sicherstellen, dass sich der Ausgang der Vakuumpumpe nicht in der Nähe einer potenziellen Funkenquelle befindet und dass eine Belüftung verfügbar ist.
+* Zusätzlich zu den herkömmlichen Ladeverfahren müssen die folgenden Anforderungen erfüllt sein.
+- Sicherstellen,, dass beim Einsatz von Füllgeräten keine Verunreinigungen zwischen verschiedenen Kältemitteln möglich sind. Schläuche oder Leitungen müssen so kurz wie möglich sein, um die Menge des darin enthaltenen Kältemittels zu reduzieren.
+- Die Flaschen müssen gemäß den Anweisungen in einer geeigneten Position gehalten werden.
+- Sicherstellen, dass die Kälteanlage geerdet ist, bevor sie mit Kältemittel befüllt wird.
+- Das System nach dem Laden beschriften (falls nicht bereits geschehen).
+- Es ist besonders darauf zu achten, dass die Kälteanlage nicht überfüllt wird.
+* Vor dem Wiederaufladen des Systems muss eine Druckprüfung mit dem entsprechenden Spülgas durchgeführt werden. Das System muss am Ende der Ladung, aber vor der Inbetriebnahme auf Dichtheit überprüft werden. Vor dem Verlassen des Standorts muss eine Folgedichtheitsprüfung durchgeführt werden.
+
+#### Demontage
+Vor der Durchführung eines Demontagevorgangs ist es unbedingt erforderlich, dass sich der Techniker mit dem Gerät und seinen Eigenschaften vertraut gemacht hat. Es wird besonders empfohlen, alle Kältemittel sorgfältig rückzugewinnen. Vor der Durchführung dieser Aufgabe muss eine Öl- und Kältemittelprobe entnommen werden, wenn Analysen erforderlich sind, bevor das rückgewonnene Kältemittel wieder verwendet wird. Vor Beginn der Arbeit ist es unbedingt erforderlich, die Spannungsversorgung zu überprüfen.
+
+1. Machen Sie sich mit dem Gerät und seiner Bedienung vertraut.
+2. Das System elektrisch isolieren.
+3. Vor Beginn des Verfahrens ist Folgendes sicherzustellen:
+    - für die Handhabung der Kältemittelflaschen stehen bei Bedarf mechanische Handhabungsgeräte zur Verfügung;
+    - alle persönlichen Schutzausrüstungen sind vorhanden und werden ordnungsgemäß verwendet;
+    - der Rückgewinnungsprozess wird jederzeit von einer kompetenten Person überwacht;
+    - die Rückgewinnungsgeräte und -flaschen entsprechen den einschlägigen Normen.
+4. Das Kühlsystem evakuieren, wenn möglich.
+5. Wenn kein Vakuum erzeugt werden kann,einen Verteiler installieren, damit das Kältemittel an verschiedenen Stellen des Systems entfernt werden kann.
+6. Sicherstellen, dass die Flasche auf den Waagen steht, bevor mit den Rückgewinnungsvorgängen begonnen wird.
+7. Die Rückgewinnungsmaschine starten und gemäß den Anweisungen bedienen.
+8. Die Flaschen nicht überfüllen (nicht mehr als 80 % des Volumens der Flüssigkeitsladung).
+9. Den maximalen Betriebsdruck der Flasche auch vorübergehend nicht überschreiten.
+10. Wenn die Flaschen ordnungsgemäß befüllt sind und der Prozess abgeschlossen ist, sicherstellen, dass die Flaschen und Geräte schnell vom Standort entfernt werden und dass die alternativen Sperrventile an der Anlage geschlossen sind.
+11. Das rückgewonnene Kältemittel darf nicht in eine andere Kälteanlage eingefüllt werden, es sei denn, es wurde gereinigt und kontrolliert.
+
+
+### 3.2.2 Instandhaltung durch den Benutzer
+
+* Achten Sie darauf, dass das Lüftungsgitter nicht durch Fremdkörper verstopft wird.
+* Den Verdampfer (Anbringungsort siehe § „5.3 I Abmessungen und Kennzeichnung") mit einem weichen Pinsel und einem leichten Wasserstrahl reinigen (Gerät spannungsfrei schalten), die Metalllamellen nicht knicken, dann das Kondensatablaufrohr reinigen, um die Verunreinigungen, die es verstopfen könnten, zu entfernen.
+* Darauf achten, dass das Lüftungsgitter des Schaltkastens sauber ist.
+* Keinen Hochdruckreiniger verwenden. Kein Regenwasser und kein salziges oder mineralhaltiges Wasser für die Reinigung des Gerätes verwenden.
+* Führen Sie eine Außenreinigung des Gerätes durch. Verwenden Sie dafür keine Produkte auf Basis von Lösungsmitteln. Wir bieten Ihnen ein spezielles Reinigungsset als Zubehör an: PAC NET, siehe § „5.1 I Beschreibung".
+
+### 3.2.3 Instandhaltung / Wartung durch einen qualifizierten Techniker
+
+> [!] Bevor Sie eine der unten aufgeführten Wartungsarbeiten durchführen, lesen Sie die Sicherheitshinweise sorgfältig durch, siehe „3.2.1 Sicherheitshinweise in Zusammenhang mit Geräten, die Kältemittel R32 enthalten".
+
+* Kontrollieren Sie den einwandfreien Betrieb der Steuerung.
+* Prüfen Sie, dass die Kondensate beim Betrieb des Gerätes korrekt abgeleitet werden.
+* Kontrollieren Sie die Sicherheitskomponenten.
+* Prüfen Sie die Erdung am Gerät.
+* Prüfen Sie den festen Sitz und die Anschlüsse der elektrischen Kabel und die Sauberkeit im Inneren des Klemmkastens.
+
+## 4 Problembehebung Z550 iQ
+
+> Bevor Sie sich an den Fachhändler wenden, nehmen Sie im Fall einer Betriebsstörung mithilfe der folgenden Tabellen einfache Überprüfungen vor.
+
+> Sollte das Problem dadurch nicht gelöst werden, wenden Sie sich bitte an Ihren Fachhändler.
+
+> 🔧 Einem qualifizierten Techniker vorbehaltene Maßnahmen
+
+### 4.1 I Verhaltensweisen des Gerätes
+
+#### Das Gerät fängt nicht sofort an zu heizen
+* Zu Beginn bleibt das Gerät 30 Sekunden lang in „Pause", bevor es startet.
+* Wenn die Solltemperatur erreicht ist, hört das Gerät auf zu heizen: Die Wassertemperatur ist größer oder gleich der Solltemperatur.
+* Wenn der Wasserdurchsatz Null oder unzureichend ist, wird das Gerät gestoppt: Prüfen Sie, dass das Wasser korrekt im Gerät zirkuliert und dass die hydraulischen Anschlüsse korrekt ausgeführt wurden.
+* Das Gerät wird gestoppt, wenn die Außentemperatur unter -12 °C sinkt.
+* Es kann sein, dass das Gerät einen Betriebsfehler erkannt hat (siehe § „4.2 I Anzeige eines Fehlercodes").
+* Wenn diese Punkte geprüft wurden und das Problem dadurch nicht gelöst wird, wenden Sie sich an Ihren Fachhändler. |
+
+#### Aus dem Gerät tritt Wasser aus
+* Das abgeführte Wasser, das als „Kondensat" bezeichnet wird, stammt von der in der Luft enthaltenen Feuchtigkeit, die bei der Berührung bestimmter kalter Bauteile im Gerät kondensiert, insbesondere am Verdampfer. Je feuchter die Luft ist, desto mehr Kondensat produziert das Gerät (das Gerät kann mehrere Liter pro Tag ableiten). Dieses Wasser wird durch den Boden des Gerätes gesammelt und durch den Ablauf abgeleitet.
+* Wenn Sie prüfen möchten, ob das Wasser aus einer Leckage des Schwimmbeckenkreislaufs am Gerät stammt, schalten Sie das Gerät aus und lassen Sie die Filterpumpe laufen, damit das Wasser im Gerät zirkuliert. Wenn weiterhin Wasser aus dem Kondensatablauf fließt, hat das Gerät eine Leckage. Wenden Sie sich bitte an Ihren Fachhändler. |
+
+#### Am Verdampfer hat sich Eis gebildet
+* Das Gerät wird gleich einen Abtauzyklus starten, um das Eis abzutauen.
+* Wenn es das Gerät nicht schafft, seinen Verdampfer abzutauen, schaltet es sich automatisch aus, weil die Außentemperatur zu niedrig ist (unter -12°C). |
+
+#### Das Gerät „raucht"
+* Das kann vorkommen, wenn das Gerät einen Abtauzyklus ausführt. Dann geht das Wasser in den gasförmigen Zustand über.
+* Wenn das Gerät keinen Abtauzyklus ausführt, ist das nicht normal. Schalten Sie das Gerät unverzüglich aus, ziehen Sie den Stecker und wenden Sie sich an Ihren Fachhändler. |
+
+#### Das Gerät funktioniert nicht
+* 🔧 Wenn nichts angezeigt wird, prüfen Sie die Versorgungsspannung und die Schmelzsicherung F1.
+* Wenn die Solltemperatur erreicht ist, hört das Gerät auf zu heizen: Die Wassertemperatur ist größer oder gleich der Solltemperatur.
+* Wenn der Wasserdurchsatz Null oder unzureichend ist, wird das Gerät gestoppt: Prüfen Sie, dass das Wasser korrekt im Gerät zirkuliert.
+* Das Gerät wird gestoppt, wenn die Außentemperatur unter -12 °C sinkt.
+* Es kann sein, dass das Gerät einen Betriebsfehler erkannt hat (siehe § „4.2 I Anzeige eines Fehlercodes").
+
+#### Das Gerät funktioniert, die Wassertemperatur wird jedoch nicht erhöht
+* Die Betriebsart ist nicht leistungsstark genug (Gerät ist in der Betriebsart „ECOSILENCE" oder „SMART"). Wechseln Sie in die Betriebsart „BOOST" und schalten Sie die Filterung manuell auf ganztägigen Dauerbetrieb, bis die Temperatur erreicht ist.
+* Es kann sein, dass das Gerät einen Betriebsfehler erkannt hat (siehe § „4.2 I Anzeige eines Fehlercodes").
+* Prüfen Sie, dass das automatische Füllventil nicht in offener Stellung blockiert ist. Dadurch würde ständig kaltes Wasser ins Schwimmbecken fließen und einen Temperaturanstieg verhindern.
+* Der Wärmeverlust ist zu groß, denn die Luft ist zu kühl. Bedecken Sie das Schwimmbecken mit einer isothermischen Abdeckung.
+* Das Gerät schafft es nicht, genügend Wärmeenergie (Kalorien) aufzunehmen, weil sein Verdampfer verschmutzt ist. Reinigen Sie den Verdampfer, um die Leistung wiederherzustellen (siehe § „3.2 I Instandhaltung").
+* Prüfen Sie, dass die äußere Umgebung den einwandfreien Betrieb der Wärmepumpe nicht beeinträchtigt (siehe § „1. Installation").
+* 🔧 Prüfen Sie, dass das Gerät für dieses Schwimmbecken und seine Umgebung korrekt ausgelegt wurde.
+
+#### Der Ventilator läuft, aber der Kompressor stoppt regelmäßig und ohne Fehlermeldung
+* Wenn die Außentemperatur niedrig ist, führt das Gerät Abtauzyklen durch.
+* Das Gerät schafft es nicht, genügend Wärmeenergie (Kalorien) aufzunehmen, weil sein Verdampfer verschmutzt ist. Reinigen Sie den Verdampfer, um die Leistung wiederherzustellen (siehe § „3.2 Instandhaltung").
+
+Das Gerät löst den Schutzschalter aus
+* 🔧 Prüfen Sie, ob der Schutzschalter korrekt bemessen ist und ob der verwendete Kabelquerschnitt korrekt ist (siehe § „5.2 I Technische Daten").
+* 🔧 Die Spannung der Stromversorgung ist zu schwach. Wenden Sie sich an Ihren Stromversorger.
+
+## 4.4 Schaltpläne
+
+### 4.4.1 Z550iQ MD4 - MD5 - MD8 (R32)
+
+!(Abbildung)
+
+## 4.4.2 Z550iQ TD5 - TD8 (R32)
+
+!(Abbildung)
+
+| Symbol | Bezeichnung |
+| ---------- | ----------------------------------- |
+| A1 | Elektronische Steuerungskarte |
+| A2 | Displaykarte (MMI) |
+| A3 | Karte Ventilator |
+| A4 | Elektronische Karte Kompressor |
+| A5 | Splitterkarte |
+| A6 | Karte LED |
+| A7 | Karte Filter |
+| A8 | Karte Filter Ventilator |
+| BLK | Schwarz |
+| BLU | Blau |
+| BRN | Braun |
+| C1 | Kondensator Ventilator |
+| C2 | Lüfterkondensator für zweite Stufe |
+| C3 | Betriebskondensator für Kompressor |
+| CM | Kompressor |
+| EXP VALVE | Elektronisches Druckminderventil |
+| F1 - F2 | Schmelzsicherung |
+| FAN | Lüftermotor |
+| FAN HEATER | Heizwiderstand Gebläseausgang |
+| GRN/YEL | Grün/gelb |
+| HEATER | Frostschutzwiderstand (Kondensator) |
+| HD | Druckregler Hochdruck |
+| J1 | Paddelschalter |
+| LED | LED-Platine |
+| LP | Druckregler Niederdruck |
+| M1 | Lüftermotor |
+| M2 | Kompressormotor |
+| ORG | Orange |
+| PNK | Rosa |
+| R1 | Schütz für Filterpumpe |
+| R2 | Kompressorschütz |
+| R3 | Lüftersatzschütz |
+| RED | Rot |
+| REV VALV | Umkehrventil |
+| ST1 | Wasserdurchsatzregelfühler |
+| ST2 | Frostschutzfühler |
+| ST3 | Abtaufühler |
+| ST4 | Flüssigkeitsleitungsfühler |
+| ST5 | Temperaturfühler der Druckleitung |
+| TP1 | Klemmleiste |
+| TP2 | Klemmleiste |
+| V1 - V2 | Varistor |
+| V4 | Gasentladungsrohr |
+| VLT | Violett |
+| WHT | Weiß |
+| YEL | Gelb |
+
+# 5. Kenndaten
+
+## 5.1 Beschreibung
+
+| | | |
+| - | ------------------------------------------- | ------ |
+| A | | Z550iQ |
+| B | Anschluss Klebeverbindung Ø50 (x2) | ⚫ |
+| C | Kondensatableitungskit (Ø18) | ⚫ |
+| D | Verschlussstopfen für die Einwinterung (x2) | ⚫ |
+| E | Hülle für die Einwinterung | ⚫ |
+| | Heizungspriorität | ⚫ |
+| F | Indoorbausatz für den Technikraum | ➕ |
+| G | Kondensatauffangwanne | ➕ |
+| H | PAC NET<br/>(Reinigungsmittel) | ➕ |
+
+⚫ : Mitgeliefert
+➕ : Verfügbar als Zubehör
