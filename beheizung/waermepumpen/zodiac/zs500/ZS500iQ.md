@@ -232,9 +232,9 @@ parent: Zodiac Wärmepumpen
 
 ---
 
-# Fehlerbehebung Zodiac ZS500iQ Wärmepumpe
+# Fehlerbehebung Zodiac ZS500 Wärmepumpe
 
-## Geräteverhalten
+## Geräteverhalten ZS500
 
 | Problem | Lösungen |
 | --- | --- |
@@ -247,7 +247,7 @@ parent: Zodiac Wärmepumpen
 | Der Ventilator läuft, aber der Kompressor stoppt gelegentlich ohne Fehlermeldung | * Wenn die Außentemperatur niedrig ist, führt die Wärmepumpe Abtauzyklen durch.<br>* Der Verdampfer ist möglicherweise verschmutzt und kann nicht ausreichend Energie aufnehmen. Reinigen Sie ihn (siehe § „3.2 I Wartung“). |
 | Das Gerät löst den Leitungsschutzschalter aus | * 🔧 Prüfen Sie, ob der Leitungsschutzschalter korrekt dimensioniert ist und ob die verwendete Kabelquerschnittsgröße passt (siehe § „5.2 I Technische Daten“).<br>* 🔧 Die Versorgungsspannung ist zu niedrig – wenden Sie sich an Ihren Stromversorger. |
 
-## 4.2 | Fehlercodeanzeige
+## 4.2 | Fehlercodeanzeige ZS500
 
 | Anzeige                                                                                 | Mögliche Ursachen                                                                  | Lösungen                                                                                   | Rücksetzung                                               |
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
@@ -776,7 +776,7 @@ parent: Zodiac Wärmepumpen
     - **Leistungsaufnahme:** 2,4 kW
     - **Durchschnittlicher COP:** 4,8
 
-# Stückliste Zodiac ZS500iQ Wärmepumpe
+# Stückliste ZS500
 
 ## Unterstückliste Elektronik
 
