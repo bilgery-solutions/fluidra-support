@@ -1,0 +1,876 @@
+---
+title: ZS500iQ
+parent: Zodiac Wärmepumpen
+---
+
+# Anleitung Zodiac ZS500iQ Wärmepumpe
+
+# Fehlercodes
+
+## F01
+**Bedeutung:** Kommunikationsfehler zwischen Steuerplatine und Bedieneinheit
+**Assoziierte Komponenten**
+- Steuerplatine
+- Bedieneinheit
+- Steuerkabel RJ11/RJ45
+**Mögliche Ursachen**
+- Steuerkabel zwischen der Steuerplatine und der Bedieneinheit nicht richtig verbunden
+- Fehlerhafte Stromversorgung
+- Defekte Steuerplatine
+- Defekte Bedieneinheit
+**Problembehandlung**
+- Prüfen Sie die RJ11 und die RJ45 Anschlüsse des Steuerkabels
+- Prüfen Sie die Stromversorgung
+- Steuerplatine oder Bedieneinheit ersetzen
+
+## F02
+**Bedeutung:** Überhitzung der Platinen
+**Assoziierte Komponenten**
+- Lüftermotor
+- Abdeckung Steuereinheit
+**Mögliche Ursachen**
+- Lüftungsöffnung Abdeckung verstopft
+- Lüftermotor läuft nicht
+**Problembehandlung**
+- Reinigen Sie die Lüftungsöffnung der Hinteren Abdeckung
+- Funktion Lüftermotor prüfen und ggf. Motor ersetzen
+
+## F03
+**Bedeutung:** Automatischer Schutz bei instabiler Spannungsversorgung
+**Assoziierte Komponenten**
+- Steuerplatine
+**Mögliche Ursachen**
+- Überspannung des Stromnetz
+- Unterspannung des Stromnetz
+- Fehlerhafter Erdungsanschluss
+- Defekte Steuerplatine
+**Problembehandlung**
+- Stromnetz prüfen
+- Anschluss des Erdungskabels prüfen
+- Steuerplatine ersetzen
+
+## F05
+**Bedeutung:** Fehler an der Lüftereinheit
+**Assoziierte Komponenten**
+- Lüftermotor
+**Mögliche Ursachen**
+- Anschluss Lüftermotor nicht in Ordnung
+- Lüftermotor defekt
+**Problembehandlung**
+- Anschluss der Lüftereinheit prüfen
+- Lüftermotor ersetzen
+
+## F06
+**Bedeutung:** Überhitzung der Stromversorgung des Kompressors
+**Assoziierte Komponenten**
+- Ventilator
+- Abdeckung Steuereinheit
+**Mögliche Ursachen**
+- Lüftungsöffnung der Abdeckung verstopft
+- Lüftermotor läuft nicht
+**Problembehandlung**
+- Lüftunsöffnung der Abdeckung prüfen und ggf. reinigen
+- Lüftermotor prüfen und ggf. ersetzen
+
+## F07
+**Bedeutung:** Überspannung an der Spannungsquelle des Kompressors
+**Assoziierte Komponenten**
+- Steuerplatine
+- Kompressor
+**Mögliche Ursachen**
+- Überspannung der Spannungsquelle
+- Defekter Kompressor
+- Defekte Steuerplatine
+- Fehlerhafter Anschluss des Erdungskabels
+**Problembehandlung**
+- Spannungsquelle prüfen (maximal 230V + 10%)
+- Kompressor ersetzen
+- Steuerplatine ersetzen
+- Anschluss des Erdungskabels prüfen
+
+## F08
+**Bedeutung:** Zu niedriger Druck im Niederdruckbereich
+**Assoziierte Komponenten**
+- Kältemittelrohrleitung im Niederdruckbereich
+- Niederdrucksensor
+**Mögliche Ursachen**
+- Druckfehler im Niederdruckkreislauf
+**Problembehandlung**
+- Autorisierten Techniker rufen
+
+## F09
+**Bedeutung:** Zu hoher Druck im Hochdruckbereich
+**Assoziierte Komponenten**
+- Wärmetauscher
+- Paddelschalter
+**Mögliche Ursachen**
+- Wärmetauscher verschmutzt
+- zu niedriger Volumenstrom (Wasser)
+- Luft-Wasser-Emulsion ins Gerät eingedrungen
+- Paddelschalter blockiert
+**Problembehandlung**
+- Den Wärmetauscher mit Wasser reinigen
+- Wasserdurchfluss prüfen und gegebenenfalls erhöhen
+- Paddelschalter prüfen
+
+## F10
+**Bedeutung:** Fehlfunktion Frostschutzsensor
+**Assoziierte Komponenten**
+- Frostschutzsensor
+**Mögliche Ursachen**
+- Anschluss Frostschutzsensor nicht in Ordnung
+- Defekter Frostschutzsensor
+**Problembehandlung**
+- Anschluss des Frostschutzsensors prüfen
+- Frostschutzsensor ersetzen
+
+## F11
+**Bedeutung:** Fehlfunktion Außentemperatursensor
+**Assoziierte Komponenten**
+- Außentemperatursensor
+**Mögliche Ursachen**
+- Anschluss Außentemperatursensor nicht in Ordnung
+- Defekter Außentemperatursensor
+**Problembehandlung**
+- Anschluss des Außentemperatursensors prüfen
+- Außentemperatursensor ersetzen
+
+## F12
+**Bedeutung:** Fehlfunktion Heißgastemperatursensor
+**Assoziierte Komponenten**
+- Heißgastemperatursensor
+**Mögliche Ursachen**
+- Anschluss des Heißgastemperatursensors nicht in Ordnung
+- Defekter Heißgastemperatursensor
+**Problembehandlung**
+- Anschluss des Heißgastemperatursensor prüfen
+- Heißgastemperatursensor ersetzen
+
+## F13
+**Bedeutung:** Fehlfunktion Flüssigkeitstemperatursensor
+**Assoziierte Komponenten**
+- Flüssigkeitstemperatursensor
+**Mögliche Ursachen**
+- Anschluss des Flüssigkeitstemperatursensors nicht in Ordnung
+- Defekter Flüssigkeitstemperatursensor
+**Problembehandlung**
+- Anschluss des Flüssigkeitstemperatursensors prüfen
+- Flüssigkeitstemperatursensor ersetzen
+
+## F14
+**Bedeutung:** Fehlfunktion Rücklauftemperatursensor
+**Assoziierte Komponenten**
+- Rücklauftemperatursensor
+**Mögliche Ursachen**
+- Anschluss des Rücklauftemperatursensors nicht in Ordnung
+- Defekter Rücklauftemperatursensor
+**Problembehandlung**
+- Anschluss des Rücklauftemperatursensors prüfen
+- Rücklauftemperatursensor ersetzen
+
+---
+
+# Häufige Probleme
+
+## Die Wärmepumpe fängt nicht an zu heizen
+**Erklärung**
+- Wenn zu wenig Wasser durch die Pumpe fließt wird das Heizen gestoppt. Prüfen Sie die Wasserzirkulation
+- Die Wärmepumpe stoppt wenn die Außentemperatur unter -12°C sinkt
+- Es kann sein, dass die Wärmepumpe einen Betriebsfehler erkannt hat. Siehe Fehlercodes
+
+## Aus der Wärmepumpe tritt Wasser aus
+**Erklärung**
+- Kondensat entsteht wenn Feuchtigkeit aus der Luft an kalten Bauteilen kondensiert.
+    - je feuchter die Luft desto mehr Kondensat
+    - das Kondensat wird am Boden der Wärmepumpe gesammelt und fließt durh den Ablauf ab
+- Eine Leckage der Wärmepumpe kann geprüft werden, in dem Sie die Wärmepumpe abschalten und die Filterpumpe laufen lassen, sodass Wasser durch die Wärmepumpe zirkuliert
+
+## Am Verdampfer hat sich Eis gebildet
+**Erklärung**
+- normalerweise wird die Wärmepumpe einen Entfrostungszyklus starten um das Eis zu schmelzen
+- Wenn die Wärmepumpe es nicht schafft ihren Verdampfer zu enteisen, schaltet sie sich automatisch ab
+    - Das passiert häuig bei einer zu niedrigen Außentemperatur
+
+## Das Gerät raucht
+**Erklärung**
+- Beim Entfrosten kann Dampf entstehen, wenn das Eiß verdampft
+- Wenn Rauch außerhalb des Entfrostungszyklus entsteht handelt es sich um einen Defekt.
+    - Schalten Sie die Wärmepumpe unverzüglich aus und ziehen den Stecker. Wenden Sie sich an Ihren Fachhändler
+
+## Das Gerät funktioniert nicht
+**Erklärung**
+- Prüfen Sie die Versorgungsspannung und die Feinsicherung F1
+- Wenn zu wenig Wasser durch die Wärmepumpe zirkuliert schaltet Sie ab
+- Die Wärmepumpe stoppt wenn die Außentemperatur unter -12°C sinkt
+- Die Wärmepumpe hat einen Betriebsfehler erkannt. Siehe Fehlercodes
+- Das Heizen ist nach Zeitplan eingestellt. Deaktivieren Sie Betriebsart "Zeitplan" um den manuellen Betrieb zu starten oder ändern Sie die Programmierung
+
+## Die Wärmepumpe läuft aber das Wasser wird nicht wärmer
+**Erklärung**
+- Falsche Betriebsart ausgewählt. Wechseln Sie die Betriebsart in "Boost" für die maximale Heizleistung
+- Verlängern Sie die Filterlaufzeiten damit die Wärmepumpe mehr Zeit zum Heizen hat
+- Es kann sein dass die Wärmepumpe einen Betriebsfehler erkannt hat. Siehe Fehlercodes
+- Der Wärmeverlust des Schwimmbeckens ist zu groß. Verwenden Sie eine Poolabdeckung
+- Die Wärmepumpe kann der Luft nicht genügend Wärmeenergie entziehen weil der Verdampfer verschmutzt ist. Reinigen Sie den Verdampfer.
+- Prüfen Sie dass die Wärmepumpe genügend Frischluft bekommt. Sie darf nicht eingeengt und zu nah an Wänden oder einer Niesche stehen.
+- Prüfen Sie ob die Wärmepumpe für dieses Schwimmbecken korrekt bemessen ist
+
+## Der Ventilator läuft aber der Kompressor hält regelmäßig ohne Fehlermeldung an
+**Erklärung**
+- Wenn die Außentemperatur sehr niedrig ist führt die Wärmepumpe häufig Enteisungszyklen durch
+- Die Wärmepumpe kann der Luft nicht genügend Wärmeenergie entziehen weil der Verdampfer verschmutzt ist. Reinigen Sie den Verdampfer.
+
+## Das Gerät löst den Schutzschalter aus
+- Prüfen Sie ob der Schutzschalter korrekt bemessen ist und dass der verwendete Kabelquerschnitt korrekt ist
+- Die Spannung der Stromquelle ist zu niedrig
+
+---
+
+# Installationshinweise
+- Die Wärmepumpe muss an einem Platz mit guter Luftzirkulation aufgestellt werden
+- Die Wärmepumpe muss mindestens einen halben Meter weit weg von Wänden oder anderen Hindernissen aufgestellt werden
+
+---
+
+# Fehlerbehebung Zodiac ZS500iQ Wärmepumpe
+
+## Geräteverhalten
+
+| Problem | Lösungen |
+| --- | --- |
+| Das Gerät beginnt nicht sofort mit dem Heizen | * Beim Start verbleibt das Gerät für 30 Sekunden im „Pause“-Modus, bevor es den Betrieb aufnimmt.<br>* Wenn die Solltemperatur erreicht ist, stoppt die Wärmepumpe das Heizen: Die Wassertemperatur ist gleich oder höher als die Solltemperatur.<br>* Wenn kein oder zu wenig Wasserdurchfluss vorhanden ist, stoppt die Wärmepumpe: Überprüfen Sie, ob das Wasser korrekt durch die Wärmepumpe zirkuliert (siehe § „2.5 I Menüübersicht“) und ob die hydraulischen Anschlüsse korrekt sind.<br>* Die Wärmepumpe stoppt, wenn die Außentemperatur unter -12 °C fällt.<br>* Es kann sein, dass die Wärmepumpe eine Betriebsstörung erkannt hat (siehe § „4.2 I Fehlercodeanzeige“).<br>* Wenn Sie diese Punkte überprüft haben und das Problem weiterhin besteht: Wenden Sie sich an Ihren Händler. |
+| Das Gerät entleert Wasser | * Häufig handelt es sich um Kondenswasser. Diese Flüssigkeit ist die in der Luft enthaltene Feuchtigkeit, die bei Kontakt mit kalten Teilen der Wärmepumpe (insbesondere dem Verdampfer) kondensiert. Je feuchter die Luft, desto mehr Kondenswasser entsteht (mehrere Liter pro Tag möglich). Dieses Wasser wird vom Boden der Wärmepumpe aufgefangen und durch Ablauflöcher abgeführt.<br>* Um auszuschließen, dass das Wasser aus einem Leck im Poolkreislauf stammt, schalten Sie die Wärmepumpe aus und lassen Sie die Filterpumpe laufen. Wenn weiterhin Wasser durch die Kondensatabläufe austritt, liegt ein Wasserleck vor – kontaktieren Sie Ihren Händler. |
+| Der Verdampfer ist vereist | * Ihre Wärmepumpe schaltet bald in den Abtauzyklus, um das Eis zu schmelzen.<br>* Wenn die Wärmepumpe den Verdampfer nicht enteisen kann, stoppt sie den Betrieb – das bedeutet, die Außentemperatur ist zu niedrig (unter -12 °C). |
+| Das Gerät „raucht“ | * Dies kann während des Abtauzyklus auftreten, wenn Wasser zu Dampf wird.<br>* Wenn sich die Wärmepumpe nicht im Abtauzyklus befindet, ist das nicht normal. Schalten Sie das Gerät sofort aus, trennen Sie es vom Stromnetz und kontaktieren Sie Ihren Händler. |
+| Das Gerät funktioniert nicht | * 🔧 Wenn keine Anzeige vorhanden ist, prüfen Sie die Versorgungsspannung und die Sicherung F1.<br>* Wenn die Solltemperatur erreicht ist, stoppt die Wärmepumpe das Heizen: Die Wassertemperatur ist gleich oder höher als die Solltemperatur.<br>* Wenn kein oder zu wenig Wasserdurchfluss vorhanden ist, stoppt die Wärmepumpe: Überprüfen Sie den Wasserkreislauf (siehe § „2.5 I Menüübersicht“).<br>* Die Wärmepumpe stoppt, wenn die Außentemperatur unter -12 °C fällt.<br>* Es kann sein, dass eine Betriebsstörung erkannt wurde (siehe § „4.2 I Fehlercodeanzeige“).<br>* Das Gerät befindet sich in einem leeren Zeitfenster. Deaktivieren Sie den „Zeitraum“-Modus für manuellen Betrieb oder ändern Sie die Zeitprogrammierung. |
+| Das Gerät läuft, aber die Wassertemperatur steigt nicht | * Der Betriebsmodus ist nicht leistungsstark genug („Eco Silence“ oder „Smart“-Modus aktiv). Wechseln Sie in den „Boost“-Modus und stellen Sie die Filterung manuell auf 24/24, bis die Temperatur steigt.<br>* Es könnte eine Betriebsstörung vorliegen (siehe § „4.2 I Fehlercodeanzeige“).<br>* Prüfen Sie, ob das automatische Einlassventil offen festsitzt – dies würde ständig kaltes Wasser zuführen und das Aufheizen verhindern.<br>* Es geht zu viel Wärme verloren, weil die Luft kühl ist. Verwenden Sie eine wärmeisolierende Poolabdeckung.<br>* Der Verdampfer ist durch Schmutz verstopft und kann nicht genug Energie aufnehmen. Reinigen Sie ihn (siehe § „3.2 I Wartung“).<br>* Prüfen Sie, ob äußere Umstände die Wärmepumpe behindern (siehe § „❶ Installation“).<br>* 🔧 Stellen Sie sicher, dass die Wärmepumpe richtig dimensioniert ist für den Pool und die Umgebungsbedingungen. |
+| Der Ventilator läuft, aber der Kompressor stoppt gelegentlich ohne Fehlermeldung | * Wenn die Außentemperatur niedrig ist, führt die Wärmepumpe Abtauzyklen durch.<br>* Der Verdampfer ist möglicherweise verschmutzt und kann nicht ausreichend Energie aufnehmen. Reinigen Sie ihn (siehe § „3.2 I Wartung“). |
+| Das Gerät löst den Leitungsschutzschalter aus | * 🔧 Prüfen Sie, ob der Leitungsschutzschalter korrekt dimensioniert ist und ob die verwendete Kabelquerschnittsgröße passt (siehe § „5.2 I Technische Daten“).<br>* 🔧 Die Versorgungsspannung ist zu niedrig – wenden Sie sich an Ihren Stromversorger. |
+
+## 4.2 | Fehlercodeanzeige
+
+| Anzeige                                                                                 | Mögliche Ursachen                                                                  | Lösungen                                                                                   | Rücksetzung                                               |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| **Fehler 01**<br/>Kommunikationsfehler zwischen Steuerplatine und Anzeigetafel         | Schlechte Verbindung zwischen Platine A1 und A2                                    | Überprüfen Sie die RJ11- und RJ45-Steckverbindungen zwischen den Platinen                  | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Stromversorgungsfehler der Platinen                                                | Überprüfen Sie die Stromversorgung der Platinen                                            |                                                          |
+|                                                                                         | Defekte Platinen                                                                   | Platinen austauschen                                                                       |                                                          |
+| **Fehler 02**<br/>Überhitzung der Elektronikplatine                                     | Lüftungsschlitze an der Geräterückseite blockiert                                  | Rückwand reinigen. Falls das Problem bestehen bleibt: einen autorisierten Techniker rufen | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Ventilatormotor funktioniert nicht korrekt                                         | Ventilatormotor austauschen                                                                |                                                          |
+| **Fehler 03**<br/>Automatischer Schutz bei Netzinstabilitäten                           | Überspannung, Stromausfall oder Spannungseinbruch im Netz                          | Netzqualität prüfen                                                                        | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Fehlerhafte Erdung                                                                 | Erdungskabel prüfen und korrekt anschließen                                                |                                                          |
+|                                                                                         | Platine A1 funktioniert nicht korrekt                                              | Platine A1 austauschen                                                                     |                                                          |
+| **Fehler 05**<br/>Fehler am Ventilatormotor                                             | Ventilatormotor nicht angeschlossen                                                | Anschluss des Ventilatormotors prüfen. Falls Problem bleibt: autorisierten Techniker rufen | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Ventilatormotor defekt                                                             | Ventilatormotor austauschen                                                                |                                                          |
+| **Fehler 06**<br/>Überhitzung der Stromversorgung des Kompressors                       | Lüftungsschlitze an der Rückwand blockiert                                         | Rückwand reinigen<br/>Falls Problem bleibt: autorisierten Techniker rufen                  | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Ventilatormotor funktioniert nicht korrekt                                         | Ventilatormotor austauschen                                                                |                                                          |
+|                                                                                         | Über- oder Unterspannung der Stromversorgung                                       | Netzspannung prüfen (max. 240V ±10 %)                                                      |                                                          |
+| **Fehler 07**<br/>Überstromversorgung des Kompressors                                   | Kompressor funktioniert nicht korrekt                                              | Kompressor austauschen                                                                     | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Platine A1 funktioniert nicht korrekt                                              | Platine A1 austauschen                                                                     |                                                          |
+|                                                                                         | Fehlanschluss der Erdungsmasse                                                     | Erdungskabel korrekt anschließen                                                           |                                                          |
+| **Fehler 08**<br/>Niederdruckstörung im Kältekreislauf                                  | Druckfehler im Niederdruckkreis (wenn Problem nach Reset bestehen bleibt)          | Autorisierten Techniker rufen                                                              | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Wärmetauscher durch Schmutz verstopft                                              | Wärmetauscher reinigen                                                                    |                                                          |
+| **Fehler 09**<br/>Hochdruckstörung im Kältekreislauf                                    | Unzureichender Wasserdurchfluss                                                    | Durchfluss erhöhen (Bypass prüfen), Poolfilter auf Verstopfung prüfen                     | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Luft-Wasser-Gemisch gelangt in das Gerät                                           | Hydrauliksystem des Pools prüfen                                                           |                                                          |
+|                                                                                         | Durchflussregler blockiert                                                         | Durchflussregler prüfen                                                                   |                                                          |
+| **Fehler 10**<br/>Sensorfehler ST3 (Abtausensor)                                        | Sensor defekt oder getrennt (J14-Stecker)                                          | Sensor wieder anschließen oder austauschen                                                 | ⏻ drücken                                                |
+| **Fehler 11**<br/>Sensorfehler ST (Lufteinlasssensor)                                   | Sensor defekt oder getrennt (J12-Stecker)                                          | Sensor wieder anschließen oder austauschen                                                 | ⏻ drücken                                                |
+| **Fehler 12**<br/>Sensorfehler ST5 (Sensor am Verdichteraustritt) | Sensor defekt oder getrennt (J13-Stecker) | Sensor wieder anschließen oder austauschen | ⏻ drücken |
+| **Fehler 13**<br/>Sensorfehler ST4 (Sensor an der Kältemittelleitung) | Sensor defekt oder getrennt (J16-Stecker) | Sensor wieder anschließen oder austauschen | ⏻ drücken |
+| **Fehler 14**<br/>Sensorfehler ST1 (Wasserzulaufsensor) | Sensor defekt oder getrennt (J46-Stecker) | Sensor wieder anschließen oder austauschen | ⏻ drücken |
+
+## Technische Spezifikationen
+
+| **ZS500** | Einheit | MD4 | MD5 | TD5 | MD8 | TD8 |
+| --------- | ------- | ---- | ---- | ---- | ---- | ---- |
+| Betriebstemperaturbereich | Luft | -12 bis 40 °C | -12 bis 40 °C | -12 bis 40 °C | -12 bis 40 °C | -12 bis 40 °C |
+| Betriebstemperaturbereich | Wasser | 12 bis 32 °C | 12 bis 32 °C | 12 bis 32 °C | 12 bis 32 °C | 12 bis 32 °C |
+| Stromversorgung |  | 220–240 V / 50 Hz | 220–240 V / 50 Hz | 380–415 V / 50 Hz | 220–240 V / 50 Hz | 380–415 V / 50 Hz |
+| Zulässige Netzspannungsschwankung |  | ±6 % (im Betrieb) | ±6 % (im Betrieb) | ±6 % (im Betrieb) | ±6 % (im Betrieb) | ±6 % (im Betrieb) |
+| Verschmutzungsklasse |  | I | I | I | I | I |
+| Verschmutzungsgrad |  | 2 | 2 | 2 | 2 | 2 |
+| Überspannungskategorie |  | III | III | III | III | III |
+| Nennstromaufnahme | A | 7,5 | 10 | 4,4 | 15 | 6 |
+| Max. Stromaufnahme | A | 10 | 13,9 | 6 | 22 | 8 |
+| Mindestleiterquerschnitt | mm² | 3 x 2,5 | 3 x 2,5 | 5 x 2,5 | 3 x 6 | 5 x 2,5 |
+| Prüfdruck | Pa | 300.000 | 300.000 | 300.000 | 300.000 | 300.000 |
+| Betriebsdruck | Pa | 150.000 | 150.000 | 150.000 | 150.000 | 150.000 |
+| Druckverlust | mWS (Meter Wassersäule) | 1,5 | 1,5 | 1,5 | 1,5 | 1,5 |
+| Empfohlener Wasserdurchfluss | m³/h | 4 | 5 | 5 | 6 | 6 |
+
+# Stückliste ZS500
+
+## Kompressor
+**Version:** MD4 + MD5
+    - **SKU:** B0050500A
+**Version:** MD8
+    - **SKU:** B0185300A
+**Version:** TD5
+    - **SKU:** V0145000A
+**Version:** TD8
+    - **SKU:** V0145100A
+**Funktion:**
+    - Verdichtet Kältemittel und erhitzt es dadurch
+**Einbauposition:** Verrohrung Kältemittel; Vor 4-Wege-Ventil
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Isolationsmanschette
+**Version:** MD4 + MD5 + TD5
+    - **SKU:** T0041900A
+**Version:** MD8 + TD8
+    - **SKU:** T0067500A
+**Funktion:**
+    - Thermische Isolation des Kompressors
+**Einbauposition:** Um Kompressor gewickelt
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Verdampfer
+**Version:** MD4
+    - **SKU:** M0126100A
+**Version:** MD5 + MD8 + TD5 + TD8
+    - **SKU:** M0042500A
+**Funktion:**
+    - Üerträgt Wärmeenergie aus der Umgebungsluft auf Kältemittel und lässt es verdampfen
+**Einbauposition:** fehlende Angaben
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Wärmetauscher
+**Version:** MD4 + MD5 + TD5
+    - **SKU:** R06954
+**Version:** MD8 + TD8
+    - **SKU:** R06957
+**Funktion:** gibt Wärme vom Kältemittel an Wasser ab
+**Einbauposition:** Rückseite des Geräts. Hinter Abdeckplatte für Wärmetauscher
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Kondensatablaufwinkel
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** WTC02971
+**Funktion:**
+    - führt Kondensat aus der Auffangwanne ab
+**Einbauposition:** Unterseite Auffangwanne
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Obere Abdeckung
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** A0240800A
+**Funktion:** Deckt Ventilatorgehäuse ab
+**Einbauposition:** auf dem Ventilatorgehäuse
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Frontblende
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** A0240500A
+**Funktion:** Deckt Frontseite ab
+**Einbauposition:** Frontseite
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Lüftergehäuse
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** A0240700A
+**Funktion:** Gehäuse für Ventilator
+**Einbauposition:** Oberseite des Geräts
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Wärmetauscher-Abdeckplatte
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** M0041200A
+**Funktion:** Deckt Wärmetauscher ab
+**Einbauposition:** Rückseite
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Abdeckung Steuereinheit
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** M0041300A
+**Funktion:** Schützt Steuereinheit
+**Einbauposition:** Rückseite; An Steuereinheit angeschraubt
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Grundplatte
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** A0240600A
+**Funktion:** Trägt andere Komponenten
+**Einbauposition:** Unterseite
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Expansionsventil
+**Version:** MD4
+    - **SKU:** WTC03927
+**Version:** MD5 + MD8 + TD5 + TD8
+    - **SKU:** WTC03928
+**Funktion:** mindert den Druck des Kältemittels und bringt es teilweise zum Verdampfen
+**Einbauposition:** Nach Kondensator; Vor Verdampfer
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## 4-Wege-Ventil
+**Version:** MD4 + MD5 + TD5
+    - **SKU:** WTC03989
+**Version:** MD8 + TD8
+    - **SKU:** V0144700A
+**Funktion:** Umschaltventil zur Umkehr der Kältemittelflussrichtung – ermöglicht Heiz- und Enteisungsbetrieb.
+**Einbauposition:** Nach dem Kompressor; vor dem Verdampfer/Kondensator
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Paddelschalter
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** B0052400A
+**Funktion:** Erkennt ob genügend Volumenstrom vorhanden ist
+**Einbauposition:** Im Wasseraustritt des Wärmetauschers
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Heißgastemperatursensor ST5
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** keine Angaben
+**Funktion:** misst Temperatur des Kältemittels nach austritt aus dem Kompressor
+**Einbauposition:** Kältemittelverrohrung nach Kompressor
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Flüssigkeitstemperatursensor ST4
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** keine Angaben
+**Funktion:** misst Temperatur des Kältemittels nach austritt aus dem Wärmetauscher
+**Einbauposition:** Kältemittelverrohrung nach Wärmetauscher
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Rücklauftemperatursensor ST1
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** keine Angaben
+**Funktion:** misst Temperatur des Wasser am Eingang des Wärmetauschers
+**Einbauposition:** Eingang Wärmetauscher
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Außentemperatursensor ST2
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** keine Angaben
+**Funktion:** misst Außentemperatur (Luft)
+**Einbauposition:** fehlende Angaben
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Frostschutzsensor ST3
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** keine Angaben
+**Funktion:** misst Temperatur am Verdampfer um zu prüfen ob dieser vereist
+**Einbauposition:** Am Verdampfer
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Steuereinheit
+**Version:** MD4
+    - **SKU:** B0203200A
+**Version:** MD5
+    - **SKU:** B0052100A
+**Version:** MD8
+    - **SKU:** B0203300A
+**Version:** TD5
+    - **SKU:** B0224900A
+**Version:** TD8
+    - **SKU:** B0225000A
+**Funktion:** Beinhaltet Steuerplatine, Kondensatoren, Relais
+**Einbauposition:** Rückseite
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Relais
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** B0050800A
+**Funktion:** fehlende Angaben
+**Einbauposition:** Auf Steuereinheit
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Filterspule
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** B0050700A
+**Funktion:** fehlende Angaben
+**Einbauposition:** Auf Steuereinheit
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Steuerplatine
+**Version:** MD4
+    - **SKU:** R07146
+**Version:** MD5
+    - **SKU:** R07147
+**Version:** MD8
+    - **SKU:** R07148
+**Version:** TD5
+    - **SKU:** B0217300B
+**Version:** TD8
+    - **SKU:** B0217400B
+**Funktion:** steuert Kompressor, Ventilator, 4-Wege-Ventil
+**Einbauposition:** Auf Steuereinheit
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** Kompressor, Ventilatormotor, Magnetventil, HMI-Platine
+
+## Entstörfilter
+**Version:** MD4 + MD5
+    - **SKU:** B0050900A
+**Version:** MD8
+    - **SKU:** WTC04000
+**Version:** TD5 + TD8
+    - **SKU:** B0217600A
+**Funktion:** fehlende Angaben
+**Einbauposition:** Auf Steuereinheit
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Spule für Expansionsventil
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** B0217200A
+**Funktion:** schaltet Expansionsventil
+**Einbauposition:** Am Expansionsventil
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** Expansionsventil
+
+## Spule für 4-Wege-Ventil
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** WTC03836
+**Funktion:** schaltet 4-Wege-Ventil
+**Einbauposition:** Am 4-Wege-Ventil
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** 4-Wege-Ventil
+
+## Heizpatrone
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** B0051000A
+**Funktion:** verhindert Vereisung des Wassers im Wärmetauscher
+**Einbauposition:** Am Wärmetauscher
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Niederdruckwächter
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** B0051200A
+**Funktion:** schaltet signal bei zu niedrigem Druck im Niederdruckbereich
+**Einbauposition:** im Niederdruckbereich vor dem Flüssigkeitsfiltertrockner
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Hochdruckwächter
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** B0051100A
+**Funktion:** schaltet Signal bei zu hohem Druck im Hochdruckbereich
+**Einbauposition:** Im Hochdruckbereich nach dem Kompressor
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Zwischenkreiskondensator
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** B0217700A
+**Funktion:** Speichert energie im Gleichspannungs-Zwischenkreis nach Gleichrichter
+**Einbauposition:** Auf Steuereinheit
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Anti-Vibrations-Fuß
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** A0261100A
+**Funktion:** mindert Vibration der Wärmepumpe
+**Einbauposition:** Unter der Grundplatte
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Steuerkabel RJ11/RJ45
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** B0051900A
+**Funktion:** Verbindet Steuerplatine mit Bedieneinheit
+**Einbauposition:** Angesteckt an Steuerplatine und Bedieneinheit
+**Typische Fehlerquellen:** nicht richtig verbunden/angesteckt
+**Abhängige Komponenten:** Bedieneinheit
+
+## Lüftermotor
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** B0050300A
+**Funktion:** treibt Ventilator an
+**Einbauposition:** Unterhalb des Ventilators. Auf Motorkonsole
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Ventilator
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** WTC03955
+**Funktion:** erzeugt Luftstrom
+**Einbauposition:** Unterhalb des Lüftergehäuses
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Motorkonsole
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** M0132900A
+**Funktion:** Befestigung für Lüftermotor
+**Einbauposition:** Unterhalb des Lüftergehäuses
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+## Schutzgitter für Verdampfer
+**Version:** MD4 + MD5 + MD8 + TD5 + TD8
+    - **SKU:** A0261000A
+**Funktion:** schützt Verdampfer
+**Einbauposition:** Um Verdampfer
+**Typische Fehlerquellen:** fehlende Angaben
+**Abhängige Komponenten:** fehlende Angaben
+
+---
+
+# Technische Daten
+
+## MD4
+**Betriebstemperatur Luft:** -12°C bis 40°C
+**Betriebstemperatur Wasser:** 12°C bis 32°C
+**Spannungsversorgung:** 220 - 240 V, 50Hz
+**Zulässige Spannungsabweichung:** +/- 6%
+**Gerätesicherheit nach DIN IEC 60335-2-40:** I
+**Verschmutzungsgrad nach DIN IEC 60335-1:** 2
+**Überspannungskategorie nach DIN IEC 60335-1:** III
+**Nominale Stromaufnahme:** 7,5 A
+**Maxiale Stromaufnahme:** 10 A
+**Mindestkabelquerschnitt (Stromquelle):** 3 x 2,5 mm²
+**Prüfdruck:** 300.000 Pa
+**Betriebsdruck:** 150.000 Pa
+**Druckverlust:** 1,5 bar
+**Mittlerer Mwasserdurchsatz:** 4 m³/h
+**Empfohlenes Beckenvolumen:** 65 m³
+**Effizienz bei 28°C Lufttemperatur, 28°C Wassertemperatur und 80% Luftfeuchtigkeit**
+    - **Maximale Heizleistung:** 12 kW
+    - **Durchschnittliche Heizleistung:** 9,3 kW
+    - **Minimale Heizleistung:** 7,4 W
+    - **Leistungsaufnahme:** 1,2 kW
+    - **Durchschnittlicher COP:** 7,6
+**Effizienz bei 15°C Lufttemperatur, 26°C Wassertemperatur und 70% Luftfeuchtigkeit**
+    - **Maximale Heizleistung:** 9,1 kW
+    - **Durchschnittliche Heizleistung:** 7 kW
+    - **Minimale Heizleistung:** 5,5 kW
+    - **Leistungsaufnahme:** 1,2 kW
+    - **Durchschnittlicher COP:** 5,7
+
+## MD5
+**Betriebstemperatur Luft:** -12°C bis 40°C
+**Betriebstemperatur Wasser:** 12°C bis 32°C
+**Spannungsversorgung:** 220 - 240 V, 50 Hz
+**Zulässige Spannungsabweichung:** +/- 6%
+**Gerätesicherheit nach DIN IEC 60335-2-40:** I
+**Verschmutzungsgrad nach DIN IEC 60335-1:** 2
+**Überspannungskategorie nach DIN IEC 60335-1:** III
+**Nominale Stromaufnahme:** 10 A
+**Maxiale Stromaufnahme:** 13,9 A
+**Mindestkabelquerschnitt (Stromquelle):** 3 x 2,5 mm²
+**Prüfdruck:** 300.000 Pa
+**Betriebsdruck:** 150.000 Pa
+**Druckverlust:** 1,5 bar
+**Mittlerer Mwasserdurchsatz:** 5 m³/h
+**Empfohlenes Beckenvolumen:** 80 m³
+**Effizienz bei 28°C Lufttemperatur, 28°C Wassertemperatur und 80% Luftfeuchtigkeit**
+    - **Maximale Heizleistung:** 15,3 kW
+    - **Durchschnittliche Heizleistung:** 11,4 kW
+    - **Minimale Heizleistung:** 7,8 kW
+    - **Leistungsaufnahme:** 1,6 kW
+    - **Durchschnittlicher COP:** 7
+**Effizienz bei 15°C Lufttemperatur, 26°C Wassertemperatur und 70% Luftfeuchtigkeit**
+    - **Maximale Heizleistung:** 11,6 kW
+    - **Durchschnittliche Heizleistung:** 8,6 kW
+    - **Minimale Heizleistung:** 5,8 kW
+    - **Leistungsaufnahme:** 1,6 kW
+    - **Durchschnittlicher COP:** 5,4
+
+## MD8
+**Betriebstemperatur Luft:** -12°C bis 40°C
+**Betriebstemperatur Wasser:** 12°C bis 32°C
+**Spannungsversorgung:** 220 - 240V, 50 Hz
+**Zulässige Spannungsabweichung:** +/- 6%
+**Gerätesicherheit nach DIN IEC 60335-2-40:** I
+**Verschmutzungsgrad nach DIN IEC 60335-1:** 2
+**Überspannungskategorie nach DIN IEC 60335-1:** II
+**Nominale Stromaufnahme:** 15 A
+**Maxiale Stromaufnahme:** 22 A
+**Mindestkabelquerschnitt (Stromquelle):** 3 x 6 mm²
+**Prüfdruck:** 300.000 Pa
+**Betriebsdruck:** 150.000 Pa
+**Druckverlust:** 1,5 bar
+**Mittlerer Mwasserdurchsatz:** 6 m³/h
+**Empfohlenes Beckenvolumen:** 110 m³
+**Effizienz bei 28°C Lufttemperatur, 28°C Wassertemperatur und 80% Luftfeuchtigkeit**
+    - **Maximale Heizleistung:** 20 kW
+    - **Durchschnittliche Heizleistung:** 15,6 kW
+    - **Minimale Heizleistung:** 10,5 kW
+    - **Leistungsaufnahme:** 2,6 kW
+    - **Durchschnittlicher COP:** 6
+**Effizienz bei 15°C Lufttemperatur, 26°C Wassertemperatur und 70% Luftfeuchtigkeit**
+    - **Maximale Heizleistung:** 15 kW
+    - **Durchschnittliche Heizleistung:** 11,7 kW
+    - **Minimale Heizleistung:** 7,8 kW
+    - **Leistungsaufnahme:** 2,4 kW
+    - **Durchschnittlicher COP:** 4,8
+
+## TD5
+**Betriebstemperatur Luft:** -12°C bis 40°C
+**Betriebstemperatur Wasser:** 12°C bis 32°C
+**Spannungsversorgung:** 380 - 415 V, 50 Hz
+**Zulässige Spannungsabweichung:** +/- 6%
+**Gerätesicherheit nach DIN IEC 60335-2-40:** I
+**Verschmutzungsgrad nach DIN IEC 60335-1:** 2
+**Überspannungskategorie nach DIN IEC 60335-1:** II
+**Nominale Stromaufnahme:** 4,4 A
+**Maxiale Stromaufnahme:** 6 A
+**Mindestkabelquerschnitt (Stromquelle):** 5 x 2,5 mm²
+**Prüfdruck:** 300.000 Pa
+**Betriebsdruck:** 150.000 Pa
+**Druckverlust:** 1,5 bar
+**Mittlerer Mwasserdurchsatz:** 5 m³/h
+**Empfohlenes Beckenvolumen:** 80 m³
+**Effizienz bei 28°C Lufttemperatur, 28°C Wassertemperatur und 80% Luftfeuchtigkeit**
+    - **Maximale Heizleistung:** 15,3 kW
+    - **Durchschnittliche Heizleistung:** 11,4 kW
+    - **Minimale Heizleistung:** 7,8 kW
+    - **Leistungsaufnahme:** 1,6 kW
+    - **Durchschnittlicher COP:** 7
+**Effizienz bei 15°C Lufttemperatur, 26°C Wassertemperatur und 70% Luftfeuchtigkeit**
+    - **Maximale Heizleistung:** 11,6 kW
+    - **Durchschnittliche Heizleistung:** 8,6 kW
+    - **Minimale Heizleistung:** 5,8 kW
+    - **Leistungsaufnahme:** 1,6 kW
+    - **Durchschnittlicher COP:** 5,4
+
+## TD8
+**Betriebstemperatur Luft:** -12°C bis 40°C
+**Betriebstemperatur Wasser:** 12°C bis 32°C
+**Spannungsversorgung:** 380 - 415 V, 50 Hz
+**Zulässige Spannungsabweichung:** +/- 6%
+**Gerätesicherheit nach DIN IEC 60335-2-40:** I
+**Verschmutzungsgrad nach DIN IEC 60335-1:** 2
+**Überspannungskategorie nach DIN IEC 60335-1:** II
+**Nominale Stromaufnahme:** 6 A
+**Maxiale Stromaufnahme:** 8 A
+**Mindestkabelquerschnitt (Stromquelle):** 5 x 2,5 mm²
+**Prüfdruck:** 300.000 Pa
+**Betriebsdruck:** 150.000
+**Druckverlust:** 1,5 bar
+**Mittlerer Mwasserdurchsatz:** 6 m³/h
+**Empfohlenes Beckenvolumen:** 110 m³
+**Effizienz bei 28°C Lufttemperatur, 28°C Wassertemperatur und 80% Luftfeuchtigkeit**
+    - **Maximale Heizleistung:** 20 kW
+    - **Durchschnittliche Heizleistung:** 15,5 kW
+    - **Minimale Heizleistung:** 10,4 kW
+    - **Leistungsaufnahme:** 2,6 kW
+    - **Durchschnittlicher COP:** 6
+**Effizienz bei 15°C Lufttemperatur, 26°C Wassertemperatur und 70% Luftfeuchtigkeit**
+    - **Maximale Heizleistung:** 15 kW
+    - **Durchschnittliche Heizleistung:** 11,6 kW
+    - **Minimale Heizleistung:** 7,7 kW
+    - **Leistungsaufnahme:** 2,4 kW
+    - **Durchschnittlicher COP:** 4,8
+
+# Stückliste Zodiac ZS500iQ Wärmepumpe
+
+## Unterstückliste Elektronik
+
+| Nr.                           | Bezeichnung                                                         | Art. Nr.  | Anzahl |
+| ----------------------------- | ------------------------------------------------------------------- | --------- | ------ |
+| 25                            | Paddelschalter                                                      | B0052400A | 1    |
+| 26-30                         | Fühler ST1, ST2, ST3, ST4, ST5<br/>(1 Ersatzfühler mit Wagoklemmen) | R06740    | 5    |
+| 31                            | Steuerung / Regeleinheit kpl., ohne Display für MD4                 | B0203200A | 1    |
+| 31                            | Steuerung / Regeleinheit kpl., ohne Display für MD5                 | B0052100A | 1    |
+| 31                            | Steuerung / Regeleinheit kpl., ohne Display für MD8                 | B0203300A | 1    |
+| 31                            | Steuerung / Regeleinheit kpl., ohne Display für TD5                 | B0224900A | 1    |
+| 31                            | Steuerung / Regeleinheit kpl., ohne Display für TD8                 | B0225000A | 1    |
+| 34                            | Hauptplatine A1 inkl. Patch A4 für MD4                        | R07146    | 1    |
+| 34                            | Hauptplatine A1 inkl. Patch A4 für MD5                        | R07147    | 1    |
+| 34                            | Hauptplatine A1 inkl. Patch A4 für MD8                        | R07148    | 1    |
+| 34                            | Hauptplatine A1 inkl. Patch A4 für TD5                        | B0217300B | 1    |
+| 34                            | Hauptplatine A1 mit integriertem Patch für TD8                | B0217400B | 1    |
+| 34                            | Feinsicherung für Platine A1, 25A 6,3 × 32                          | B0050600A | 1    |
+| 46                            | Kondensator 1500μF 400V für TD5, TD8                                | B0217700A | 1    |
+| 56                            | Steuerkabel RJ11/45 2M                                              | B0051900A | 1    |
+| 37                            | Entstörfilter EMC für MD4, MD5                                      | B0050900A | 1    |
+| 37                            | Entstörfilter EMC für MD8                                           | WTC04000  | 1    |
+| 37                            | Entstörfilter EMC für TD5, TD8                                      | B0217600A | 1    |
+| 32                            | Umschaltrelais 12A 230V, 2 Wechsler                                 | B0050800A | 1    |
+| 32                            | Relais TD5, TD8                                                     | B0217500A | 1    |
+| 33                            | Filterspule 30 KHZ 1,5mH 22A                                        | B0050700A | 1    |
+| 38                            | Induktor Filter für DTx (400V)                                      | R0848700  | 1    |
+| 47                            | Feinsicherung für Platine A1, 25A 6,3 × 32                          | B0050600A | 1    |
+| 42                            | Heizpatrone 55W L750                                                | B0051000A | 1    |
+| 66                            | Lüftermotor                                                         | B0050300A | 1    |
+| 76                            | Bedieneinheit / Display PAD                                   | WVH00001  | 1    |
+|                         | Patch A4 für Hauptplatine A1                                        | R06930    | 1    |
+|                         | Filter für 4-Wege-Ventil                                            | R0800000  | 1    |
+
+## Unterstückliste Kältetechnik
+
+| Nr.                           | Bezeichnung                                                         | Art. Nr.  | Anzahl |
+| ----------------------------- | ------------------------------------------------------------------- | --------- | ------ |
+| 1                             | Kompressor für MD4, MD5                                             | B0050500A | 1    |
+| 1                             | Kompressor für MD8                                                  | B0185300A | 1    |
+| 1                             | Kompressor für TD5                                                  | V0145000A | 1    |
+| 1                             | Kompressor für TD8                                                  | V0145100A | 1    |
+| 6                             | Verdampfer für MD4                                                  | M0126100A | 1    |
+| 6                             | Verdampfer für MD5, TD5, MD8, TD8                                   | M0042500A | 1    |
+| 17                            | Druckminderventil für MD4                                           | WTC03927  | 1    |
+| 17                            | Druckminderventil für MD5, TD5, MD8, TD8                            | WTC03928  | 1    |
+| 40                            | Spule für Druckminderventil                                         | B0217200A | 1    |
+| 20                            | 4-Wege-Ventil für MD4, MD5, TD5                                     | WTC03989  | 1    |
+| 20                            | 4-Wege-Ventil für MD8, TD8                                          | V0144700A | 1    |
+| 41                            | Magnetschalter für 4-Wege-Ventil                                    | WTC03836  | 1    |
+| 44                            | Druckwächter Niederdruck                                            | B0051200A | 1    |
+| 45                            | Druckwächter Hochdruck                                              | B0051100A | 1    |
+| 75                            | Kondensator / Wärmetauscher für MD4, MD5, TD5                    | R06954    | 1    |
+| 75                            | Kondensator / Wärmetauscher für MD8, TD8                         | R06957    | 1    |
+|                         | Trockner Byflow (BFK 83S) für MD4, MD5, TD5                    | WDA01388  | 1    |
+|                         | Trockner Byflow (BFK 84S) für MD8, TD8                         | WDA01389  | 1    |
+
+## Unterstückliste Gehäuse
+
+| Nr.            | Bezeichnung                                                                                   | Art. Nr.  | Anzahl |
+| -------------- | --------------------------------------------------------------------------------------------- | --------- | ---- |
+| 10             | Obere Abdeckung                                                                               | A0240800A | 1    |
+| 11             | Frontblende                                                                                   | A0240500A | 1    |
+| 12             | Lüftergehäuse                                                                                 | A0240700A | 1    |
+| 13             | Kondensator Austrittsplatte                                                                   | M0041200A | 1    |
+| 14             | Technikzugang Gehäuse Eckteil                                                                 | M0041300A | 1    |
+| 15             | Grundplatte                                                                                   | A0240600A | 1    |
+| 54             | Aufkleber Zodiac Logo                                                                         | W2070A    | 1    |
+| 71             | Schutzgitter für Verdampfer                                                                   | A0261000A | 1    |
+| 68             | Motorkonsole für Ventilator / Propeller für MD4                                               | M0132900A | 2    |
+| 68             | Motorkonsole für Ventilator / Propeller für MD5, MD8, TD5, TD8                                | M0041400A | 2    |
+| o. Nr.         | Bedienfolie für PAD                                                                           | WZD00001  | 1    |
+
+## Unterstückliste Sonstiges
+
+| Nr.            | Bezeichnung                                                                                   | Art. Nr.  | Anzahl |
+| -------------- | --------------------------------------------------------------------------------------------- | --------- | ---- |
+| 2              | Schallschutzhaube für Kompressor für MD4, MD5, TD5                                            | T0041900A | 1    |
+| 2              | Schallschutzhaube für Kompressor für MD8, TD8                                                 | T0067500A | 1    |
+| 7              | Kondensatablaufwinkel                                                                         | WTC02971  | 1    |
+| 50             | Anti-Vibrationsfuß                                                                            | A0261100A | 4    |
+| 67             | Propeller / Ventilator                                                                        | WTC03955  | 1    |
+| 77             | Set Fixierscheiben für Stutzen                                                                | R06415    | 1    |
+| E              | Anschluss-Stück Kondensator oben (mit Abzweig)                                                | A0358000A | 1    |
+| F              | Anschluss-Stück Kondensator unten (ohne Abzweig)                                              | A0357800A | 1    |
+| 78             | Halbverschraubung (Paar) 1 ½", 50 mm inkl. Dichtung                                           | W20RDU    | 2    |
+| 79             | Flachdichtung für Halbverschraubung 1 ½", 50 mm                                               | WNS03428  | 2    |
+|         | Reparaturset für Kondensator / Tauchhülse                                                     | R0890200  | 1    |
+|         | Verschlusskappe für Kondensatoranschlüsse (gelb außen = WPC02908 / milchig innen = DWPC02908) | DWPC02908 | 2    |
+|         | Befestigungsclips für Plastikteile                                                            | M0042300A | 10   |
+|          | Befestigungsclips für Metallteile                                                             | M0042400A | 2    |
+|          | Auffangwanne mit Ablaufwinkel                                                                 | R07240    | 1    |
+|         | Wandhalterung für Bedieneinheit                                                               | WH000201  | 1    |
+|          | Umbausatz Indoor                                                                              | WH000202  | 1    |
+|          | Abdeckhaube                                                                                   | R07096    | 1    |
+|          | Reinigungsmittel 5L                                                                           | WMA03491  | 1    |
+|          | Reinigungsmittel in Sprühflaschen (Set mit 5 x 50 ml)                                         | R06147    | 1    |
