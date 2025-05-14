@@ -1,6 +1,6 @@
 ---
 title: Skimmer V4A Typ B 200
-parent: Kunststoff Skimmer
+parent: Edelstahl Skimmer
 ---
 
 # Einbauskimmer V4A Typ B 200 (D155100055)
