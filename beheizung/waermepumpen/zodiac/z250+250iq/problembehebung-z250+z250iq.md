@@ -1,13 +1,15 @@
 ---
-title: Z250 + Z250iQ
-parent: Zodiac Wärmepumpen
+title: Problembehebung Z250 + Z250 iQ
+parent: Z250 + Z250 iQ
 ---
 
-# Technische Spezifikationen Z250 + Z250iQ
+# Problembehebung Z250 + Z250 iQ
 
-## Leistungsangaben
+## Technische Spezifikationen Z250 + Z250iQ
 
-### Leistungen: Luft bei 26 °C / Wasser bei 26 °C / Luftfeuchtigkeit 80 %
+### Leistungsangaben Z250 + Z250 iQ
+
+#### Leistungen: Luft bei 26 °C / Wasser bei 26 °C / Luftfeuchtigkeit 80 % Z250 + Z250 iQ
 
 |                                                         |    | MD3        | MD4        | MD5        | MD6        | MD8        |
 | ------------------------------------------------------- | -- | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -21,7 +23,7 @@ parent: Zodiac Wärmepumpen
 | Aufgenommene Leistung<br/>(max. - min. Geschwindigkeit) | kW | 4,5 - 0,5  | 5,6 - 0,7  | 3,5 - 0,6  | 4,5 - 0,5  | 5,6 - 0,7  |
 | Mittlerer COP<br/>(max. - min. Geschwindigkeit)         |    | 5,4 - 13,7 | 5,4 - 13,2 | 5,6 - 12,5 | 5,4 - 13,7 | 5,4 - 13,2 |
 
-### Leistungen: Luft bei 15 °C / Wasser bei 26 °C / Luftfeuchtigkeit 70 %
+#### Leistungen: Luft bei 15 °C / Wasser bei 26 °C / Luftfeuchtigkeit 70 % Z250 + Z250 iQ
 
 |                                                         |    | MD3       | MD4       | MD5       | MD6        | MD8        |
 | ------------------------------------------------------- | -- | --------- | --------- | --------- | ---------- | ---------- |
@@ -35,6 +37,9 @@ parent: Zodiac Wärmepumpen
 | Aufgenommene Leistung<br/>(max. - min. Geschwindigkeit) | kW | 3,9 - 0,6  | 5,3 - 0,8  | 3,2 - 0,7  | 3,9 - 0,6  | 5,3 - 0,8  |
 | Mittlerer COP<br/>(max. - min. Geschwindigkeit)         |    | 4,5 - 7,8  | 4,5 - 7,5  | 4,6 - 7,4  | 4,5 - 7,8  | 4,5 - 7,5  |
 
+### Technische Daten Z250 + Z250 iQ
+
+#### Technische Daten Z250 + Z250 iQ Teil 1
 
 |                               |             |                                                                                                 |
 | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------- |
@@ -51,6 +56,8 @@ parent: Zodiac Wärmepumpen
 | Hochfrequenz-Sendeleistung    |             | +19,5 dBm                                                                                       |
 | Installationsort              |             | außen          
 
+#### Technische Daten Z250 + Z250 iQ Teil 2
+
 |                                                        |                  | MD3     | MD4   | MD5   | MD6   | MD8  |
 | ------------------------------------------------------ | ---------------- | ------- | ----- | ----- | ----- | ---- |
 | Norme EN 17645                                         |                  | A       | A     | A     | A     | A    |
@@ -64,6 +71,8 @@ parent: Zodiac Wärmepumpen
 | Füllmenge vom Kältemittel                              | kg               | 0,3     | 0,45  | 0,6   | 0,7   | 1,0  |
 |                                                        | Äquiv. Tonne CO2 | 0,20    | 0,30  | 0,41  | 0,47  | 0,68 |
 | Ungefähres Gewicht                                     | kg               | 42,5    | 44,5  | 49,5  | 56    | 70   |
+
+#### Technische Daten Z250 + Z250 iQ Teil 3
 
 |                                                        |                  | MD9     | MD12    | TD8     | TD9     | TD12    |
 | ------------------------------------------------------ | ---------------- | ------- | ------- | ------- | ------- | ------- |
@@ -94,8 +103,6 @@ parent: Zodiac Wärmepumpen
 | TD9  |     |      |       |     |     |     |     |
 | TD12 | 846 | 1133 | 509,5 | 743 | 545 | 430 |     |
 
-# Fehlerbehebung Z250 + Z250iQ
-
 ## Geräteverhalten Z250 + Z250 iQ
 
 ### Geräteverhalten Z250 + Z250 iQ Teil 1
@@ -117,8 +124,8 @@ parent: Zodiac Wärmepumpen
 | Das Gerät löst den Schutzschalter aus                                                                         | • 🔧 Prüfen, ob der Schutzschalter richtig dimensioniert ist und ob der verwendete Kabelquerschnitt korrekt ist (siehe § „5.2 \| Technische Daten").<br/>• 🔧 Die Spannungsversorgung ist zu niedrig; wenden Sie sich an Ihren Stromversorger.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 
-## Fehlercodes Z250 + Z250iQ
-### Fehlercodes Z250 + Z250 iQ Teil 1
+## Fehlercodeanzeige Z250 + Z250iQ
+### Fehlercodeanzeige Z250 + Z250 iQ Teil 1
 
 | Fehlercode | Beschreibung | Mögliche Ursachen | Lösungen |
 | -----------| ------------ | ----------------- | -------- |
@@ -133,7 +140,7 @@ parent: Zodiac Wärmepumpen
 | **Er04** | Frostschutz | Schutz aktiviert, wenn die Umgebungstemperatur zu niedrig ist und das Gerät im Standby-Modus ist | Kein Eingreifen erforderlich |
 | **Er05** | Schutz vor hohem Druck. Wenn dieser Fehler 3 Mal innerhalb von 30 Minuten auftritt, trennen Sie die Pumpe um den Fehler zu löschen. |  Unzureichender  Wasserdurchfluss | Verdampfer reinigen / Wasserpumpenbetrieb und Öffnungen der Bypass-Einlass- und -Auslassventile prüfen / Überprüfen, ob der Paddelschalter richtig funktioniert|
 
-### Fehlercodes Z250 + Z250 iQ Teil 2
+### Fehlercodeanzeige Z250 + Z250 iQ Teil 2
 
 | Fehlercode | Beschreibung | Mögliche Ursachen | Lösungen |
 | -----------| ------------ | ----------------- | -------- |
@@ -151,7 +158,7 @@ parent: Zodiac Wärmepumpen
 |          | | Defekte Hauptplatine | Hauptplatine austauschen |
 | **Er11** | Zu hohe Temperaturdifferenz zwischen Einlass- und Auslasswassertemperatur. Wenn dieser Fehler 3 Mal innerhalb von 30 Minuten auftritt, trennen Sie die Pumpe um den Fehler zu löschen. | Unzureichender Wasserdurchfluss | Der Fehlercode verschwindet nach 3 Minuten und das Gerät funktioniert wieder |
 
-### Fehlercodes Z250 + Z250 iQ Teil 3
+### Fehlercodeanzeige Z250 + Z250 iQ Teil 3
 
 | Fehlercode | Beschreibung | Mögliche Ursachen | Lösungen |
 | -----------| ------------ | ----------------- | -------- |
@@ -163,7 +170,7 @@ parent: Zodiac Wärmepumpen
 | **Er16** | Fehler am Temperaturfühler des Verdampfers | Fühler von der Stromversorgung getrennt oder defekt | Fühler wieder anschließen oder ersetzen |
 | **Er18** | Fehler am Temperaturfühler des Gases an der Druckseite des Kompressors. Wenn dieser Fehler 3 Mal innerhalb von 30 Minuten auftritt, trennen Sie die Pumpe um den Fehler zu löschen. | Fühler von der Stromversorgung getrennt oder defekt | Fühler wieder anschließen oder ersetzen |
 
-### Fehlercodes Z250 + Z250 iQ Teil 4
+### Fehlercodeanzeige Z250 + Z250 iQ Teil 4
 
 | Fehlercode | Beschreibung | Mögliche Ursachen | Lösungen |
 | -----------| ------------ | ----------------- | -------- |
@@ -176,7 +183,7 @@ parent: Zodiac Wärmepumpen
 |          | | Temperaturfühler defekt | Temperaturfühler austauschen |
 |          | | Ventilatormotor defekt | Ventilatormotor überprüfen und austauschen |
 
-### Fehlercodes Z250 + Z250 iQ Teil 5
+### Fehlercodeanzeige Z250 + Z250 iQ Teil 5
 
 | Fehlercode | Beschreibung | Mögliche Ursachen | Lösungen |
 | -----------| ------------ | ----------------- | -------- |
@@ -187,7 +194,7 @@ parent: Zodiac Wärmepumpen
 | **Er41** | Kompressorstromschutz (abschalten). Wenn dieser Fehler 6 Mal innerhalb von 60 Minuten auftritt, trennen Sie die Pumpe vom Stromnetz, um den Fehler zu löschen. | Anormale Antriebssteuerung | Überprüfen, ob genügend Kältemittel vorhanden ist und ob der Unterdruck in der Anlage ausreichend ist / Antriebsplatine austauschen / Kompressor austauschen |
 | **Er45** | Interner Temperaturfehler an der Elektronik. Wenn dieser Fehler 6 Mal innerhalb von 60 Minuten auftritt, trennen Sie die Pumpe vom Stromnetz, um den Fehler zu löschen. | Anormale Antriebssteuerung | Hauptplatine austauschen |
 
-### Fehlercodes Z250 + Z250 iQ Teil 6
+### Fehlercodeanzeige Z250 + Z250 iQ Teil 6
 
 | Fehlercode | Beschreibung | Mögliche Ursachen | Lösungen |
 | -----------| ------------ | ----------------- | -------- |
@@ -195,7 +202,7 @@ parent: Zodiac Wärmepumpen
 | **Er47** | Versorgungsstrom zu hoch (abschalten). Wenn dieser Fehler 6 Mal innerhalb von 60 Minuten auftritt, trennen Sie die Pumpe vom Stromnetz, um den Fehler zu löschen. | Anormale Antriebssteuerung | Überprüfen, ob genügend Kältemittel vorhanden ist und ob der Unterdruck in der Anlage ausreichend ist / Hauptplatine austauschen / Kompressor austauschen |
 | **Er48** | Interner Temperaturfehler an der Elektronik (abschalten)<br/><br/>Wenn dieser Fehler 6 Mal innerhalb von 60 Minuten auftritt, trennen Sie die Pumpe vom Stromnetz, um den Fehler zu löschen. | Anormale Antriebssteuerung | Antriebsplatine austauschen |
 
-### Fehlercodes Z250 + Z250 iQ Teil 7
+### Fehlercodeanzeige Z250 + Z250 iQ Teil 7
 
 | Fehlercode | Beschreibung | Mögliche Ursachen | Lösungen |
 | -----------| ------------ | ----------------- | -------- |
@@ -213,7 +220,7 @@ parent: Zodiac Wärmepumpen
 3. Taste :arrow_right: drücken, um durch die verfügbaren Parameter zu scrollen.
 4. Taste *SET* drücken um zum Hauptmenü zurückzukehren
 
-### Tabelle Arbeitsparameter
+### Tabelle Arbeitsparameter Z250 + Z250 iQ
 
 | Code | Beschreibung                                    |
 | ---- | ----------------------------------------------- |
@@ -258,7 +265,7 @@ parent: Zodiac Wärmepumpen
 | Pr   | Protokollversion                  |
 | Sr   | Softwareversion                   |
 
-# Stückliste Z250 + Z250iQ
+## Stückliste Z250 + Z250iQ
 
 | Artikelnummer   | Bezeichnung                            | Variante                                                                                                                                                                                                                                                                                     |
 |:----------------|:---------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
