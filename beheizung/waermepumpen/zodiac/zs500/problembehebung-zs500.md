@@ -3,6 +3,84 @@ title: Problembehebung ZS500
 parent: ZS500
 ---
 
+# Problembehebung ZS500
+
+## Geräteverhalten ZS500
+
+| Problem | Lösungen |
+| --- | --- |
+| Das Gerät beginnt nicht sofort mit dem Heizen | * Beim Start verbleibt das Gerät für 30 Sekunden im „Pause“-Modus, bevor es den Betrieb aufnimmt.<br>* Wenn die Solltemperatur erreicht ist, stoppt die Wärmepumpe das Heizen: Die Wassertemperatur ist gleich oder höher als die Solltemperatur.<br>* Wenn kein oder zu wenig Wasserdurchfluss vorhanden ist, stoppt die Wärmepumpe: Überprüfen Sie, ob das Wasser korrekt durch die Wärmepumpe zirkuliert (siehe § „2.5 I Menüübersicht“) und ob die hydraulischen Anschlüsse korrekt sind.<br>* Die Wärmepumpe stoppt, wenn die Außentemperatur unter -12 °C fällt.<br>* Es kann sein, dass die Wärmepumpe eine Betriebsstörung erkannt hat (siehe § „4.2 I Fehlercodeanzeige“).<br>* Wenn Sie diese Punkte überprüft haben und das Problem weiterhin besteht: Wenden Sie sich an Ihren Händler. |
+| Das Gerät entleert Wasser | * Häufig handelt es sich um Kondenswasser. Diese Flüssigkeit ist die in der Luft enthaltene Feuchtigkeit, die bei Kontakt mit kalten Teilen der Wärmepumpe (insbesondere dem Verdampfer) kondensiert. Je feuchter die Luft, desto mehr Kondenswasser entsteht (mehrere Liter pro Tag möglich). Dieses Wasser wird vom Boden der Wärmepumpe aufgefangen und durch Ablauflöcher abgeführt.<br>* Um auszuschließen, dass das Wasser aus einem Leck im Poolkreislauf stammt, schalten Sie die Wärmepumpe aus und lassen Sie die Filterpumpe laufen. Wenn weiterhin Wasser durch die Kondensatabläufe austritt, liegt ein Wasserleck vor – kontaktieren Sie Ihren Händler. |
+| Der Verdampfer ist vereist | * Ihre Wärmepumpe schaltet bald in den Abtauzyklus, um das Eis zu schmelzen.<br>* Wenn die Wärmepumpe den Verdampfer nicht enteisen kann, stoppt sie den Betrieb – das bedeutet, die Außentemperatur ist zu niedrig (unter -12 °C). |
+| Das Gerät „raucht“ | * Dies kann während des Abtauzyklus auftreten, wenn Wasser zu Dampf wird.<br>* Wenn sich die Wärmepumpe nicht im Abtauzyklus befindet, ist das nicht normal. Schalten Sie das Gerät sofort aus, trennen Sie es vom Stromnetz und kontaktieren Sie Ihren Händler. |
+| Das Gerät funktioniert nicht | * 🔧 Wenn keine Anzeige vorhanden ist, prüfen Sie die Versorgungsspannung und die Sicherung F1.<br>* Wenn die Solltemperatur erreicht ist, stoppt die Wärmepumpe das Heizen: Die Wassertemperatur ist gleich oder höher als die Solltemperatur.<br>* Wenn kein oder zu wenig Wasserdurchfluss vorhanden ist, stoppt die Wärmepumpe: Überprüfen Sie den Wasserkreislauf (siehe § „2.5 I Menüübersicht“).<br>* Die Wärmepumpe stoppt, wenn die Außentemperatur unter -12 °C fällt.<br>* Es kann sein, dass eine Betriebsstörung erkannt wurde (siehe § „4.2 I Fehlercodeanzeige“).<br>* Das Gerät befindet sich in einem leeren Zeitfenster. Deaktivieren Sie den „Zeitraum“-Modus für manuellen Betrieb oder ändern Sie die Zeitprogrammierung. |
+| Das Gerät läuft, aber die Wassertemperatur steigt nicht | * Der Betriebsmodus ist nicht leistungsstark genug („Eco Silence“ oder „Smart“-Modus aktiv). Wechseln Sie in den „Boost“-Modus und stellen Sie die Filterung manuell auf 24/24, bis die Temperatur steigt.<br>* Es könnte eine Betriebsstörung vorliegen (siehe § „4.2 I Fehlercodeanzeige“).<br>* Prüfen Sie, ob das automatische Einlassventil offen festsitzt – dies würde ständig kaltes Wasser zuführen und das Aufheizen verhindern.<br>* Es geht zu viel Wärme verloren, weil die Luft kühl ist. Verwenden Sie eine wärmeisolierende Poolabdeckung.<br>* Der Verdampfer ist durch Schmutz verstopft und kann nicht genug Energie aufnehmen. Reinigen Sie ihn (siehe § „3.2 I Wartung“).<br>* Prüfen Sie, ob äußere Umstände die Wärmepumpe behindern (siehe § „❶ Installation“).<br>* 🔧 Stellen Sie sicher, dass die Wärmepumpe richtig dimensioniert ist für den Pool und die Umgebungsbedingungen. |
+| Der Ventilator läuft, aber der Kompressor stoppt gelegentlich ohne Fehlermeldung | * Wenn die Außentemperatur niedrig ist, führt die Wärmepumpe Abtauzyklen durch.<br>* Der Verdampfer ist möglicherweise verschmutzt und kann nicht ausreichend Energie aufnehmen. Reinigen Sie ihn (siehe § „3.2 I Wartung“). |
+| Das Gerät löst den Leitungsschutzschalter aus | * 🔧 Prüfen Sie, ob der Leitungsschutzschalter korrekt dimensioniert ist und ob die verwendete Kabelquerschnittsgröße passt (siehe § „5.2 I Technische Daten“).<br>* 🔧 Die Versorgungsspannung ist zu niedrig – wenden Sie sich an Ihren Stromversorger. |
+
+## Fehlercodeanzeige ZS500
+
+### Fehlercodeanzeige ZS500 Teil 1
+
+| Anzeige                                                                                 | Mögliche Ursachen                                                                  | Lösungen                                                                                   | Rücksetzung                                               |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| **Fehler 01**<br/>Kommunikationsfehler zwischen Steuerplatine und Anzeigetafel         | Schlechte Verbindung zwischen Platine A1 und A2                                    | Überprüfen Sie die RJ11- und RJ45-Steckverbindungen zwischen den Platinen                  | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Stromversorgungsfehler der Platinen                                                | Überprüfen Sie die Stromversorgung der Platinen                                            |                                                          |
+|                                                                                         | Defekte Platinen                                                                   | Platinen austauschen                                                                       |                                                          |
+| **Fehler 02**<br/>Überhitzung der Elektronikplatine                                     | Lüftungsschlitze an der Geräterückseite blockiert                                  | Rückwand reinigen. Falls das Problem bestehen bleibt: einen autorisierten Techniker rufen | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Ventilatormotor funktioniert nicht korrekt                                         | Ventilatormotor austauschen                                                                |                                                          |
+| **Fehler 03**<br/>Automatischer Schutz bei Netzinstabilitäten                           | Überspannung, Stromausfall oder Spannungseinbruch im Netz                          | Netzqualität prüfen                                                                        | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Fehlerhafte Erdung                                                                 | Erdungskabel prüfen und korrekt anschließen                                                |                                                          |
+|                                                                                         | Platine A1 funktioniert nicht korrekt                                              | Platine A1 austauschen                                                                     |                                                          |
+
+### Fehlercodeanzeige ZS500 Teil 2
+
+| Anzeige                                                                                 | Mögliche Ursachen                                                                  | Lösungen                                                                                   | Rücksetzung                                               |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| **Fehler 05**<br/>Fehler am Ventilatormotor                                             | Ventilatormotor nicht angeschlossen                                                | Anschluss des Ventilatormotors prüfen. Falls Problem bleibt: autorisierten Techniker rufen | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Ventilatormotor defekt                                                             | Ventilatormotor austauschen                                                                |                                                          |
+| **Fehler 06**<br/>Überhitzung der Stromversorgung des Kompressors                       | Lüftungsschlitze an der Rückwand blockiert                                         | Rückwand reinigen<br/>Falls Problem bleibt: autorisierten Techniker rufen                  | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Ventilatormotor funktioniert nicht korrekt                                         | Ventilatormotor austauschen                                                                |                                                          |
+|                                                                                         | Über- oder Unterspannung der Stromversorgung                                       | Netzspannung prüfen (max. 240V ±10 %)                                                      |                                                          |
+| **Fehler 07**<br/>Überstromversorgung des Kompressors                                   | Kompressor funktioniert nicht korrekt                                              | Kompressor austauschen                                                                     | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Platine A1 funktioniert nicht korrekt                                              | Platine A1 austauschen                                                                     |                                                          |
+|                                                                                         | Fehlanschluss der Erdungsmasse                                                     | Erdungskabel korrekt anschließen                                                           |                                                          |
+
+### Fehlercodeanzeige ZS500 Teil 3
+
+| Anzeige                                                                                 | Mögliche Ursachen                                                                  | Lösungen                                                                                   | Rücksetzung                                               |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| **Fehler 08**<br/>Niederdruckstörung im Kältekreislauf                                  | Druckfehler im Niederdruckkreis (wenn Problem nach Reset bestehen bleibt)          | Autorisierten Techniker rufen                                                              | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Wärmetauscher durch Schmutz verstopft                                              | Wärmetauscher reinigen                                                                    |                                                          |
+| **Fehler 09**<br/>Hochdruckstörung im Kältekreislauf                                    | Unzureichender Wasserdurchfluss                                                    | Durchfluss erhöhen (Bypass prüfen), Poolfilter auf Verstopfung prüfen                     | Automatisch (bei weniger als 4 Fehlern pro Stunde) oder ⏻ drücken |
+|                                                                                         | Luft-Wasser-Gemisch gelangt in das Gerät                                           | Hydrauliksystem des Pools prüfen                                                           |                                                          |
+|                                                                                         | Durchflussregler blockiert                                                         | Durchflussregler prüfen                                                                   |                                                          |
+| **Fehler 10**<br/>Sensorfehler ST3 (Abtausensor)                                        | Sensor defekt oder getrennt (J14-Stecker)                                          | Sensor wieder anschließen oder austauschen                                                 | ⏻ drücken                                                |
+| **Fehler 11**<br/>Sensorfehler ST (Lufteinlasssensor)                                   | Sensor defekt oder getrennt (J12-Stecker)                                          | Sensor wieder anschließen oder austauschen                                                 | ⏻ drücken                                                |
+| **Fehler 12**<br/>Sensorfehler ST5 (Sensor am Verdichteraustritt) | Sensor defekt oder getrennt (J13-Stecker) | Sensor wieder anschließen oder austauschen | ⏻ drücken |
+| **Fehler 13**<br/>Sensorfehler ST4 (Sensor an der Kältemittelleitung) | Sensor defekt oder getrennt (J16-Stecker) | Sensor wieder anschließen oder austauschen | ⏻ drücken |
+| **Fehler 14**<br/>Sensorfehler ST1 (Wasserzulaufsensor) | Sensor defekt oder getrennt (J46-Stecker) | Sensor wieder anschließen oder austauschen | ⏻ drücken |
+
+## Technische Spezifikationen ZS500
+
+| **ZS500** | Einheit | MD4 | MD5 | TD5 | MD8 | TD8 |
+| --------- | ------- | ---- | ---- | ---- | ---- | ---- |
+| Betriebstemperaturbereich | Luft | -12 bis 40 °C | -12 bis 40 °C | -12 bis 40 °C | -12 bis 40 °C | -12 bis 40 °C |
+| Betriebstemperaturbereich | Wasser | 12 bis 32 °C | 12 bis 32 °C | 12 bis 32 °C | 12 bis 32 °C | 12 bis 32 °C |
+| Stromversorgung |  | 220–240 V / 50 Hz | 220–240 V / 50 Hz | 380–415 V / 50 Hz | 220–240 V / 50 Hz | 380–415 V / 50 Hz |
+| Zulässige Netzspannungsschwankung |  | ±6 % (im Betrieb) | ±6 % (im Betrieb) | ±6 % (im Betrieb) | ±6 % (im Betrieb) | ±6 % (im Betrieb) |
+| Verschmutzungsklasse |  | I | I | I | I | I |
+| Verschmutzungsgrad |  | 2 | 2 | 2 | 2 | 2 |
+| Überspannungskategorie |  | III | III | III | III | III |
+| Nennstromaufnahme | A | 7,5 | 10 | 4,4 | 15 | 6 |
+| Max. Stromaufnahme | A | 10 | 13,9 | 6 | 22 | 8 |
+| Mindestleiterquerschnitt | mm² | 3 x 2,5 | 3 x 2,5 | 5 x 2,5 | 3 x 6 | 5 x 2,5 |
+| Prüfdruck | Pa | 300.000 | 300.000 | 300.000 | 300.000 | 300.000 |
+| Betriebsdruck | Pa | 150.000 | 150.000 | 150.000 | 150.000 | 150.000 |
+| Druckverlust | mWS (Meter Wassersäule) | 1,5 | 1,5 | 1,5 | 1,5 | 1,5 |
+| Empfohlener Wasserdurchfluss | m³/h | 4 | 5 | 5 | 6 | 6 |
+
+
 ## Stückliste ZS500
 
 ### Unterstückliste Elektronik ZS500
