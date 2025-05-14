@@ -5,10 +5,6 @@ parent: Z350 iQ
 
 # Problembehebung Z350 iQ
 
-- Bevor Sie sich an den Fachhändler wenden, nehmen Sie im Fall einer Betriebsstörung mithilfe der folgenden Tabellen einfache Überprüfungen vor.
-- Sollte das Problem dadurch nicht gelöst werden, wenden Sie sich bitte an Ihren Fachhändler.
-- 🔧: Einem qualifizierten Techniker vorbehaltene Maßnahmen
-
 ## Verhaltensweisen des Gerätes Z350 iQ
 
 #### Das Gerät fängt nicht sofort an zu heizen Z350 iQ
