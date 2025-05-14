@@ -1,3 +1,8 @@
+---
+title: Videosammlung
+parent: Zodiac Wärmepumpen
+---
+
 # Videosammlung
 
 ## Austausch Stopfbuchsenabdichtung
