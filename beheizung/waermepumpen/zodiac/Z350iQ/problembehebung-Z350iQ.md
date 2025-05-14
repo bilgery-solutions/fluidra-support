@@ -3,13 +3,13 @@ title: Problembehebung Z350 iQ
 parent: Z350 iQ
 ---
 
-# 4 Problembehebung Z350 iQ
+# Problembehebung Z350 iQ
 
 - Bevor Sie sich an den Fachhändler wenden, nehmen Sie im Fall einer Betriebsstörung mithilfe der folgenden Tabellen einfache Überprüfungen vor.
 - Sollte das Problem dadurch nicht gelöst werden, wenden Sie sich bitte an Ihren Fachhändler.
 - 🔧: Einem qualifizierten Techniker vorbehaltene Maßnahmen
 
-## 4.1 Verhaltensweisen des Gerätes Z350 iQ
+## Verhaltensweisen des Gerätes Z350 iQ
 
 #### Das Gerät fängt nicht sofort an zu heizen Z350 iQ
 - Zu Beginn bleibt das Gerät 30 Sekunden lang in „Pause", bevor es startet.
@@ -55,7 +55,7 @@ parent: Z350 iQ
 - 🔧 Prüfen Sie, ob der Schutzschalter korrekt bemessen ist und ob der verwendete Kabelquerschnitt korrekt ist (siehe § „5.2 Technische Daten").
 - 🔧 Die Spannung der Stromversorgung ist zu schwach. Wenden Sie sich an Ihren Stromversorger.
 
-## 4.2 Anzeige eines Fehlercodes Z350 iQ
+## Anzeige Fehlercodes Z350 iQ
 
 | Anzeige | Mögliche Ursachen | Mögliche Lösungen |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -95,7 +95,7 @@ parent: Z350 iQ
 
 Zum Beispiel zeigt das Gerät bei einem Stromausfall bei laufendem Kompressor nach dem Wiedereinschalten 3 Minuten lang den Fehler E18 an.
 
-## E18 gefolgt von einer Zahl - interner Driver-Code Z350 iQ
+### E18 gefolgt von einer Zahl - interner Driver-Code Z350 iQ
 
 Anzeigesequenz „E18" / „#"
 
@@ -115,7 +115,7 @@ Anzeigesequenz „E18" / „#"
 | 2 | Überstrom des Kompressors | Das Kabel des Kompressors ist abgetrennt oder nicht richtig angeschlossen.<br/>Der Kompressor ist beschädigt | Die Verdrahtung der Phasen des Kompressors überprüfen<br/>- Die Wicklungswerte messen<br/>- Die Isolierung des Kompressors überprüfen |
 | 18 | Die Geschwindigkeit des Motors BLDC1 ist anormal | Den Motor des Ventilators überprüfen | Den Motor des Ventilators ggf. austauschen |
 
-### 4.3 Leuchten der LEDs auf der Elektronikkarte Z350 iQ
+## Leuchten der LEDs auf der Elektronikkarte Z350 iQ
 
 | Fehler | LED5 | LED4 | LED3 | LED2 | LED1 |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
@@ -141,9 +141,7 @@ Anzeigesequenz „E18" / „#"
 ○ : LED blinkt
 Leer: LED aus
 
-## 4.4 Schaltpläne Z350 iQ
-
-!(Abbildung)
+## Bezeichnung Klemmen Z350 iQ
 
 | Symbol | Bezeichnung |
 | ------- | -------------------------------------------------- |
@@ -176,24 +174,9 @@ Leer: LED aus
 | WHT | Weiß |
 | YEL | Gelb |
 
-# 5 Kenndaten Z350 iQ
+## Technische Spezifikationen Z350 iQ
 
-## 5.1 Beschreibung Z350 iQ
-
-!(Abbildung)
-
-| A | | Z350iQ |
-| - | ------------------------------------------------------- | ------ |
-| B | Gebogene Anschlüsse Ø50 (x2) und gerade Anschlüsse (x2) | ✓ |
-| C | Kondensatableitungskit (Ø18) | ✓ |
-| D | Verschlussstopfen für die Einwinterung (x2) | ✓ |
-| E | Hülle für die Einwinterung | ✓ |
-| F | PAC NET<br/>(Reinigungsmittel) | + |
-
-✓: Mitgeliefert
-+: Verfügbar als Zubehör
-
-## 5.2 Technische Daten Z350 iQ
+### Leistungsangaben Z350 iQ
 
 #### Leistungen: Luft bei 28 °C / Wasser bei 28 °C / Luftfeuchtigkeit 80 % Z350 iQ
 
@@ -212,7 +195,7 @@ Leer: LED aus
 | Aufgenommene Leistung (max. - min. Geschwindigkeit) | kW | 1,8 - 0,4 | 2,3 - 0,5 | 2,8 - 0,6 |
 | Mittlerer COP (max. - min. Geschwindigkeit) | | 4,4 - 6,3 | 4,3 - 5,4 | 4,3 - 5 |
 
-#### Technische Daten Z350 iQ
+### Technische Daten Z350 iQ
 
 | Z350iQ | | MD4 | MD5 | MD6 |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------- | --------- |
@@ -239,27 +222,7 @@ Leer: LED aus
 | Frequenzbereiche | GHz | 2,400 - 2,497 | 2,400 - 2,497 | 2,400 - 2,497 |
 | Funkfrequenz-Übertragungsleistung | dBm | +19,5 | +19,5 | +19,5 |
 
-\* Diese Eigenschaften wurden aus den Anforderungen der Normen IEC/EN 60335-1 und IEC/EN 60035-2-40 an die Sicherheit elektrischer Geräte für den Hausgebrauch und ähnliche Zwecke ermittelt.
-
-\** Richtwerte für eine maximale Länge von 20 Metern (Berechnungsgrundlage: NFC 15- 100) müssen unbedingt entsprechend den Installationsbedingungen und den am Installationsort geltenden Normen geprüft und angepasst werden.
-
-
-## 5.3 Abmessungen und Kennzeichnung Z350 iQ
-
-!(Abbildung)
-
-| Kennzeichnung | Beschreibung |
-| ------------- | ------------------- |
-| A | Gitter |
-| B | LED-Band |
-| C | Bedieneinheit |
-| D | Technikklappe |
-| E | Beckenwassereinlauf |
-| F | Beckenwasserauslauf |
-| G | Verdampfer |
-| H | Kondensatablauf |
-
-# Stückliste Zodiac Z350 iQ Wärmepumpe Z350 iQ
+## Stückliste Z350 iQ
 
 | Artikelnummer   | Bezeichnung                    | Variante                                                                              |
 |:----------------|:-------------------------------|:--------------------------------------------------------------------------------------|
