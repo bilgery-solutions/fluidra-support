@@ -55,7 +55,7 @@ parent: Z350 iQ
 - 🔧 Prüfen Sie, ob der Schutzschalter korrekt bemessen ist und ob der verwendete Kabelquerschnitt korrekt ist (siehe § „5.2 Technische Daten").
 - 🔧 Die Spannung der Stromversorgung ist zu schwach. Wenden Sie sich an Ihren Stromversorger.
 
-## Anzeige Fehlercodes Z350 iQ
+## Fehlercodeanzeige Z350 iQ
 
 | Anzeige | Mögliche Ursachen | Mögliche Lösungen |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
