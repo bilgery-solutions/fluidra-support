@@ -7,7 +7,7 @@ parent: Z550 iQ
 
 ## Verhaltensweisen Z550 iQ
 
-### Das Gerät fängt nicht sofort an zu heizen
+### Das Gerät fängt nicht sofort an zu heizen (Z550 iQ)
 - Zu Beginn bleibt das Gerät 30 Sekunden lang in „Pause", bevor es startet.
 - Wenn die Solltemperatur erreicht ist, hört das Gerät auf zu heizen: Die Wassertemperatur ist größer oder gleich der Solltemperatur.
 - Wenn der Wasserdurchsatz Null oder unzureichend ist, wird das Gerät gestoppt: Prüfen Sie, dass das Wasser korrekt im Gerät zirkuliert und dass die hydraulischen Anschlüsse korrekt ausgeführt wurden.
@@ -15,40 +15,40 @@ parent: Z550 iQ
 - Es kann sein, dass das Gerät einen Betriebsfehler erkannt hat (siehe § „4.2 I Anzeige eines Fehlercodes").
 - Wenn diese Punkte geprüft wurden und das Problem dadurch nicht gelöst wird, wenden Sie sich an Ihren Fachhändler. |
 
-### Aus dem Gerät tritt Wasser aus
+### Aus dem Gerät tritt Wasser aus (Z550 iQ)
 - Das abgeführte Wasser, das als „Kondensat" bezeichnet wird, stammt von der in der Luft enthaltenen Feuchtigkeit, die bei der Berührung bestimmter kalter Bauteile im Gerät kondensiert, insbesondere am Verdampfer. Je feuchter die Luft ist, desto mehr Kondensat produziert das Gerät (das Gerät kann mehrere Liter pro Tag ableiten). Dieses Wasser wird durch den Boden des Gerätes gesammelt und durch den Ablauf abgeleitet.
 - Wenn Sie prüfen möchten, ob das Wasser aus einer Leckage des Schwimmbeckenkreislaufs am Gerät stammt, schalten Sie das Gerät aus und lassen Sie die Filterpumpe laufen, damit das Wasser im Gerät zirkuliert. Wenn weiterhin Wasser aus dem Kondensatablauf fließt, hat das Gerät eine Leckage. Wenden Sie sich bitte an Ihren Fachhändler. |
 
-### Am Verdampfer hat sich Eis gebildet
+### Am Verdampfer hat sich Eis gebildet (Z550 iQ)
 - Das Gerät wird gleich einen Abtauzyklus starten, um das Eis abzutauen.
 - Wenn es das Gerät nicht schafft, seinen Verdampfer abzutauen, schaltet es sich automatisch aus, weil die Außentemperatur zu niedrig ist (unter -12°C). |
 
-### Das Gerät „raucht"
+### Das Gerät „raucht" (Z550 iQ)
 - Das kann vorkommen, wenn das Gerät einen Abtauzyklus ausführt. Dann geht das Wasser in den gasförmigen Zustand über.
 - Wenn das Gerät keinen Abtauzyklus ausführt, ist das nicht normal. Schalten Sie das Gerät unverzüglich aus, ziehen Sie den Stecker und wenden Sie sich an Ihren Fachhändler. |
 
-### Das Gerät funktioniert nicht
+### Das Gerät funktioniert nicht (Z550 iQ)
 - 🔧 Wenn nichts angezeigt wird, prüfen Sie die Versorgungsspannung und die Schmelzsicherung F1.
 - Wenn die Solltemperatur erreicht ist, hört das Gerät auf zu heizen: Die Wassertemperatur ist größer oder gleich der Solltemperatur.
 - Wenn der Wasserdurchsatz Null oder unzureichend ist, wird das Gerät gestoppt: Prüfen Sie, dass das Wasser korrekt im Gerät zirkuliert.
 - Das Gerät wird gestoppt, wenn die Außentemperatur unter -12 °C sinkt.
-- Es kann sein, dass das Gerät einen Betriebsfehler erkannt hat (siehe § „4.2 I Anzeige eines Fehlercodes").
+- Es kann sein, dass das Gerät einen Betriebsfehler erkannt hat (siehe „Anzeige eines Fehlercodes").
 
-### Das Gerät funktioniert, die Wassertemperatur wird jedoch nicht erhöht
+### Das Gerät funktioniert, die Wassertemperatur wird jedoch nicht erhöht (Z550 iQ)
 - Die Betriebsart ist nicht leistungsstark genug (Gerät ist in der Betriebsart „ECOSILENCE" oder „SMART"). Wechseln Sie in die Betriebsart „BOOST" und schalten Sie die Filterung manuell auf ganztägigen Dauerbetrieb, bis die Temperatur erreicht ist.
-- Es kann sein, dass das Gerät einen Betriebsfehler erkannt hat (siehe § „4.2 I Anzeige eines Fehlercodes").
+- Es kann sein, dass das Gerät einen Betriebsfehler erkannt hat (siehe „Anzeige eines Fehlercodes").
 - Prüfen Sie, dass das automatische Füllventil nicht in offener Stellung blockiert ist. Dadurch würde ständig kaltes Wasser ins Schwimmbecken fließen und einen Temperaturanstieg verhindern.
 - Der Wärmeverlust ist zu groß, denn die Luft ist zu kühl. Bedecken Sie das Schwimmbecken mit einer isothermischen Abdeckung.
-- Das Gerät schafft es nicht, genügend Wärmeenergie (Kalorien) aufzunehmen, weil sein Verdampfer verschmutzt ist. Reinigen Sie den Verdampfer, um die Leistung wiederherzustellen (siehe § „3.2 I Instandhaltung").
-- Prüfen Sie, dass die äußere Umgebung den einwandfreien Betrieb der Wärmepumpe nicht beeinträchtigt (siehe § „1. Installation").
+- Das Gerät schafft es nicht, genügend Wärmeenergie (Kalorien) aufzunehmen, weil sein Verdampfer verschmutzt ist. Reinigen Sie den Verdampfer, um die Leistung wiederherzustellen (siehe „Instandhaltung").
+- Prüfen Sie, dass die äußere Umgebung den einwandfreien Betrieb der Wärmepumpe nicht beeinträchtigt (siehe „Installation").
 - 🔧 Prüfen Sie, dass das Gerät für dieses Schwimmbecken und seine Umgebung korrekt ausgelegt wurde.
 
-### Der Ventilator läuft, aber der Kompressor stoppt regelmäßig und ohne Fehlermeldung
+### Der Ventilator läuft, aber der Kompressor stoppt regelmäßig und ohne Fehlermeldung (Z550 iQ)
 - Wenn die Außentemperatur niedrig ist, führt das Gerät Abtauzyklen durch.
-- Das Gerät schafft es nicht, genügend Wärmeenergie (Kalorien) aufzunehmen, weil sein Verdampfer verschmutzt ist. Reinigen Sie den Verdampfer, um die Leistung wiederherzustellen (siehe § „3.2 Instandhaltung").
+- Das Gerät schafft es nicht, genügend Wärmeenergie (Kalorien) aufzunehmen, weil sein Verdampfer verschmutzt ist. Reinigen Sie den Verdampfer, um die Leistung wiederherzustellen (siehe „Instandhaltung").
 
-### Das Gerät löst den Schutzschalter aus
-- 🔧 Prüfen Sie, ob der Schutzschalter korrekt bemessen ist und ob der verwendete Kabelquerschnitt korrekt ist (siehe § „5.2 I Technische Daten").
+### Das Gerät löst den Schutzschalter aus (Z550 iQ)
+- 🔧 Prüfen Sie, ob der Schutzschalter korrekt bemessen ist und ob der verwendete Kabelquerschnitt korrekt ist (siehe „Technische Daten").
 - 🔧 Die Spannung der Stromversorgung ist zu schwach. Wenden Sie sich an Ihren Stromversorg
 
 ## Fehlercodeanzeige Z550 iQ
