@@ -34,6 +34,10 @@ a, .main-content .anchor-heading svg, .search-result-doc .search-result-icon, .s
   background-size: cover;
 }
 
+.site-button {
+  font-size: medium;
+}
+
 // Search
 @media (min-width: 50rem) {
   .search-results, .search-active .search-input-wrap, .search-input, .search-input-wrap {
