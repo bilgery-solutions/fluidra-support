@@ -14,6 +14,7 @@ parent: Dosieranlagen (flüssig Chlor)
 | AC20562 | Pufferlösung pH 7 | Zum kalibrieren der pH Sensoren |
 | AC20561 | Pufferlösung pH 4 | Zum kalibrieren der pH Sensoren |
 | AC20560 | Pufferlösung 475mV | Zum Überprüfen der Funktion des Redox Sensors |
+| AC20134 | SN6 Buchse mit Kabel; Anschluss für pH- und Redox Sensor | Für **alle** Aquacontrol Dosieranlagen geeignet |
 
 ## Ersatzteile Schlauchpumpen
 
