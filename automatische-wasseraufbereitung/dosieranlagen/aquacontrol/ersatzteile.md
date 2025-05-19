@@ -24,8 +24,9 @@ parent: Dosieranlagen (flüssig Chlor)
 | D199166702 | Rotor/Drehkreuz für Schlauchpumpe | Für alle Aquacontrol Dosieranlagen mit 1,6l/h und 2,4l/h Schlauchpumpen |
 | 47190060 | Dosierkopf/Gehäuse für Schlauchpumpe | Für alle Aquacontrol Dosieranlagen mit 1,6l/h und 2,4l/h Schlauchpumpen |
 | D199166703 | Klarsichtdeckel für Schlauchpumpe | Für alle Aquacontrol Dosieranlagen mit 1,6l/h und 2,4l/h Schlauchpumpen |
-| 20235822 | Motor für Schlauchdosierpumpe | Für alle Aquacontrol Dosieranlagen der Deluxe und Professional *Familie* |
-| 47190022 | Motor für Schlauchdosierpumpe | Für alle Aquacontrol Dosieranlagen der Basic *Familie* |
+| 20235822 | Motor für Schlauchpumpe | Für alle Aquacontrol Dosieranlagen der Deluxe und Professional *Familie* |
+| 47190022 | Motor für Schlauchpumpe | Für alle Aquacontrol Dosieranlagen der Basic *Familie* |
+| 4719056 | Kugellager für Schlauchpumpe | Für **alle** Aquacontrol Dosieranlagen |
 
 
 ## Sauglanzen
