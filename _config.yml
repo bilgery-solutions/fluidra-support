@@ -96,9 +96,9 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "FAQ erstellen":
-    - "https://forms.office.com/r/Krq1JLGNdE"
+    - "https://bilgery-solutions.github.io/fluidra-support/faq"
   "Feedback geben":
-    - "https://forms.office.com/r/FCAkrdXeTj"
+    - "https://bilgery-solutions.github.io/fluidra-support/feedback"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
