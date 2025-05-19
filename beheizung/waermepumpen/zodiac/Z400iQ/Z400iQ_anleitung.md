@@ -1,5 +1,5 @@
 ---
-nav_exlude: true
+nav_exclude: true
 ---
 
 
