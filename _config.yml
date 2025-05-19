@@ -101,7 +101,7 @@ aux_links:
     - "https://bilgery-solutions.github.io/fluidra-support/feedback"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: true
+aux_links_new_tab: false
 
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
