@@ -7,7 +7,8 @@ parent: Aquacontrol Poolsteuerungen
 
 | SKU | Bezeichnung | Bemerkung |
 | --- | --- | --- |
-| AC-PC-1A-1 | Poolcontrol 230 V | |
+| AC-PC-1A-1 | Poolcontrol 230 V mit digitaler Zeitschaltuhr | |
+| AC-PC-1A | Poolcontrol 230 V mit mechanischer Zeitschaltuhr | Auch "analoge Zeitschaltuhr" genannt |
 | AC-PC-3D-DE | Poolconsulting 400 V | |
 | AC-PC-1E | Poolconsulting Premium | |
 | AC-FC-1A-1 | Filtercontrol 230 V | nicht mehr im Sortiment. Nur solange der Vorrat reicht |
