@@ -9,9 +9,9 @@ parent: Aquacontrol Poolsteuerungen
 
 | Hersteller | Artikelnummer | Bezeichnung | Funktionen |
 |---|---|---|---|
-| **Aquacontrol** | AC-PC-1A-1 | Poolcontrol 230 V (digitale Zeitschaltuhr) | Filtersteuerung 230 V Pumpe <br> Digitale Zeitschaltuhr <br> Heizungssteuerung <br> Solarsteuerung |
-| **Aquacontrol** | AC-PC-1A | Poolcontrol 230V (mechanische Zeitschaltuhr) | Filtersteuerung 230V Pumpe <br> Mechanische Zeitschaltuhr <br> Heizungssteuerung <br> Solarsteuerung |
-| **OSF** | 3.00.270.0110 | PC-230-ES | Filtersteuerung 230 V Pumpe <br> mechanische Zeitschaltuhr <br> Heizungssteuerung |
+| **Aquacontrol** | AC-PC-1A-1 | Poolcontrol 230 V (digitale Zeitschaltuhr) | • Filtersteuerung 230 V Pumpe <br>• Digitale Zeitschaltuhr <br>• Heizungssteuerung <br>• Solarsteuerung |
+| **Aquacontrol** | AC-PC-1A | Poolcontrol 230V (mechanische Zeitschaltuhr) | • Filtersteuerung 230V Pumpe <br>• Mechanische Zeitschaltuhr <br>• Heizungssteuerung <br>• Solarsteuerung |
+| **OSF** | 3.00.270.0110 | PC-230-ES | • Filtersteuerung 230 V Pumpe <br>• mechanische Zeitschaltuhr <br>• Heizungssteuerung |
 
 ## Aquacontrol Poolcontrol 400 V
 
