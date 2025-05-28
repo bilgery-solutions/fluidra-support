@@ -32,7 +32,7 @@ parent: Aquacontrol Poolsteuerungen
 
 | Hersteller | Artikelnummer | Bezeichnung | Funktionen |
 |---|---|---|---|
-| **Aquacontrol** | AC-PC-1D-DE | Poolconsulting 230 V | • Filtersteuerung 230V Pumpe <br>• Rück- und Klarspülung mittels Stangenventilen <br>• Heizungssteuerung <br>• Solarsteuerung |
+| **Aquacontrol** | AC-PC-3D-DE | Poolconsulting 400 V | • Filtersteuerung 400 V Pumpe <br>• Rück- und Klarspülung mittels Stangenventilen <br>• Heizungssteuerung <br>• Solarsteuerung |
 | **OSF** | 310.000.0440 | Pool-Control-250 | • Filtersteuerung 400V Pumpe <br>• Rück- und Klarspülung mittels Stangenventilen <br>• Heizungssteuerung <br>• Solarsteuerung |
 
 ## Aquacontrol Poolconsulting Premium
