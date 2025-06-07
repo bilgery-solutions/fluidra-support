@@ -1,6 +1,7 @@
 ---
 title: Anleitung Z350 iQ 
 parent: Z350 iQ
+nav_exclude: true
 ---
 
 # Anleitung Zodiac Z350 iQ Wärmepumpe
