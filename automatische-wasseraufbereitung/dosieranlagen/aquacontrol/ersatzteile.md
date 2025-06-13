@@ -35,7 +35,7 @@ parent: Dosieranlagen (flüssig Chlor)
 | --- | --- | --- |
 | AC20433 | Sauglanze mit Niveauschalter für pH | Für **alle** Aquacontrol Dosieranlagen / Kann auch anstelle von AC20435 verwendet werden |
 | AC20435 | Sauglanze mit Niveauschalter für Desinfektionsmittel | Für **alle** Aquacontrol Dosieranlagen / Kann auch anstelle von AC20433 verwendet werden |
-| 47191071 | Sauglanzen Paar | Für **alle** Aquacontrol Dosieranlagen |
+| 47191071 | Sauglanzen Paar | Für **alle** Aquacontrol Dosieranlagen; auch unter 47191070 angelegt |
 | 20442 | Doppelstecker für Sauglanzen | Zum Verbinden von zwei Sauglanzen zu einem Paar |
 
 ## Impfventile
