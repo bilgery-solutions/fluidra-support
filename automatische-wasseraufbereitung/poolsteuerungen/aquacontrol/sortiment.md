@@ -18,3 +18,4 @@ parent: Aquacontrol Poolsteuerungen
 | AC-PC-1D-DE | Poolconsulting 230 V | nicht mehr im Sortiment. Alternative -> Poolconsulting Premium (AC-PC-1E) |
 | AC49227E | SC 230 Temperaturregler | nicht mehr im Sortiment|
 | AC-SC3ADE | Solarsteuerung SC 3 | nicht mehr im Sortiment. Alternative -> Poolcontrol 230 (AC-PC-1A-1) |
+| 611914001 | kapazitive Sensoren | für Skimmerregelung |
