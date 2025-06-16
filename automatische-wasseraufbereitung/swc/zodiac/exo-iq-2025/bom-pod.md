@@ -1,6 +1,6 @@
 ---
 title: Stückliste POD
-parent: Zodiac Salzwasser Elektrolyse Geräte
+parent: eXO iQ 2025
 ---
 
 # Stückliste POD
