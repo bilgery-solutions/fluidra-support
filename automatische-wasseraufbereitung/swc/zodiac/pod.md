@@ -16,3 +16,4 @@ parent: Zodiac Salzwasser Elektrolyse Geräte
 | R0770000 | Rohradapter | EU-Version |
 | R0738100 | Impfventil | 1/2" Gewinde |
 | R0740500 | Gewindestopfen | 1/2" Gewinde |
+| R0749000 | Deckel | |
