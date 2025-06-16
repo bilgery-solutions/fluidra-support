@@ -1,6 +1,6 @@
 ---
 title: Stückliste POD
-parent: Zodiac
+parent: Zodiac Salzwasser Elektrolyse geräte
 ---
 
 # Stückliste POD
