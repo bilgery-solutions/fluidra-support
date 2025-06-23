@@ -10,3 +10,8 @@ parent: Zodiac Salzwasser Elektrolyse Geräte
 | R0819800 | pH-Sensor | Alle Zodiac Geräte, Alle Astral Geräte | Glasschaft, BNC-Stecker, Prominent |
 | R0985600 | Ersatzschlauch für Schlauchpumpe | Alle eXO iQ | |
 
+## Zusätzliche 
+
+| Artikelnummer | Bezeichnung | Geeignet für | Bemerkung |
+|---|---|---|---|
+| R0808000 | Sauglanze | Alle Geräte mit Klemmen für Füllstandüberwachung | |
