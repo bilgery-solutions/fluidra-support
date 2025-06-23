@@ -26,8 +26,9 @@ parent: Aquark Wärmepumpen
 |SKU Fluidra| 77582 | 77581 | 77583 | 77580 |
 |SKU Meranus| |34300000|34300001|34300002|
 
-## Nr. Inversmart
+## Eco Inverter Wärmepumpe
 
-|Modell|ISTC 07|ISTC 09|ISTC 13|ISTC 16| ISTC 20 |ISTC 24|
-|---|---|---|---|---|---|---|
-| SKU Fluidra | SC974 | SC975 | SC976 | SC977 | SC978 | SC979 |
+| Modell | ME 6 | ME 10 | ME 13 |
+|---|---|---|---|
+| SKU Fluidra | nicht gelistet | nicht gelistet | nicht gelistet |
+| SKU Meranus | 3439020 | 3439021 | 3439022 |
