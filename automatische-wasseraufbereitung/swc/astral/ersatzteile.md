@@ -7,4 +7,4 @@ parent: Astral Salzwasser Elektrolyse Geräte
 
 | Artikelnummer | Bezeichnung | Geeignet für | Bemerkung |
 |---|---|---|---|
-| 60648 | pH-Sensor | Alle Control Connect, Alle Elite Connect, Alle Energy Connect | |
+| 60648 | pH-Sensor | Alle Control Connect, Alle Elite Connect, Alle Energy Connect | Kunststoffschaft, BNC Stecker |
