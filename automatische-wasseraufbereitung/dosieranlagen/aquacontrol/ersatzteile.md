@@ -48,4 +48,4 @@ parent: Dosieranlagen (flüssig Chlor)
 
 | SKU | Bezeichnung | Bemerkung |
 | --- | --- | --- |
-| D145300104 | Wasserfühler mit 5m Kabel | Für **alle** Aquacontrol Dosieranlagen |
+| AC-WF | Wasserfühler mit 5m Kabel | Für **alle** Aquacontrol Dosieranlagen |
