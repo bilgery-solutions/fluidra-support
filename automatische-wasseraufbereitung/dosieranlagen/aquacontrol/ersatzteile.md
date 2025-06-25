@@ -49,3 +49,9 @@ parent: Dosieranlagen (flüssig Chlor)
 | SKU | Bezeichnung | Bemerkung |
 | --- | --- | --- |
 | AC-WF | Wasserfühler mit 5m Kabel | Für **alle** Aquacontrol Dosieranlagen |
+
+## Platinen
+
+| SKU | Bezeichnung | Bemerkung |
+| --- | --- | --- |
+| 004162002 | Platine Cl2 Deluxe | Ger/En/Nl |
