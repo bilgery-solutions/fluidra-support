@@ -51,6 +51,23 @@ parent: Dosieranlagen (flüssig Chlor)
 | --- | --- | --- |
 | AC-WF | Wasserfühler mit 5m Kabel | Für **alle** Aquacontrol Dosieranlagen |
 
+## Messwasseranschluss
+
+| SKU | Aquacontrol Art.-Nr. | Bezeichnung | Bemerkung |
+| --- | --- | --- | --- |
+| | 202633 | PVC Klebesattel 1/4" Innengewinde, 50mm | |
+| | 1201412 | Einschraubverbindung für Minikugelhahn 1/4" Außengewinde | |
+| | 201412 | PVC Minikugelhahn | |
+| | 2013822 | Sicherungsring rot | |
+
+## Dosieranschluss
+
+| SKU | Aquacontrol Art.-Nr. | Bezeichnung | Bemerkung |
+| --- | --- | --- | --- |
+| | l202681 | PVC-T-Stück 50/32 mm | Abgefrästes kurzes Ende|
+| | 202571 | PVC Einklebstück mit Innengewinde 3/8", 32mm | wird in T-Stück eingeklebt |
+| | 20232 | Impfventil 3/8" Außengewinde | |
+
 ## Platinen
 
 | SKU | Bezeichnung | Bemerkung |
