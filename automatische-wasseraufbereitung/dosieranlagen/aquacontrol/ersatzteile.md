@@ -55,10 +55,10 @@ parent: Dosieranlagen (flüssig Chlor)
 
 | SKU | Aquacontrol Art.-Nr. | Bezeichnung | Bemerkung |
 | --- | --- | --- | --- |
-| | 202633 | PVC Klebesattel 1/4" Innengewinde, 50mm | |
-| | 1201412 | Einschraubverbindung für Minikugelhahn 1/4" Außengewinde | |
-| | 201412 | PVC Minikugelhahn | |
-| | 2013822 | Sicherungsring rot | |
+| AC202633 | 202633 | PVC Klebesattel 1/4" Innengewinde, 50mm | |
+| AC1201412 | 1201412 | Einschraubverbindung für Minikugelhahn 1/4" Außengewinde | |
+| AC2023589 | 201412 | PVC Minikugelhahn | |
+| AC2013822 | 2013822 | Sicherungsring rot | |
 
 ## Dosieranschluss
 
