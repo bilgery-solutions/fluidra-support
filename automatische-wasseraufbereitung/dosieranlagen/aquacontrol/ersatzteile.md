@@ -72,4 +72,6 @@ parent: Dosieranlagen (flüssig Chlor)
 
 | SKU | Bezeichnung | Bemerkung |
 | --- | --- | --- |
-| 004162002 | Platine Cl2 Deluxe | Ger/En/Nl |
+| 004162002 | Platinensatz Cl2 Deluxe | Ger/En/Nl |
+| AC39315 | Platinensatz Professional | |
+| 004162515 | Platinensatz Exclusiv | |
