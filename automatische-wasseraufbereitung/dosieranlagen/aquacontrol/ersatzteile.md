@@ -28,6 +28,7 @@ parent: Dosieranlagen (flüssig Chlor)
 | 47190022 | Motor für Schlauchpumpe | Für alle Aquacontrol Dosieranlagen der Basic *Familie* |
 | 4719056 | Kugellager für Schlauchpumpe | Für **alle** Aquacontrol Dosieranlagen |
 | 47191253 | Torx Schraube für Schlauchpumpe | 3 Schrauben pro Pumpe |
+| AC2023584 | Flachdichtung für Schlauchpumpe | |
 
 
 ## Sauglanzen
