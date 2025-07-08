@@ -1,5 +1,6 @@
 ---
-title: IOT leitfaden
+title: Verbindungsprobleme Leitfaden
+parent: IOT
 ---
 
 # 🛠️ **Leitfaden: Wenn ein IoT-Gerät keine Verbindung aufbauen kann**
