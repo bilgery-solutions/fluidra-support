@@ -1,5 +1,6 @@
 ---
-title: Leitfaden für Verbindungsprobleme mit Cloud (W-Lan aktiv)
+title: Verbindungsprobleme trotz W-Lan
+parent: IOT
 ---
 
 # 🚨 Leitfaden: Gerät ist mit WLAN verbunden, aber nicht in der App sichtbar
