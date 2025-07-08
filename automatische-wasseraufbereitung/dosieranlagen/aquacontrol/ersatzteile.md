@@ -29,6 +29,7 @@ parent: Dosieranlagen (flüssig Chlor)
 | 4719056 | Kugellager für Schlauchpumpe | Für **alle** Aquacontrol Dosieranlagen |
 | 47191253 | Torx Schraube für Schlauchpumpe | 3 Schrauben pro Pumpe |
 | AC2023584 | Flachdichtung für Schlauchpumpe | |
+| 4719127 | OEM Deluxe Pumpe 2,4 L/h | Für Deluxe und Professional |
 
 
 ## Sauglanzen
