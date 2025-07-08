@@ -20,7 +20,7 @@ parent: Dosieranlagen (flüssig Chlor)
 
 | SKU | Bezeichnung | Bemerkung |
 | --- | --- | --- |
-| 7010051 | Ersatzschlauch Pharmed für Schlauchpumpe | Für Aquacontrol Dosieranlagen |
+| AC701005 | Ersatzschlauch Pharmed für Schlauchpumpe | Für Aquacontrol Dosieranlagen |
 | D199166702 | Rotor/Drehkreuz für Schlauchpumpe | Für alle Aquacontrol Dosieranlagen mit 1,6l/h und 2,4l/h Schlauchpumpen |
 | 47190060 | Dosierkopf/Gehäuse für Schlauchpumpe | Für alle Aquacontrol Dosieranlagen mit 1,6l/h und 2,4l/h Schlauchpumpen |
 | D199166703 | Klarsichtdeckel für Schlauchpumpe | Für alle Aquacontrol Dosieranlagen mit 1,6l/h und 2,4l/h Schlauchpumpen |
