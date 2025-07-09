@@ -1,4 +1,4 @@
 ---
-title: Astral Leuchten
+title: Astral Scheinwerfer
 parent: LED Scheinwerfer
 ---
