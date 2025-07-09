@@ -1,5 +1,5 @@
 ---
-title: Begriffserklärungen und Abkürzungen
+title: Abkürzungen & Fachbegriffe
 parent: IOT
 ---
 
