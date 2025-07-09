@@ -5,9 +5,6 @@ parent: IOT
 
 ## 📚 **Wichtige Abkürzungen & Fachbegriffe – einfach erklärt**
 
-* **WLAN** – *Wireless Local Area Network*
-  → Funknetzwerk, z. B. dein Heim-WLAN – Verbindung zwischen Geräten ohne Kabel
-
 * **SSID** – *Service Set Identifier*
   → Der **Name deines WLANs**, z. B. „MeinRouter123“
 
@@ -46,9 +43,6 @@ parent: IOT
 
 * **MQTT** – *Message Queuing Telemetry Transport*
   → Ein **leichtgewichtiges Protokoll für IoT-Kommunikation**, häufig bei Cloud-Verbindung genutzt
-
-* **UART** – *Universal Asynchronous Receiver Transmitter*
-  → Serielle Schnittstelle zur direkten Kommunikation mit dem Gerät (z. B. für Logs und Debugging)
 
 * **MAC-Adresse** – *Media Access Control Address*
   → **Hardware-Adresse** der Netzwerkkarte – eindeutig für jedes Gerät
