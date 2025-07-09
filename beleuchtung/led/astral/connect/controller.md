@@ -1,3 +1,8 @@
+---
+title: Connect Controller
+parent: Connect Scheinwerfer
+---
+
 # Verhalten Connect Controller
 
 ## Connect Leuchte angeschlossen
