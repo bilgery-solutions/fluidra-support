@@ -83,3 +83,4 @@ parent: Dosieranlagen (flüssig Chlor)
 | SKU | Bezeichnung | Bemerkung |
 | --- | --- | --- |
 | 004162301 | Elektrolysezelle RP15 | für Aquacontrol Exclusiv |
+| 004162302 | Elektrolysezelle RP35 | |
