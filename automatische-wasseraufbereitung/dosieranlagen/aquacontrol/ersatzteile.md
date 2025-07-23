@@ -77,3 +77,9 @@ parent: Dosieranlagen (flüssig Chlor)
 | 004162002 | Platinensatz Cl2 Deluxe | Ger/En/Nl |
 | AC39315 | Platinensatz Professional | |
 | 004162515 | Platinensatz Exclusiv | |
+
+## Sonstiges
+
+| SKU | Bezeichnung | Bemerkung |
+| --- | --- | --- |
+| 004162301 | Elektrolysezelle RP15 | für Aquacontrol Exclusiv |
