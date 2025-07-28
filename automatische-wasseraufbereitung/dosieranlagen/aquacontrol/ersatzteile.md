@@ -73,7 +73,7 @@ parent: Dosieranlagen (flüssig Chlor)
 ## Durchflusssensor
 
 | SKU | Bezeichnung | Lieferant | Lieferantenartikelnummer |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 48215 | Durchflusssensor | Conrad | FCS-01 1 |
 | 2013823 | Schlauchanschluss 3/8" IG | RWC | PM450813E |
 | 48212 | Flachdichtung 15 x 8 x 2 mm Viton | Mrose | DT 8005 |
