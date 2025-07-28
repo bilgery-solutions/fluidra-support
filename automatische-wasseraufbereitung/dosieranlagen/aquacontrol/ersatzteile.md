@@ -70,6 +70,16 @@ parent: Dosieranlagen (flüssig Chlor)
 | | 202571 | PVC Einklebstück mit Innengewinde 3/8", 32mm | wird in T-Stück eingeklebt |
 | | 20232 | Impfventil 3/8" Außengewinde | |
 
+## Durchflusssensor
+
+| SKU | Bezeichnung | Lieferant | Lieferantenartikelnummer |
+| --- | --- | --- |
+| 48215 | Durchflusssensor | Conrad | FCS-01 1 |
+| 2013823 | Schlauchanschluss 3/8" IG | RWC | PM450813E |
+| 48212 | Flachdichtung 15 x 8 x 2 mm Viton | Mrose | DT 8005 |
+| 004162201 | Gewindeadapter 3/8" IG, 1/4" AG | Gerloff | |
+| 2013822 | Sicherungsring rot | RWC | PMC1808R |
+
 ## Platinen
 
 | SKU | Bezeichnung | Bemerkung |
