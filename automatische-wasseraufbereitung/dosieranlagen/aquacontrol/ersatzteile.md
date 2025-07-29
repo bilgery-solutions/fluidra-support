@@ -41,6 +41,15 @@ parent: Dosieranlagen (flüssig Chlor)
 | 47191071 / 47191070 | Sauglanzen Paar | Für **alle** Aquacontrol Dosieranlagen; auch unter 47191070 angelegt |
 | 20442 | Doppelstecker für Sauglanzen | Zum Verbinden von zwei Sauglanzen zu einem Paar |
 
+## Messwasserzellen
+
+| SKU | Bezeichnung | Bemerkung
+| --- | --- | --- |
+| AC20170C | Messwasserzelle ABS | für Cl2 |
+| AC20170Z | Messwasserzelle ABS | für SL3 |
+| 2017111 | Messwasserzelle Acryl | für Cl2 |
+| 4720172 | Messwasserzelle Professional Acryl | für Professional |
+
 ## Impfventile
 
 | SKU | Bezeichnung | Bemerkung |
