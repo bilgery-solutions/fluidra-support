@@ -75,8 +75,9 @@ parent: Dosieranlagen (flüssig Chlor)
 
 | SKU | Aquacontrol Art.-Nr. | Bezeichnung | Bemerkung |
 | --- | --- | --- | --- |
-| | l202681 | PVC-T-Stück 50/32 mm | Abgefrästes kurzes Ende|
-| | 202571 | PVC Einklebstück mit Innengewinde 3/8", 32mm | wird in T-Stück eingeklebt |
+| ACl202681 | l202681 | PVC-T-Stück 50/32 mm | Abgefrästes kurzes Ende|
+| 47190462 | 202571 | PVC Einklebstück mit Innengewinde 3/8", 32mm | wird in T-Stück eingeklebt |
+| 47191111 | | Impfstelle d50 3/8" IG | ACl202681 + 47190462 |
 | | 20232 | Impfventil 3/8" Außengewinde | |
 
 ## Durchflusssensor
