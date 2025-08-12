@@ -79,6 +79,8 @@ parent: Dosieranlagen (flüssig Chlor)
 | 47190462 | 202571 | PVC Einklebstück mit Innengewinde 3/8", 32mm | wird in T-Stück eingeklebt |
 | 47191111 | | Impfstelle d50 3/8" IG | ACl202681 + 47190462 |
 | | 20232 | Impfventil 3/8" Außengewinde | |
+| 51150648 | | Abohrschelle d50 mm, 1/2" IG | Alternative für T-Stück |
+| 02272 | | Gewindeadapter 1/2" AG, 3/8" IG | Alternative für T-Stück |
 
 ## Durchflusssensor
 
